@@ -7,7 +7,7 @@ Hier ist eine Compose-Datei für **Watchtower** auffindbar.
 
 Mit **Watchtower** können Sie die laufende Version Ihrer containerisierten Anwendung aktualisieren, indem Sie einfach ein neues Image in den Docker Hub oder in Ihre eigene Image-Registry pushen. **Watchtower** wird Ihr neues Image herunterladen, Ihren bestehenden Container ordnungsgemäß herunterfahren und ihn mit denselben Optionen neu starten, die beim ursprünglichen Deployment verwendet wurden.
 
-Schnnelstart mit ``docker run``:
+Schnellstart mit ``docker run``:
 
 ```
 docker run -d \
