@@ -1,7 +1,7 @@
 # Tipps und Tricks
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
-Hier ist die Compose-Datei für Keycloak auffindbar.
+Hier ist die Compose-Datei für **Keycloak** auffindbar.
 
 ## Keycloak
 
