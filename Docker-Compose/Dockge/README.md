@@ -3,6 +3,16 @@
 
 ## Dockge
 
+Mit **Dodge** ist es auf einfache Art möglich, Container per Weboberfläche zu verwalten. Somit kann **Dodge** als Alternative zu _Portainer_ angesehen werden.
+
+## Screenshot
+
+![Screenshot](Screenshot.png)
+
+---
+
+## Inhalt der Website
+
 Ein ausgefallener, einfach zu bedienender und reagierender, selbst gehosteter docker compose.yaml Stack-orientierter Manager.
 
 ⭐ Merkmale
