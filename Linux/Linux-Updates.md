@@ -8,11 +8,15 @@ Hier sind Tipps und Tricks zu **Linux-Updates** auffindbar.
 
 ## Debian-basierte Linux-Distributuionen
 
-Debian, Ubuntu, Linux Mint, …
+* Debian, Ubuntu, Linux Mint, …
 
-Mit ``apt update wird die Paket-Quellen aktualisiert``
+Diese Distros nutzen om Allgemeinen **APT** zur Paketverwaltung.
+
+Mit ``apt update`` werden die Paket-Quellen aktualisiert.
 
 Anschließend können die Pakte mit ``apt upgrade`` aktualisiert werden.
+
+#### TL;DR
 
 ```
 apt update && apt upgrade -y
@@ -20,15 +24,18 @@ apt update && apt upgrade -y
 
 ## Arch-basierte Linux-Distributionen
 
-Arch, Manjaro, …
+* Arch, Manjaro, …
+
+```
+sudo pacman -Syu
+```
 
 ## RPM-basierten Linux-Distributionen
 
-Fedora, …
+* Fedora, …
 
 Diese Distros nutzen häufig DNF als Paketmanager
 
 ```
 dnf upgrade
 ```
-
