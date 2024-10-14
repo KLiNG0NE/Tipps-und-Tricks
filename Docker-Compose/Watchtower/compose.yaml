@@ -6,14 +6,16 @@ services:
     restart: unless-stopped
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+      # Zeitzone des Systems nutzen
+      # /etc/localtime:/etc/localtime:ro
     environment:
-      - TZ=CET
-      - WATCHTOWER_POLL_INTERVAL=21600
-      - WATCHTOWER_MONITOR_ONLY=false
-      - WATCHTOWER_NOTIFICATIONS_LEVEL=info
-      - WATCHTOWER_NOTIFICATIONS_HOSTNAME=
-      - WATCHTOWER_NOTIFICATIONS_DELAY=
-      - WATCHTOWER_NOTIFICATION_TITLE_TAG=Dockge
+      - TZ=CET # Zeitzone (Central European Time)
+      - WATCHTOWER_POLL_INTERVAL=21600 # Aufrufintervall in Sekunden (21600 Sek. = 360 Min. = 6 Std.)
+      - WATCHTOWER_MONITOR_ONLY=false # Nur überwachen / keine Aktualisierung
+      - WATCHTOWER_NOTIFICATIONS_LEVEL=info # Benachrichtigungs-Level
+      - WATCHTOWER_NOTIFICATIONS_HOSTNAME= # Benachrichtigungs-Hostname
+      - WATCHTOWER_NOTIFICATIONS_DELAY= # Benachrichtigungs-Verzögerung
+      - WATCHTOWER_NOTIFICATION_TITLE_TAG=Watchtower # Benachrichtigungs-Titel
     depends_on: []
 networks: {}
 x-dockge:
