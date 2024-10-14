@@ -9,13 +9,20 @@ services:
       # Zeitzone des Systems nutzen
       # /etc/localtime:/etc/localtime:ro
     environment:
-      - TZ=CET # Zeitzone (Central European Time)
-      - WATCHTOWER_POLL_INTERVAL=21600 # Aufrufintervall in Sekunden (21600 Sek. = 360 Min. = 6 Std.)
-      - WATCHTOWER_MONITOR_ONLY=false # Nur überwachen / keine Aktualisierung
-      - WATCHTOWER_NOTIFICATIONS_LEVEL=info # Benachrichtigungs-Level
-      - WATCHTOWER_NOTIFICATIONS_HOSTNAME= # Benachrichtigungs-Hostname
-      - WATCHTOWER_NOTIFICATIONS_DELAY= # Benachrichtigungs-Verzögerung
-      - WATCHTOWER_NOTIFICATION_TITLE_TAG=Watchtower # Benachrichtigungs-Titel
+      # Zeitzone (Central European Time)
+      - TZ=CET
+      # Aufrufintervall in Sekunden (21600 Sek. = 360 Min. = 6 Std.)
+      - WATCHTOWER_POLL_INTERVAL=21600
+      # Nur überwachen / keine Aktualisierung
+      - WATCHTOWER_MONITOR_ONLY=false
+      # Benachrichtigungs-Level
+      - WATCHTOWER_NOTIFICATIONS_LEVEL=info
+      # Benachrichtigungs-Hostname
+      - WATCHTOWER_NOTIFICATIONS_HOSTNAME=
+      # Benachrichtigungs-Verzögerung
+      - WATCHTOWER_NOTIFICATIONS_DELAY=
+      # Benachrichtigungs-Titel
+      - WATCHTOWER_NOTIFICATION_TITLE_TAG=Watchtower
     depends_on: []
 networks: {}
 x-dockge:
