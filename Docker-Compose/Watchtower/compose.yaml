@@ -1,0 +1,22 @@
+version: "3.3"
+services:
+  watchtower:
+    container_name: watchtower
+    image: containrrr/watchtower
+    restart: unless-stopped
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - TZ=CET
+      - WATCHTOWER_POLL_INTERVAL=21600
+      - WATCHTOWER_MONITOR_ONLY=false
+      - WATCHTOWER_NOTIFICATIONS_LEVEL=info
+      - WATCHTOWER_NOTIFICATIONS_HOSTNAME=
+      - WATCHTOWER_NOTIFICATIONS_DELAY=
+      - WATCHTOWER_NOTIFICATION_TITLE_TAG=Dockge
+    depends_on: []
+networks: {}
+x-dockge:
+  urls:
+    - https://containrrr.dev/watchtower/
+    - https://github.com/containrrr/watchtower
