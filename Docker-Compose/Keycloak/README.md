@@ -12,4 +12,4 @@ Mit der Speicherung von Benutzern oder der Authentifizierung von Benutzern muss 
 
 Keycloak bietet Benutzerföderation, starke Authentifizierung, Benutzerverwaltung, detaillierte Autorisierung, und mehr.
 
-[keycloak.org](https://www.keycloak.org/)
+Website: [keycloak.org](https://www.keycloak.org/)
