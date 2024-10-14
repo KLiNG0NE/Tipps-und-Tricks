@@ -1,26 +1,23 @@
 services:
   dockge:
     container_name: dockge01
-    labels:
-      - "com.centurylinklabs.watchtower.enable=false"
-    image: louislam/dockge:1
-    
+    image: louislam/dockge:1    
     restart: unless-stopped
     ports:
-      # Host Port : Container Port
+      # Host-Port : Container-Port
       - 5001:5001
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./data:/app/data
 
-      # If you want to use private registries, you need to share the auth file with Dockge:
+      # Wenn Sie private Registrierungen verwenden möchten, müssen Sie die Autorisierungsdatei mit Dockge teilen:
       # - /root/.docker/:/root/.docker
 
-      # Stacks Directory
-      #  ^z   ^o READ IT CAREFULLY. If you did it wrong, your data could end up writing into a WRONG PATH.
-      #  ^z   ^o 1. FULL path only. No relative path (MUST)
-      #  ^z   ^o 2. Left Stacks Path === Right Stacks Path (MUST)
+      # Stapel-Verzeichnis
+      #  ^z   ^o SORGFÄLTIG LESEN. Wenn Sie etwas falsch machen, könnten Ihre Daten in einen FALSCHEN PFAD geschrieben werden.
+      #  ^z   ^o 1. Nur vollständiger Pfad. Kein relativer Pfad (PFLICHT)
+      #  ^z   ^o 2. Pfad des linken Stapels === Pfad des rechten Stapels (PFLICHT)
       - /opt/stacks:/opt/stacks
     environment:
-      # Tell Dockge where is your stacks directory
+      # Informieren Sie Dockge, wo sich Ihr Stack-Verzeichnis befindet
       - DOCKGE_STACKS_DIR=/opt/stacks
