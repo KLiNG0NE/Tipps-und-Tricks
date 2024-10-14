@@ -10,7 +10,7 @@ Hier sind Tipps und Tricks zu **Linux-Updates** auffindbar.
 
 * Debian, Ubuntu, Linux Mint, …
 
-Diese Distros nutzen om Allgemeinen **APT** zur Paketverwaltung.
+Diese Distros nutzen im Allgemeinen **APT** zur Paketverwaltung.
 
 Mit ``apt update`` werden die Paket-Quellen aktualisiert.
 
@@ -34,7 +34,7 @@ sudo pacman -Syu
 
 * Fedora, …
 
-Diese Distros nutzen häufig DNF als Paketmanager
+Diese Distros nutzen häufig **DNF** (Dandified Yum) als Paketmanager
 
 ```
 dnf upgrade
