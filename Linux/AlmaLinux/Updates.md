@@ -4,7 +4,7 @@
 
 Hier wird gezeigt, wie AlmaLinux aktualisiert wird.
 
-## Per Command Line Interface (CLI)
+## Per Command Line Interface (CLI)/Terminal
 
 Aktualisierungen auf der Kommandozeile werden über den Paketmanager **dnf** durchgeführt, der offizielle und konfigurierte Repositories auf Aktualisierungen bestehender Software sowie auf neu in das Betriebssystem aufgenommene Pakete überprüft.
 
