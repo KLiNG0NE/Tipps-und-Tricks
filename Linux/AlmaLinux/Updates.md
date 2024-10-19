@@ -1,4 +1,6 @@
-# Updates für AlmaLinux
+# Tipps und Tricks – Updates für AlmaLinux
+
+<small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
 ## Per Command Line Interface (CLI)
 
