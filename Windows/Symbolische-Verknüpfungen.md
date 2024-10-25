@@ -1,3 +1,6 @@
+# Tipps und Tricks – Windows
+<small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
+
 ## Symbolische-Verknüpfungen
 
 ```
@@ -17,5 +20,5 @@ MKLINK [[/D] | [/H] | [/J]] Verknüpfung Ziel
                      neue Verknüpfung verweist.
 ```
 
-Info:  
+Info-Video auf YouTube:  
 [ThioJoe – SymLinks: The Hidden "SUPER Shortcut" Feature in Windows](https://www.youtube.com/watch?v=RDH5IuyPJtk)
