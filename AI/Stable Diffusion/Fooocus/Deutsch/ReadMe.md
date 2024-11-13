@@ -29,4 +29,5 @@ Hier ein einfaches Beispiel für eine angepasste BAT-Datei:
 .\python_embeded\python.exe -s Fooocus\entry_with_update.py --language de
 ```
 
-Sollte die Sprach-Datei nicht geladen werden können, startet Fooocus einfach in der vorgegebenen englischen Sprache.
+Sollte die Sprach-Datei nicht geladen werden können, startet Fooocus einfach in der vorgegebenen englischen Sprache. Fehler werden in der Terminalausgabe angezeigt.
+
