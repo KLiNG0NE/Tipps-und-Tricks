@@ -8,3 +8,11 @@ Stable Diffusion ist ein Text-to-Image Bildgenerator. Bilder können per Textein
 | juggernautXL            | XI      | ✅        | ✅  |
 | juggernautXL            | v8      | ✅        | ✅  |
 | Realistic Stockphoto    | v2      | ✅        | ❌  |
+| colossusProjectXL       |         | ✅        | ❌  |
+| leosamsHelloworldXL     |         | ✅        | ❌  |
+| jibMixRealisticXL       |         | ✅        | ✅  |
+| natvisNaturalVision     |         | ✅        | ✅  |
+| realisticFreedomSFW     |         | ✅        | ❌  |
+|                         |         | ✅        | ❌  |
+|                         |         | ✅        | ❌  |
+|                         |         | ✅        | ❌  |
