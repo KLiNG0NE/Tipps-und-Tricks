@@ -158,4 +158,4 @@ youthful
 ---
 
 Quelle:  
-https://learn.rundiffusion.com/prompt-guide-for-juggernaut-xi-and-xii/
+[learn.rundiffusion.com](https://learn.rundiffusion.com/prompt-guide-for-juggernaut-xi-and-xii/)
