@@ -2,38 +2,38 @@
 Tipps und Tricks für Computer und Internet.
 ---
 
-Hier findestDu einige Tokens für das Modell Juggernaut XI
+Hier findest Du einige Tokens für das Modell *Juggernaut XI* und *XII*:
 
-| Token                  | Bedeutung              | Typ        | Kategorie | Info                  |
-|------------------------|------------------------|------------|-----------|-----------------------|
-| adult male             | männlich erwachsen     | Adjektiv   | Subjekt   |                       |
-| alloy wheels           | Alufelgen              | Substantiv | Subjekt   |                       |
-| animal portrait        | Tierporträt            | Substantiv | Bildtyp   |                       |
-| automotive photography | Automobilfotografie    | Substantiv | Bildtyp   |                       |
-| beard                  | Bart                   | Substantiv | Subjekt   |                       |
-| bokeh                  | unscharf, verschwommen | Adjektiv   | Bildtyp   | bes. Art d. Unschärfe |
-| bokeh background       | unscharfer Hintergrund |            | Bildtyp   | "                     |
-| bokeh effect           | Unschärfe              |            | Bildtyp   | "                     |
-| blonde hair            | Blonde Haare           |            | Subjekt   | Haarfarbe             |
-blue eyes
-blue sky
-blurred background
-business attire
-casual attire
-casual clothing
-casual style
-caucasian
-clear sky
-clear skin
-clean lines
-close-up
-clouds
-cloudy sky
-confident expression
-confident pose
-contemplative expression
-cozy atmosphere
-curly hair
+| Token                    | Bedeutung               | Typ        | Kategorie | Info                  |
+|--------------------------|-------------------------|------------|-----------|-----------------------|
+| adult male               | männlich erwachsen      | Adjektiv   | Subjekt   |                       |
+| alloy wheels             | Alufelgen               | Substantiv | Subjekt   |                       |
+| animal portrait          | Tierporträt             | Substantiv | Bildtyp   |                       |
+| automotive photography   | Automobilfotografie     | Substantiv | Bildtyp   |                       |
+| beard                    | Bart                    | Substantiv | Subjekt   |                       |
+| bokeh                    | unscharf, verschwommen  | Adjektiv   | Bildtyp   | bes. Art d. Unschärfe |
+| bokeh background         | unscharfer Hintergrund  | Adj./Subj. | Bildtyp   | "    "   "  "         |
+| bokeh effect             | Unschärfe               | Adj./Subj. | Bildtyp   | "    "   "  "         |
+| blonde hair              | Blonde Haare            | Adj./Subj. | Subjekt   | Haarfarbe             |
+| blue eyes                | Blaue Augen             | Adj./Subj. | Subjekt   |                       |
+| blue sky                 | Blauer Himmel           |
+| blurred background       | Unscharfer Hintergrund  |
+| business attire          | Geschäftskleidung       |
+| casual attire            | Freizeitkleidung        |
+| casual clothing          | "                       |
+| casual style             | Lässiger Stil           |
+| caucasian                | Hellhäutige Menschen    |
+| clear sky                | Klarer Himmel           |
+| clear skin               | Klare Haut              |
+| clean lines              | Saubere Linien          |
+| close-up                 | Nahaufnahme             | |Bildtyp|
+| clouds                   | Wolken
+| cloudy sky               | Bewölkter Himmel        |
+| confident expression     | Selbstbew. Ausdruck
+| confident pose           | Selbstbew. Pose
+| contemplative expression | Nachdenkl. Ausdruck   |
+| cozy atmosphere          | gemütliche Atmosphäre |
+| curly hair               | Lockiges Haar         |
 dark background
 dark hair
 daytime
