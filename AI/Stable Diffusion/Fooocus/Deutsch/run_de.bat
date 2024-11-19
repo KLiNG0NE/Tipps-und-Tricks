@@ -13,6 +13,6 @@ ECHO    / ____/___  ____  ____  _______  _______
 ECHO   / /_  / __ \/ __ \/ __ \/ ___/ / / / ___/
 ECHO  / __/ / /_/ / /_/ / /_/ / /__/ /_/ (__  ) 
 ECHO /_/    \____/\____/\____/\___/\__,_/____/  
-ECHO wird in 'deutscher Sprache' gestartet. - Strg + C zum Beenden
+ECHO wird in 'deutscher Sprache' gestartet. - [Strg] + [C] zum Beenden
 .\python_embeded\python.exe -s Fooocus\entry_with_update.py --language de
 PAUSE
