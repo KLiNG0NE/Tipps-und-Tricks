@@ -4,17 +4,17 @@ Tipps und Tricks für Computer und Internet.
 
 Hier findestDu einige Tokens für das Modell Juggernaut XI
 
-| Token                  | Bedeutung           | Typ        |
-|------------------------|---------------------|------------|
-| adult male             | männlich erwachsen  | Adjektiv   |
-| alloy wheels           | Alufelgen           | Substantiv |
-| animal portrait        | Tierporträt         | Substantiv |
-| automotive photography | Automobilfotografie | Substantiv |
-| beard                  | Bart                | Substantiv |
-bokeh
-bokeh background
-bokeh effect
-blonde hair
+| Token                  | Bedeutung              | Typ        | Kategorie | Info                  |
+|------------------------|------------------------|------------|-----------|-----------------------|
+| adult male             | männlich erwachsen     | Adjektiv   | Subjekt   |                       |
+| alloy wheels           | Alufelgen              | Substantiv | Subjekt   |                       |
+| animal portrait        | Tierporträt            | Substantiv | Bildtyp   |                       |
+| automotive photography | Automobilfotografie    | Substantiv | Bildtyp   |                       |
+| beard                  | Bart                   | Substantiv | Subjekt   |                       |
+| bokeh                  | unscharf, verschwommen | Adjektiv   | Bildtyp   | bes. Art d. Unschärfe |
+| bokeh background       | unscharfer Hintergrund |            | Bildtyp   | "                     |
+| bokeh effect           | Unschärfe              |            | Bildtyp   | "                     |
+| blonde hair            | Blonde Haare           |            | Subjekt   | Haarfarbe             |
 blue eyes
 blue sky
 blurred background
@@ -154,3 +154,8 @@ wristwatch
 woman
 wooden floor
 youthful
+
+---
+
+Quelle:  
+https://learn.rundiffusion.com/prompt-guide-for-juggernaut-xi-and-xii/
