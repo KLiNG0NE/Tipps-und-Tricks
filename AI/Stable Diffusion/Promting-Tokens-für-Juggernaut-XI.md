@@ -27,108 +27,108 @@ Hier findest Du einige Tokens für das Modell *Juggernaut XI* und *XII*:
 | clear skin               | Klare Haut              |
 | clean lines              | Saubere Linien          |
 | close-up                 | Nahaufnahme             | |Bildtyp|
-| clouds                   | Wolken
+| clouds                   | Wolken                  |
 | cloudy sky               | Bewölkter Himmel        |
-| confident expression     | Selbstbew. Ausdruck
-| confident pose           | Selbstbew. Pose
-| contemplative expression | Nachdenkl. Ausdruck   |
-| cozy atmosphere          | gemütliche Atmosphäre |
-| curly hair               | Lockiges Haar         |
-dark background
-dark hair
-daytime
-depth of field
-detailed texture
-direct gaze
-dramatic lighting
-dusk
-elegance
-facial hair
-fashion
-fashion photography
-female
-focused expression
-forest
-front view
-full body
-glasses
-golden hour
-greenery
-hardwood floor
-headshot
-high contrast
-high dynamic range
-high resolution
-high-resolution
-high-resolution image
-indoor
-indoor setting
-indoors
-intense gaze
-interior design
-landscape
-large windows
-leisure activity
-long hair
-looking at camera
-looking away
-luxury vehicle
-makeup
-male
-man
-midshot
-modern
-modern architecture
-modern design
-moody atmosphere
-nature
-nature photography
-natural beauty
-natural light
-natural lighting
-natural makeup
-neutral background
-neutral color palette
-neutral colors
-neutral expression
-outdoor
-outdoor setting
-outdoors
-overcast sky
-parked car
-peaceful
-photography
-portrait
-portrait orientation
-reflection
-relaxed pose
-relaxed posture
-scenic view
-selective focus
-serene
-serene expression
-serious expression
-sharp focus
-shallow depth of field
-short hair
-side profile
-side view
-sitting
-smiling
-soft focus
-soft lighting
-solitude
-sports car
-standing
-standing pose
-studio lighting
-studio shot
-stylish
-sunglasses
-sunlight
-sunny
-sunny day
-sunset
+| confident expression     | Selbstbew. Ausdruck     |
+| confident pose           | Selbstbew. Pose         |
+| contemplative expression | Nachdenkl. Ausdruck     |
+| cozy atmosphere          | gemütliche Atmosphäre   |
+| curly hair               | Lockiges Haar           |
+dark background            | Dunkler Hintergrund     | Adj./Subs. | Bildtyp
+dark hair                  | dunkles Haar
+daytime                    | tagsüber/Tageszeit
+depth of field             | Tiefenschärfe
+detailed texture           | Detaillierte Textur
+direct gaze                | Direkter Blick
+dramatic lighting          | Dramatische Beleuchtung |
+dusk                       | Abendämmerung
+elegance                   | Eleganz/Anmut
+facial hair                | Gesichtsbehaarung
+fashion                    | Mode
+fashion photography        | Modefotografie
+female                     | weiblich
+focused expression         | konzentrierter Ausdruck
+forest                     | Wald
+front view                 | Frontalaufnahme
+full body                  | ganzer Körper
+glasses                    | Brille
+golden hour                | Goldene Zeit           | | Besonders weiches warmes Licht
+greenery                   | Grünpflanzen/-flächen
+hardwood floor             | Hartholzboden
+headshot                   | Kopfaufnahme
+high contrast              | hoher Kontrast
+high dynamic range         | großer Dynamikbereich
+high resolution            | hohe Auflösung
+high-resolution            | "    "
+high-resolution image      | hochauflösendes Bild |
+indoor                     | Innenbereich
+indoor setting             | Innenaufnahme
+indoors                    | drinnen/im Haus
+intense gaze               | intensiver Blick
+interior design            | Innenarchitektur/-ausstattung
+landscape                  | Landschaft
+large windows              | große Fenster
+leisure activity           | Freizeitaktivität
+long hair                  | langes Haar
+looking at camera          | in die Kamera blicken
+looking away               | wegschauend/-sehend
+luxury vehicle             | Luxusfahrzeug
+makeup                     | Schminke
+male                       | männlich/ Männer
+man                        | Mann
+midshot                    | mittlere Aufnahme
+modern                     | modern
+modern architecture        | moderne Architektur
+modern design              | modernes Design
+moody atmosphere           | stimmungsvolle Atmosphäre
+nature                     | Natur
+nature photography         | Naturfotografie
+natural beauty             | Naturschönheit
+natural light              | natürliches Licht
+natural lighting           | natürliche Beleuchtung
+natural makeup             | natürliche Schminke
+neutral background         | neutraler Hintergrund
+neutral color palette      | neutrale Farbpalette
+neutral colors             | neutrale Farben
+neutral expression         | neutraler Ausdruck
+outdoor                    | draußen/im Freien
+outdoor setting            | Außeneinstellung
+outdoors                   | im Freien/Draußen
+overcast sky               | bedeckter/bewölkter Himmel
+parked car                 | parkendes Auto
+peaceful                   | friedlich
+photography                | Fotografie
+portrait                   | Porträt
+portrait orientation       | Hochformat
+reflection                 | Spiegelung
+relaxed pose               | entspannte Pose
+relaxed posture            | entspannte Haltung
+scenic view                | Panoramablick
+selective focus            | gezielter Fokus
+serene                     | gelassen/Gelassenheit
+serene expression          | gelassener Ausdruck
+serious expression         | ernster Ausdruck
+sharp focus                | scharfer Fokus
+shallow depth of field     | geringe Tiefenschärfe
+short hair                 | kurze Haare
+side profile               | Seitenprofil
+side view                  | Seitenansicht
+sitting                    | sitzend
+smiling                    | lächelnd/Lächeln
+soft focus                 | Weichzeichnung/Unschärfe
+soft lighting              | sanfte Beleuchtung
+solitude                   | Einsamkeit/Abgeschiedenheit
+sports car                 | Sportwagen
+standing                   | stehend
+standing pose              | stehende Pose/Haltung
+studio lighting            | Studiobeleuchtung
+studio shot                | Studioaufnahme
+stylish                    | stilvoll/modisch
+sunglasses                 | Sonnenbrille
+sunlight                   | Sonnenlicht
+sunny                      | sonnig
+sunny day                  | sonniger Tag
+sunset                     | Sonnenuntergang/Abendrot
 travel destination
 tranquil
 tranquil scene
