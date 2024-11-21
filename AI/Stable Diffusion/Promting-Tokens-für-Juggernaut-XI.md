@@ -52,7 +52,7 @@ forest                     | Wald
 front view                 | Frontalaufnahme
 full body                  | ganzer Körper
 glasses                    | Brille
-golden hour                | Goldene Zeit           | | Besonders weiches warmes Licht
+golden hour                | Goldene Zeit           | | | Besonders weiches warmes Licht
 greenery                   | Grünpflanzen/-flächen
 hardwood floor             | Hartholzboden
 headshot                   | Kopfaufnahme
