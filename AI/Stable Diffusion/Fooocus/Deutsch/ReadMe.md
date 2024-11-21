@@ -5,7 +5,7 @@ Fooocus ist ein Web-UI für Stable Diffusion. Es ist damit möglich, SD ziemlich
 
 ## Fooocus Web-UI in Deutsch
 
-![Screenshot](ScreenShot-2024-11-21.jpg)
+![Screenshot](ScreenShot.jpg)
 
 Hier sind Infos darüber, wie das WebUI auf die deutsche Sprache umgestellt wird.
 
