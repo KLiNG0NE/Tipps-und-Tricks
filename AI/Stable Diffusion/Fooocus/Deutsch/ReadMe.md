@@ -1,9 +1,11 @@
 # Tipps und Tricks&nbsp;– Fooocus&nbsp;– Deutsch  
 Tipps und Tricks für Computer und Internet.
 ---
-Fooocus ist ein Web-UI für Stable Diffusion. Es ist damit möglich, SD ziemlich einfach zu installieren.
+Fooocus ist ein Web-UI für Stable Diffusion. Es ist damit möglich, SD ziemlich einfach zu installieren. – Auf dieser Seite hier wird lediglich die **deutsche Sprachdatei** für die Benutzeroberfläche bereitgestellt. Mehr Infos zum eigentlichen Programm *Fooocus* sind beim Anbieter auf folgender Website auffindbar: [github.com/lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
 
 ## Fooocus Web-UI in Deutsch
+
+![Screenshot](ScreenShot.jpg)
 
 Hier sind Infos darüber, wie das WebUI auf die deutsche Sprache umgestellt wird.
 
