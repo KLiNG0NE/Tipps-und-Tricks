@@ -9,3 +9,13 @@ Quelle: Seite „Künstliche Intelligenz“. In: Wikipedia – Die freie Enzyklo
 
 ---
 
+## Freeware
+
+Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu finden.
+
+* [LM Studio](https://github.com/lmstudio-ai)  
+  Einfache möglichkeit einene Chat-Bot lokal zu betreieben.
+* [Stability Matrix](https://github.com/LykosAI/StabilityMatrix)  
+  Oberfläche zum Installieren verschiedener Bildgeneratoren.
+* [Pinokio](https://pinokio.computer/)  
+  Mit dieser Oberfläche können verschidene AI-Systeme sehr einfach installiert werden.
