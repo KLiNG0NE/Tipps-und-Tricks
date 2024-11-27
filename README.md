@@ -6,10 +6,10 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Theman auffindbar. –
 
 ## Inhalt
 
-* AI
-* Docker-Compose
-* Linux
-* Proxmox
-* Windows
+* [AI](AI)
+* [Docker-Compose](Docker-Compose)
+* [Linux](Linux)
+* [Proxmox](Proxmox)
+* [Windows](Windows)
 
 Vielleicht ist ja auch entwas Interressantes für Dich dabei.
