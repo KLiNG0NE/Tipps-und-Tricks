@@ -1,4 +1,4 @@
-# Tipps und Tricks&nbsp;– AI&nbsp;– Bildgenerierung  
+# Tipps und Tricks&nbsp;– Bildgenerierung  
 Tipps und Tricks für Computer und Internet.
 ---
 
