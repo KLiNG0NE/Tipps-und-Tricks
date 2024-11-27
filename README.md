@@ -12,4 +12,4 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Theman auffindbar. –
 * [Proxmox](Proxmox)
 * [Windows](Windows)
 
-Vielleicht ist ja auch entwas Interressantes für Dich dabei.
+Vielleicht ist ja auch entwas Interessantes für Dich dabei.
