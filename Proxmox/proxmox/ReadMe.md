@@ -4,9 +4,18 @@ Tipps und Tricks für Computer und Internet.
 
 ## ‚Keine gültige Subskription‘–Hinweis umgehen
 
-Proxmox ist Open Source und in der Community-Edition kostenlos, trotzdem weist der Anbieter ständig darauf hin, dass kein gültiges Abonnement besteht.
+* [Manuell](ReadMe.md#manuell)
+* [Automatisiert per Skript](ReadMe.md#automatisiert-per-skript)
+
+Proxmox ist Open Source und in der **Community-Edition** *kostenlos*, trotzdem weist der Anbieter ständig darauf hin, dass *kein gültiges Abonnement* besteht.
+
+![No Subscription](img/notice-no-subscription-wht.png)  
+
+![No Subscription](img/notice-no-subscription-blk.png)
 
 Dieser Hinweis kann umgangen werden.
+
+(Getestet mit Version 7.4-13 – 8.3.0)
 
 ### Manuell
 
@@ -27,7 +36,10 @@ Schreibe folgendes vor diesen Eintrag:
 ```
 void({ //
 ```
-Dann abspeichern und verlassen.
+
+![No Subscription](img/terminal-subskription.png)
+
+Dann abspeichern [Strg]+[O] und verlassen [Strg]+[X].
 
 Anschließend den Browser neu laden ([F5]-Taste) oder den Dienst neu starten mit:
 
@@ -35,9 +47,11 @@ Anschließend den Browser neu laden ([F5]-Taste) oder den Dienst neu starten mit
 
 ### Automatisiert per Skript
 
-Dieses Script einfach in die Shell kopieren und mit [EINGABE] ausführen:
+Dieses Skript einfach in die Shell kopieren und mit [EINGABE] ausführen:
 
 ```
 sed -Ezi.bak "s/(Ext.Msg.show\(\{\s+title: gettext\('No valid sub)/void\(\{ \/\/\1/g" /usr/share/javascript/proxmox-widget-toolkit/proxmoxlib.js && systemctl restart pveproxy.service
 ```
-(Getestet mit Version 7.4-13 – 8.3.0)
+
+Anschließend den Browser neu laden ([F5]-Taste).
+
