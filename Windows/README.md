@@ -3,4 +3,4 @@
 
 * Dateiverwaltung
   * [Autostart-Ordner](Autostart-Ordner.md)
-  * Symbolische-Verknüpfungen
+  * [Symbolische-Verknüpfungen](Symbolische-Verknüpfungen.md)
