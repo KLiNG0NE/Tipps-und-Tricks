@@ -3,4 +3,6 @@
 
 * Dateiverwaltung
   * [Autostart-Ordner](Autostart-Ordner.md)
-  * [Symbolische-Verknüpfungen](Symbolische-Verknüpfungen.md)
+  * [Symbolische Verknüpfungen](Symbolische-Verknüpfungen.md)
+* Lizenz
+  * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
