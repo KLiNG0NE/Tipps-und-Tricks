@@ -7,6 +7,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 ## Inhalt
 
 * [AI](AI)
+* [Browser](Browser)
 * [Docker-Compose](Docker-Compose)
 * [Linux](Linux)
 * [Proxmox](Proxmox)
