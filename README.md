@@ -2,7 +2,7 @@
 Tipps und Tricks für Computer und Internet
 ---
 
-Hier sind verschiedene Tipps und Tricks zu verschiedenen Theman auffindbar. – Eigentlich dient mir dieser Bereich als eine Art „Spickzettel“. Kniffe und Infos, die ich immer wieder benötige, schreibe ich hier einfach auf, und kann sie so schnell wiederfinden.
+Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. – Eigentlich dient mir dieser Bereich als eine Art „Spickzettel“. Kniffe und Infos, die ich immer wieder benötige, schreibe ich hier einfach auf, und kann sie so schnell wiederfinden.
 
 ## Inhalt
 
