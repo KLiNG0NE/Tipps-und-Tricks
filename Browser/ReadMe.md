@@ -1,8 +1,9 @@
 # KLiNG0NE / Tipps-und-Tricks / Browser
 
-* Plugins
-  * Download
-  * Websitefilter
+* [Plugins](#plugins)
+  * [Download](#download)
+  * [Websitefilter](#websitefilter)
+  * [YouTube](#youtube)
 
 ## Plugins
 
@@ -25,6 +26,8 @@ https://ublockorigin.com/
 Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites heraus.
 
 https://www.i-dont-care-about-cookies.eu/de
+
+### YouTube
 
 #### Return YouTube Dislike
 
