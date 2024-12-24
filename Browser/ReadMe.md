@@ -12,7 +12,9 @@
 
 #### Video DownloadHelper
 
-https://www.downloadhelper.net/
+[www.downloadhelper.net](https://www.downloadhelper.net/)
+
+---
 
 ### Lesezeichen-/Favoritenverwaltung
 
@@ -20,7 +22,9 @@ https://www.downloadhelper.net/
 
 Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern synchronisieren
 
-[xBrowserSync](https://www.xbrowsersync.org/)
+[www.xbrowsersync.org](https://www.xbrowsersync.org/)
+
+---
 
 ### Websitefilter
 
@@ -28,13 +32,15 @@ Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern 
 
 Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (Werbung, Social-Networks, ...)
 
-https://ublockorigin.com/
+[ublockorigin.com](https://ublockorigin.com/)
 
 #### I don't care about cookies
 
 Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites heraus.
 
-https://www.i-dont-care-about-cookies.eu/de
+[www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu/de)
+
+---
 
 ### YouTube
 
@@ -42,4 +48,8 @@ https://www.i-dont-care-about-cookies.eu/de
 
 Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
-https://returnyoutubedislike.com/
+[returnyoutubedislike.com](https://returnyoutubedislike.com/)
+
+---
+
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / Browser
