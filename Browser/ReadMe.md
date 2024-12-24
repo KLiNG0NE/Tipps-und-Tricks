@@ -2,6 +2,7 @@
 
 * [Plugins](#plugins)
   * [Download](#download)
+  * [Lesezeichen-/Favoritenverwaltung](#lesezeichen-favoritenverwaltung)
   * [Websitefilter](#websitefilter)
   * [YouTube](#youtube)
 
@@ -12,6 +13,14 @@
 #### Video DownloadHelper
 
 https://www.downloadhelper.net/
+
+### Lesezeichen-/Favoritenverwaltung
+
+#### xBrowserSync
+
+Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern synchronisieren
+
+[xBrowserSync](https://www.xbrowsersync.org/)
 
 ### Websitefilter
 
