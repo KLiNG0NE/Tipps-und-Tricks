@@ -34,6 +34,12 @@ Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (
 
 [ublockorigin.com](https://ublockorigin.com/)
 
+#### Ghostery
+
+Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Schutz der Privatsphäre zu gewährleisten. Ganz gleich, ob Sie einen Werbeblocker, einen Tracker-Neutralisierer oder eine private Suchmaschine benötigen, Ghostery hat alles für Sie[^1].
+
+[www.ghostery.com](https://www.ghostery.com/)
+
 #### I don't care about cookies
 
 Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites heraus.
@@ -53,3 +59,7 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
+
+###### Fußnoten
+
+[^1]: Übersetzung der Herstellerwebsite: [www.ghostery.com](https://www.ghostery.com/)
