@@ -1,12 +1,14 @@
 # KLiNG0NE / Tipps-und-Tricks / Browser
 
-* [Plugins](#plugins)
+* [Plug-ins](#plug-ins)
   * [Download](#download)
   * [Lesezeichen-/Favoritenverwaltung](#lesezeichen-favoritenverwaltung)
   * [Websitefilter](#websitefilter)
   * [YouTube](#youtube)
 
-## Plugins
+## Plug-ins
+
+Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöpseln, anschließen“, auch Software-Erweiterung oder Zusatzmodul) ist eine optionale Softwarekomponente, die eine bestehende Software oder ein Computerspiel erweitert bzw. verändert. Der Begriff wird teilweise auch als Synonym zu „Add-on“ und „Add-in“ benutzt. Plug-ins werden meist vom Benutzer installiert und dann von der entsprechenden Hauptanwendung während der Laufzeit eingebunden. Plug-ins können nicht ohne die Hauptanwendung ausgeführt werden[^1].
 
 ### Download
 
@@ -36,13 +38,13 @@ Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (
 
 #### Ghostery
 
-Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Schutz der Privatsphäre zu gewährleisten. Ganz gleich, ob Sie einen Werbeblocker, einen Tracker-Neutralisierer oder eine private Suchmaschine benötigen, Ghostery hat alles für Sie[^1].
+Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Schutz der Privatsphäre zu gewährleisten. Ganz gleich, ob Sie einen Werbeblocker, einen Tracker-Neutralisierer oder eine private Suchmaschine benötigen, Ghostery hat alles für Sie[^2].
 
 [www.ghostery.com](https://www.ghostery.com/)
 
 #### Privacy Badger
 
-Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^2].
+Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^3].
 
 [privacybadger.org](https://privacybadger.org/)
 
@@ -68,5 +70,6 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
 ###### Quellenangaben:
 
-[^1]: Übersetzung der Herstellerwebsite: [www.ghostery.com](https://www.ghostery.com/)
-[^2]: Übersetzung der Herstellerwebsite: [privacybadger.org](https://privacybadger.org/)
+[^1]: Seite „Plug-in“. In: Wikipedia – Die freie Enzyklopädie. Bearbeitungsstand: 26. Oktober 2024, 12:19 UTC. URL: [https://de.wikipedia.org/wiki/Plug-in](https://de.wikipedia.org/w/index.php?title=Plug-in&oldid=249773221) (Abgerufen: 25. Dezember 2024, 03:07 UTC) 
+[^2]: Übersetzung der Herstellerwebsite: [www.ghostery.com](https://www.ghostery.com/)
+[^3]: Übersetzung der Herstellerwebsite: [privacybadger.org](https://privacybadger.org/)
