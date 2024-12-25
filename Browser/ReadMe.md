@@ -58,6 +58,12 @@ Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites hera
 
 ### YouTube
 
+#### SponsorBlock
+
+SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Überspringen von Sponsor-Segmenten in YouTube-Videos. Nutzer melden sich, wenn ein Sponsor in der Erweiterung auftaucht, und die Erweiterung überspringt automatisch die Sponsoren, von denen sie weiß, indem sie ein Abfragesystem verwendet, das die Privatsphäre schützt. Sie unterstützt auch das Überspringen anderer Kategorien, wie Intros, Outros und Erinnerungen zum Abonnieren, und das Überspringen zum Punkt mit Highlight[^4].
+
+[sponsor.ajay.app](https://sponsor.ajay.app/)
+
 #### Return YouTube Dislike
 
 Zeigt einen geschätzten Dislike-Wert bei YouTube an.
@@ -73,3 +79,4 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 [^1]: Seite „Plug-in“. In: Wikipedia – Die freie Enzyklopädie. Bearbeitungsstand: 26. Oktober 2024, 12:19 UTC. URL: [https://de.wikipedia.org/wiki/Plug-in](https://de.wikipedia.org/w/index.php?title=Plug-in&oldid=249773221) (Abgerufen: 25. Dezember 2024, 03:07 UTC) 
 [^2]: Übersetzung der Herstellerwebsite: [www.ghostery.com](https://www.ghostery.com/)
 [^3]: Übersetzung der Herstellerwebsite: [privacybadger.org](https://privacybadger.org/)
+[^4]: Übersetzung der Herstellerwebsite: [sponsor.ajay.app](https://sponsor.ajay.app/)
