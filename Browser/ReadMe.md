@@ -40,6 +40,12 @@ Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Sc
 
 [www.ghostery.com](https://www.ghostery.com/)
 
+#### Privacy Badger
+
+Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^2].
+
+[privacybadger.org](https://privacybadger.org/)
+
 #### I don't care about cookies
 
 Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites heraus.
@@ -60,6 +66,7 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
 
-###### Fußnoten
+###### Quellenangaben:
 
 [^1]: Übersetzung der Herstellerwebsite: [www.ghostery.com](https://www.ghostery.com/)
+[^2]: Übersetzung der Herstellerwebsite: [privacybadger.org](https://privacybadger.org/)
