@@ -22,7 +22,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation
 ```
 
 3. Einen neuen Registry-Eintrag anlegen:
-  * Im rechten Bereich des Fensters: Rechtsklick -> Neu -> DWORD-Wert (23-Bit) -> `RealTimeIsUniversal` eingeben
+  * Im rechten Bereich des Fensters: Rechtsklick -> Neu -> DWORD-Wert (32-Bit) -> `RealTimeIsUniversal` eingeben
   * Rechtsklick auf den eben angelegten Eintrag -> `Ändern…` -> `1` in das Datenfeld eingeben.
 
 [Tipps und Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/)
