@@ -6,6 +6,8 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ---
 
+## GNU/Linux
+
 Als **Linux** oder **GNU/Linux** bezeichnet man in der Regel freie, unixähnliche Mehrbenutzer-Betriebssysteme, die auf dem **Linux-Kernel** und wesentlich auf GNU-Software basieren. Die weite, auch kommerzielle Verbreitung wurde ab 1992 durch die Lizenzierung des Linux-Kernels unter der freien Lizenz **GPL** ermöglicht. Einer der Initiatoren von Linux war der finnische Programmierer _Linus Torvalds_.
 
 Das modular aufgebaute Betriebssystem wird von Softwareentwicklern auf der ganzen Welt weiterentwickelt, die an den verschiedenen Projekten mitarbeiten. An der Entwicklung sind Unternehmen, Non-Profit-Organisationen und viele Freiwillige beteiligt. Beim Gebrauch auf Computern kommen meist sogenannte **Linux-Distributionen** zum Einsatz. Eine Distribution fasst den Linux-Kernel mit verschiedener Software zu einem Betriebssystem zusammen, das für die Endnutzung geeignet ist. Dabei passen viele Distributoren und versierte Benutzer die Software an ihre eigenen Zwecke an.
@@ -17,3 +19,5 @@ Unter den Nutzern von Linux sind Privatleute, Regierungen, Organisationen und Un
 Patentrechtlich wird Linux durch das **Open Invention Network** (OIN) geschützt. Des Weiteren fördert und unterstützt die **Linux Foundation** den Fortbestand und die Weiterentwicklung von Linux.
 
 <sub>_Quelle:_ Seite „Linux“. In: Wikipedia – Die freie Enzyklopädie</sub>
+
+[KLiNG0NE](https://github.com/KLiNG0NE) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / Linux
