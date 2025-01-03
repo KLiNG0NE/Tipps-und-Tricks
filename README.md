@@ -9,7 +9,9 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 * [AI](AI)
 * [Browser](Browser)
 * [Docker-Compose](Docker-Compose)
+* [Fire TV](Fire-TV)
 * [Linux](Linux)
+* [Live-TV am PC](Live-TV-am-PC)
 * [Proxmox](Proxmox)
 * [Windows](Windows)
 
