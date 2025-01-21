@@ -21,5 +21,5 @@ SSAO hat auch die folgenden Nachteile:
 * Eher lokal und in vielen Fällen ansichtsabhängig, da es von benachbarten Texeltiefen abhängt, die durch jede beliebige Geometrie erzeugt werden können.
 * Es ist schwierig, das Rauschen korrekt zu glätten/zu verwischen, ohne Tiefenunterbrechungen wie Objektkanten zu beeinträchtigen (die Okklusion sollte nicht auf Objekte „übergreifen“).
 
-### VSYNC - 
+### VSYNC - Vertikale Synchronisation
 Vertikale Synchronisation oder vertikale Synchronisierung, kurz VSync, ist ein Begriff aus der Computertechnik. Eine vertikale Synchronisierung verhindert bei Grafikkarten eine Aktualisierung der Bilddaten, während der Bildschirm das Bild aufbaut.
