@@ -6,6 +6,9 @@
 
 ## Grafikkarten-Einstellungen
 
+### DSR - Dynamic Super Resolution
+Hierbei handelt es sich um eine Technik, mit der die Auflösung von Spielen auf einen höheren Wert als eigentlich vorgesehen berechnet wird.
+
 ### SSAO - Screen space ambient occlusion
 Screen Space Ambient Occlusion (SSAO) ist eine Computergrafiktechnik zur effizienten Annäherung an den Effekt der Umgebungsverdeckung in Echtzeit. Sie wurde von Vladimir Kajalin während seiner Tätigkeit bei Crytek entwickelt und erstmals 2007 in dem ebenfalls von Crytek entwickelten Videospiel Crysis eingesetzt.
 
