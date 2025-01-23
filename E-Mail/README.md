@@ -1,11 +1,11 @@
 # Tipps-und-Tricks / E-Mail
+Tipps zu E-Mail, Anbietern und Verschlüsselung
 
 * [Kostenlose E-Mail-Anbieter](#kostenlose-e-mail-anbieter)
-* E-Mail-Clients
+* [E-Mail-Clients](#e-mail-clients)
 
 ---
 
-Tipps zu E-Mail, Anbietern und Verschlüsselung
 
 ## Kostenlose E-Mail-Anbieter
 
@@ -16,7 +16,8 @@ Hier genannte Anbieter versprechen höhere Anforderungen an Sicherheit und Daten
 * [Tuta](https://tuta.com/de) (DE)
 
 ### Sitz in Deutschland
-Diese Anbieter vereint, dass sie einen Sitz in Deutschland haben und der Initiative _„E-Mail Made in Germany“_ angehören. Hierdurch soll z. B. der Mailverkehr zwischen den Providern verschlüsselt sein. Eine Kostenlose Nutzung des Webamgebots ist nur mit Werbung möglich. Diese Anbieter lassen bei kostenloser Nutzung POP/IMAP zu.
+Diese Anbieter vereint, dass sie einen Sitz in Deutschland haben und der Initiative _„E-Mail made in Germany“_[^1] angehören. Hierdurch soll z. B. der Mailverkehr zwischen den Providern verschlüsselt sein. Eine Kostenlose Nutzung des Webangebots ist nur mit Werbung möglich. Diese Anbieter lassen bei kostenloser Nutzung POP/IMAP zu.
+[^1]: [E-Mail made in Germany](https://www.e-mail-made-in-germany.de/)
 
 * [GMX](https://www.gmx.net/) (DE)
 * [Web.de](https://web.de/) (DE)
