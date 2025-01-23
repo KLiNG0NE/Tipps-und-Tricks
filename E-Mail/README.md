@@ -15,7 +15,7 @@ Hier genannte Anbieter versprechen höhere Anforderungen an Sicherheit und Daten
 Anbieter                                 | Sitz | E-Mail-Speicher | Cloud-Speicher | Werbefrei | POP/IMAP | 2FA
 -----------------------------------------|------|-----------------|----------------|-----------|----------|----
 [Proton Mail](https://proton.me/de/mail) |  CH  |          0,5 GB |                |     +     |   -      |  +
-[Tuta](https://tuta.com/de)              |  DE  |            1 GB |                |     +     |   -      |
+[Tuta](https://tuta.com/de)              |  DE  |            1 GB |                |     +     |   -      |  +
 
 ### Sitz in Deutschland
 Diese Anbieter vereint, dass sie einen Sitz in Deutschland haben und der Initiative _„E-Mail made in Germany“_[^1] angehören. Hierdurch soll z. B. der Mailverkehr zwischen den Providern verschlüsselt sein. Eine Kostenlose Nutzung des Webangebots ist nur mit Werbung möglich. Diese Anbieter lassen bei kostenloser Nutzung POP/IMAP zu. Wer zu einer Bezahl-Modell wechsel möchte, sollte die Zahlungsbedingungen prüfen. Einige Anbieter rechnen nur dreimonatlich oder halbjährlich ab.
