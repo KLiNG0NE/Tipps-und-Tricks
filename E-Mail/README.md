@@ -29,7 +29,7 @@ Anbieter                                 | Sitz | E-Mail-Speicher | Cloud-Speich
 [Telekom](https://www.telekom.de/e-mail) | DE   |                 |                |     -     |     +    |
 [WEB.DE](https://web.de/)                | DE   |                 |                |     -     |     +    |  +
 
-### „Big Player“
+### „Tech-Riesen“
 Diese Anbieter haben eine hohe Markstellung und viele Nutzer haben hier bereits einen Account. Die E-Mail-Funktion lässt sich dann kostenlos nutzen. Zusätzlich bieten diese Anbieter auch recht großen Speicher für Mails und weitere Daten an. Die Nutzung von POP/IMAP ist inbegriffen.
 
 Anbieter       | Sitz | E-Mail-Speicher | Cloud-Speicher | Werbefrei | POP/IMAP | 2FA
