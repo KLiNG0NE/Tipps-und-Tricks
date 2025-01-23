@@ -23,7 +23,7 @@ Diese Anbieter vereint, dass sie einen Sitz in Deutschland haben und der Initiat
 
 Anbieter                                 | Sitz | E-Mail-Speicher | Cloud-Speicher | Werbefrei | POP/IMAP | 2FA
 -----------------------------------------|:----:|----------------:|---------------:|:---------:|:--------:|:----:
-[freenet](https://email.freenet.de/)     | DE   |            1 GB | ? GB           |     -     |     +    |
+[freenet](https://email.freenet.de/)     | DE   |            1 GB | 2 GB           |     -     |     +    |  ?
 [GMX](https://www.gmx.net/)              | DE   |                 |                |     -     |     +    |  +
 [mail.de](https://mail.de/de/)           | DE   |                 |                |     -     |     +    |
 [Telekom](https://www.telekom.de/e-mail) | DE   |                 |                |     -     |     +    |
