@@ -9,11 +9,19 @@ Tipps zu E-Mail, Anbietern und Verschlüsselung
 
 ## Kostenlose E-Mail-Anbieter
 
+### Sicherheit- und Datenschutzorientiert
 * Proton Mail
 * Tuta
 
-* GMX
-* Web.de
+### Sitz in Deutschland
+* [GMX](https://www.gmx.net/)
+* [Web.de](https://web.de/)
++ [mail.de](https://mail.de/de/)
++ [freenet](https://email.freenet.de/)
+
+### „Big Player“
+* [Gmail](https://workspace.google.com/intl/de/gmail/)
+* Outlook
 
 ## E-Mail-Clients
 
