@@ -32,10 +32,13 @@ Anbieter                                 |  Sitz  |  E-Mail-Speicher | Cloud-Spe
 ### „Big Player“
 Diese Anbieter haben eine hohe Markstellung und viele Nutzer haben hier bereits einen Account. Die E-Mail-Funktion lässt sich dann kostenlos nutzen. Zusätzlich bieten diese Anbieter auch recht großen Speicher für Mails und weitere Daten an. Die Nutzung von POP/IMAP ist inbegriffen.
 
-Anbieter                                             | Sitz | E-Mail-Speicher | Cloud-Speicher | Werbefrei | POP/IMAP | 2FA
------------------------------------------------------|------|-----------------|----------------|-----------|----------|----
-[Gmail](https://workspace.google.com/intl/de/gmail/) |  US  |                 |          15 GB |           |    +     |  +
-[Outlook](https://www.microsoft.com/de-de/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) |  US  |            |        15 GB        |           |   +      | +
+Anbieter       | Sitz | E-Mail-Speicher | Cloud-Speicher | Werbefrei | POP/IMAP | 2FA
+---------------|------|-----------------|----------------|-----------|----------|----
+[Gmail][gml]   |  US  | = Cloud         |          15 GB |           |    +     |  +
+[Outlook][oul] |  US  |                 |          15 GB |           |    +     | +
+
+[gml]: https://workspace.google.com/intl/de/gmail/ "Google Mail"
+[oul]: https://www.microsoft.com/de-de/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook "Microsoft Outlook"
 
 ## E-Mail-Clients
 
