@@ -25,7 +25,7 @@ Anbieter                                 | Sitz | E-Mail-Speicher | Cloud-Speich
 -----------------------------------------|:----:|----------------:|---------------:|:---------:|:--------:|:----:
 [freenet](https://email.freenet.de/)     | DE   |            1 GB | 2 GB           |     -     |     +    |  ?
 [GMX](https://www.gmx.net/)              | DE   |            1 GB | 2 GB           |     -     |     +    |  +
-[mail.de](https://mail.de/de/)           | DE   |                 |                |     -     |     +    |
+[mail.de](https://mail.de/de/)           | DE   |         = Cloud | 1 GB           |     -     |     +    |  +
 [Telekom](https://www.telekom.de/e-mail) | DE   |                 |                |     -     |     +    |
 [WEB.DE](https://web.de/)                | DE   |                 |                |     -     |     +    |  +
 
