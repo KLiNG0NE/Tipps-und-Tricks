@@ -26,8 +26,8 @@ Anbieter                                 | Sitz | E-Mail-Speicher | Cloud-Speich
 [freenet](https://email.freenet.de/)     | DE   |            1 GB | 2 GB           |     -     |     +    |  ?
 [GMX](https://www.gmx.net/)              | DE   |            1 GB | 2 GB           |     -     |     +    |  +
 [mail.de](https://mail.de/de/)           | DE   |         = Cloud | 1 GB           |     -     |     +    |  +
-[Telekom](https://www.telekom.de/e-mail) | DE   |                 |                |     -     |     +    |
-[WEB.DE](https://web.de/)                | DE   |                 |                |     -     |     +    |  +
+[Telekom](https://www.telekom.de/e-mail) | DE   |            1 GB | 3 GB           |     -     |     +    |  +
+[WEB.DE](https://web.de/)                | DE   |            1 GB | 2 GB           |     -     |     +    |  +
 
 ### „Tech-Riesen“
 Diese Anbieter haben eine hohe Markstellung und viele Nutzer haben hier bereits einen Account. Die E-Mail-Funktion lässt sich dann kostenlos nutzen. Zusätzlich bieten diese Anbieter auch recht großen Speicher für Mails und weitere Daten an. Die Nutzung von POP/IMAP ist inbegriffen.
