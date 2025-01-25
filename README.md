@@ -16,3 +16,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 * [Windows](Windows)
 
 Vielleicht ist ja auch etwas Interessantes für Dich dabei.
+
+---
+
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks)
