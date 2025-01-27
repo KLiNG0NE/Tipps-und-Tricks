@@ -2,6 +2,15 @@
 Tipps und Tricks für Computer und Internet.
 ---
 
+## Proxmox VE Helper-Scripts
+
+**Proxmox VE Helper-Scripts** ist eine Sammlung von Tools zur Vereinfachung der Einrichtung und Verwaltung von **Proxmox Virtual Environment (VE)**. Ursprünglich von _[tteck](https://github.com/tteck/Proxmox)_ erstellt, werden diese Skripte nun von der _Community_ weitergeführt. Ziel ist es, die Arbeit von tteck zu bewahren und zu erweitern, um eine fortlaufende Ressource für Proxmox-Benutzer weltweit zu schaffen.
+
+[helper-scripts.com](https://helper-scripts.com/)  
+[github.com](https://github.com/community-scripts/ProxmoxVE)
+
+---
+
 ## ‚Keine gültige Subskription‘–Hinweis umgehen
 
 * [Manuell](ReadMe.md#manuell)
