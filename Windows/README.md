@@ -8,7 +8,7 @@
   * [Falsche Uhrzeit bei Dualboot](Falsche-Uhrzeit-bei-Dualboot.md)
 * Lizenz
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
-* [Treiber](https://github.com/KLiNG0NE/Tipps-und-Tricks/tree/main/Windows/Treiber)
+* [Treiber](Treiber/README.ms)
   * GeForce FXAA – Unscharfe Textdarstellung in Programmen vermeiden
   * Snappy Driver Installer Origin – Einfache Treibersuche und Installation
 * Updates
