@@ -3,7 +3,7 @@
 
 * Treiber
   * GeForce FXAA – Unscharfe Textdarstellung in Programmen vermeiden
-  * [Snappy Driver Installer Origin](Windows/Treiber/Snappy%20Driver%20Installer%20Origin.md) – Einfache Treibersuche und Installation
+  * [Snappy Driver Installer Origin](Snappy%20Driver%20Installer%20Origin.md) – Einfache Treibersuche und Installation
 
 ---
 
