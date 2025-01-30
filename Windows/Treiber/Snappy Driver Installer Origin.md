@@ -5,9 +5,7 @@
 Mit _Snappy Driver Installer Origin_ (SDIO) ist es schnell und einfach möglich, Treiber für Windows zu suchen.
 
 ### Bildschirmfoto
-![Bildschirmfoto – Snappy Driver Installer Origin]([img/Screenshot SDIO 2025-01-30.png](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Windows/Treiber/img/Screenshot%20SDIO%202025-01-30.png))
-
-![Foto](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Windows/Treiber/img/Screenshot%20SDIO%202025-01-30.png)
+![Bildschirmfoto: Snappy Driver Installer Origin](img/Screenshot%20SDIO%202025-01-30.png)
 
 ### Fehlende Treiber installieren und alte Treiber aktualisieren
 Snappy Driver Installer Origin ist ein portables Windows-Tool zur Installation und Aktualisierung von Gerätetreibern. Es kann offline verwendet werden, um Treiber dort zu installieren, wo das Internet nicht verfügbar ist. Einfach Snappy Driver Installer Origin ausführen, und die Arbeit ist im Handumdrehen erledigt. Das perfekte Werkzeug für Techniker[^1].
