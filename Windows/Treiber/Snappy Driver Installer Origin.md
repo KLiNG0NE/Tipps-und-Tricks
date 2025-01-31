@@ -17,6 +17,7 @@ Hochmoderner Algorithmus für den Treiberabgleich. Vollständig portabel, so das
 Seit 2016. Snappy Driver Installer Origin bleibt ein freies Open-Source-Projekt. Kostenlos bedeutet, dass das Herunterladen und die Nutzung nichts kosten. Frei bedeutet, dass es frei von Adware, Malware, Hintertüren, unerwünschter Software von Drittanbietern und anderen fragwürdigen Dingen ist[^1].
 
 Offizielle Website: [www.snappy-driver-installer.org](https://www.snappy-driver-installer.org/)
+Hersteller: [www.glenn.delahoy.com](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
 
 ---
 
