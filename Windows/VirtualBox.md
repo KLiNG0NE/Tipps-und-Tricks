@@ -12,7 +12,7 @@ Offizielle Website: [www.virtualbox.org](https://www.virtualbox.org/)
 
 ### Screenshot – Info
 
-![Screenshot VirtualBox Info](img/Screenshot%20VirtualBox%20Info%207.1.4%202025-02-03.png)
+![Screenshot VirtualBox Info](img/Screenshot%20VirtualBox%20Info%207.1.4%202025-02-03.png "Screenshot VirtualBox Info")
 
 ---
 
@@ -20,7 +20,7 @@ Offizielle Website: [www.virtualbox.org](https://www.virtualbox.org/)
 
 Zunächst einmal müssen wir den Namen des Gastsystems bestimmen, das mehr Speicher erhalten soll:
 
-![Screenshot VirtualBox Einstellungen](img/Screenshot%20VirtualBox%20Einstellungen.png)
+![Screenshot VirtualBox Einstellungen](img/Screenshot%20VirtualBox%20Einstellungen.png "Screenshot VirtualBox Einstellungen")
 
 Bevor die folgenden Schritte funktionieren, muss VirtualBox komplett beendet sein.
 
@@ -34,7 +34,7 @@ C:\Program Files\Oracle\VirtualBox
 ```
 VBoxManage.exe modifyvm [VMNAME] --vram 256
 ```
-![Screenshot VBoxManage](img/Screenshot%20VBoxManage.png)
+![Screenshot VBoxManage](img/Screenshot%20VBoxManage.png "Screenshot VBoxManage")
 
 [VMNAME] mit dem Namen des Systems erzetzen, dass mehr Video Speicher erhalten soll.
 
