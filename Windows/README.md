@@ -14,7 +14,7 @@
 * Updates
   * UniGetUI – Einfache Updates mit grafischer Benutzeroberfläche für winget
 * Virtualisierung
-  * VirtualBox – Kostenlose Virtualisierung
+  * [VirtualBox](VirtualBox.md) – Kostenlose Virtualisierung
 
 ---
 
