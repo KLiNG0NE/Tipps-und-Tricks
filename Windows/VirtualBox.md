@@ -18,7 +18,11 @@ Offizielle Website: [www.virtualbox.org](https://www.virtualbox.org/)
 
 ### Mehr Grafikspeicher als 128 MB für das Gastsystem bereitstellen
 
-Bevor dieser Befehl funktioniert muss VirtualBox komplett beendet sein.
+Zunächst einmal müssen wir den Namen des Gastsystems bestimmen, das mehr Speicher erhalten soll:
+
+![Screenshot VirtualBox Einstellungen](img/Screenshot%20VirtualBox%20Einstellungen.png)
+
+Bevor die folgenden Schritte funktionieren, muss VirtualBox komplett beendet sein.
 
 * Den Installationsordner von VirtualBox in einer Eingabeaufforderung (Terminal) öffnen
 
@@ -30,6 +34,7 @@ C:\Program Files\Oracle\VirtualBox
 ```
 VBoxManage.exe modifyvm [VMNAME] --vram 256
 ```
+![Screenshot VBoxManage](img/Screenshot%20VBoxManage.png)
 
 [VMNAME] mit dem Namen des Systems erzetzen, dass mehr Video Speicher erhalten soll.
 
