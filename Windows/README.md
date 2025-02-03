@@ -13,6 +13,8 @@
   * Snappy Driver Installer Origin – Einfache Treibersuche und Installation
 * Updates
   * UniGetUI – Einfache Updates mit grafischer Benutzeroberfläche für winget
+* Virtualisierung
+  * VirtualBox – Kostenlose Virtualisierung
 
 ---
 
