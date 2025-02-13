@@ -21,6 +21,8 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
   Es sollte ein entsprechender Hinweis und eine Erfolgsmeldung am unteren Bildschirmrand erscheinen.
 * Zurück-Taste drücken. Nun ist der neue Eintrag *Entwickleroptionen* verfügbar. Dieser kann nun ausgewählt werden.
 
+![Screenshot: Mein Fire TV](img/Screenshot-Mein-Fire-TV.jpg "Screenshot: Mein Fire TV")
+
 ---
 
 ## SmartTube – YouTube ohne Werbung
