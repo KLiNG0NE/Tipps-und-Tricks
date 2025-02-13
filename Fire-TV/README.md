@@ -17,9 +17,13 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
   Es sollte ein entsprechender Hinweis und eine Erfolgsmeldung am unteren Bildschirmrand erscheinen.
 * Zurück-Taste drücken. Nun ist der neue Eintrag *Entwickleroptionen* verfügbar. Dieser kann nun ausgewählt werden.
 
+---
+
 ## SmartTube – YouTube ohne Werbung
 
-Um Apps aus fremden Quellen zu installieren, müssen zunächst die *Enzwickleroptionen* aktiviert werden.
+![SmartTube-Logo](img/Logo-SmartTube.png "SmartTube-Logo")
+
+Um Apps aus fremden Quellen zu installieren, müssen zunächst die *Entwickleroptionen* aktiviert werden.
 
 Offizielle Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
 
