@@ -35,6 +35,7 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
 
 Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet herunterladen und installieren.
 
+#### Methode 1: Mit Fire TV
 *Downloader* kann direkt aus dem *Amzon Store* auf dem Fire TV installiert werden:
 
 * ``Suchen`` (links das Lupen-Symbol) auswahlen und ``Downloader`` in die Such-Maske eingeben.  
@@ -42,6 +43,18 @@ Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet he
 * ``Downloader`` auswählen und die App installieren.
 * In den ``Entwickleroptionen`` den Bereich ``Unbekannte Apps installieren`` auswählen.
 * Bei ``Downloader`` auf ``An`` stellen.
+
+#### Methode 2: Mit Webbrowser
+
+*Downliader* aknn auch per Webbrowser installiert werden:
+
+* Der Browser und der Fire TV müssen beide mit dem ***selben Konto*** bei Amazon angemeldet sein.
+* Im Webroser die Amazon-Seite von *Downloader* aufrufen: [www.amazon.de](https://www.amazon.de/dp/B01N0BP507)  
+  ```https://www.amazon.de/dp/B01N0BP507```
+* Auf der Website erscheint eine Schaltfäche auf der das Fire TV-Gerät ausgewählt werden kann.
+* Auf ``Liefern`` zum bestätigen klicken.
+
+Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/downloader/)
 
 ---
 
