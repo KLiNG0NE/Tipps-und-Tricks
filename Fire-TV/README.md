@@ -12,6 +12,8 @@ Hier sind Tipps und Tricks zum Fire TV auffindbar.
 
 ## Entwickleroptionen freischalten
 
+Wer auf seinem Fire TV Apps aus fremden Quellen installieren möchte, muss zunächst die Entwickleroptionen aktivieren.
+
 Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies lässt sich jedoch einfach ändern:
 
 * Einstellungen aufrufen. – Diese sind über das Zahnradsymbol ganz rechts in der Navigationsleiste erreichbar.
