@@ -3,7 +3,9 @@
 
 * Treiber
   * GeForce FXAA – Unscharfe Textdarstellung in Programmen vermeiden
+  * Miracast – Prüfen ob der PC drahtlos Videos übertragen kann
   * [Snappy Driver Installer Origin](Snappy%20Driver%20Installer%20Origin.md) – Einfache Treibersuche und Installation
+  
 
 ---
 
