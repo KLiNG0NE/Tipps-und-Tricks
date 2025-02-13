@@ -2,7 +2,7 @@
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
 * Entwickleroptionen freischalten
-* Smart Tube – YouTube ohne Werbung
+* SmartTube – YouTube ohne Werbung
 
 ---
 
@@ -17,7 +17,7 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
   Es sollte ein entsprechender Hinweis und eine Erfolgsmeldung am unteren Bildschirmrand erscheinen.
 * Zurück-Taste drücken. Nun ist der neue Eintrag *Entwickleroptionen* verfügbar. Dieser kann nun ausgewählt werden.
 
-## Smart Tube – YouTube ohne Werbung
+## SmartTube – YouTube ohne Werbung
 
 Um Apps aus fremden Quellen zu installieren, müssen zunächst die *Enzwickleroptionen* aktiviert werden.
 
