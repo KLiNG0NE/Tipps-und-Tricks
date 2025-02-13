@@ -38,7 +38,7 @@ Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet he
 *Downloader* kann direkt aus dem *Amzon Store* auf dem Fire TV installiert werden:
 
 * ``Suchen`` auswahlen und „Downloader“ in die Such-Maske eingeben.
-  (Meist erschwint das Gesuchte schon nach wenigen eingegebenen Buchstaben.)
+  (Meist erscheint das Gesuchte schon nach wenigen eingegebenen Buchstaben.)
 * ``Downloader`` auswählen und die App installieren.
 * In den ``Entwickleroptionen`` den Bereich ``Unbekannte Apps installieren`` auswählen.
 * Bei ``Downloader`` auf ``An`` stellen.
