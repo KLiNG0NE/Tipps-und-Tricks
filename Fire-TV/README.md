@@ -4,7 +4,11 @@
 Hier sind Tipps und Tricks zum Fire TV auffindbar.
 
 * Entwickleroptionen freischalten
+* Downloader – Apps aus dem Internet laden
 * SmartTube – YouTube ohne Werbung
+
+
+---
 
 ![Screenshot: Fire TV](img/Screenshot-Fire-TV.jpg "Screenshot: Fire TV")
 
@@ -24,6 +28,20 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
 * Zurück-Taste drücken. Nun ist der neue Eintrag *Entwickleroptionen* verfügbar. Dieser kann nun ausgewählt werden.
 
 ![Screenshot: Mein Fire TV](img/Screenshot-Mein-Fire-TV.jpg "Screenshot: Mein Fire TV")
+
+---
+
+## Downloader – Apps aus dem Internet laden
+
+Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet herunterladen und installieren.
+
+*Downloader* kann direkt aus dem *Amzon Store* auf den Fire TV installiert werden:
+
+* ``Suchen`` auswahlen und „Downloader“ in die Such-Maske eingeben.
+  (Meist erschwint das Gesuchte schon nach wenigen eingegebenen Buchstaben.)
+* ``Downloader`` auswählen und die App installieren.
+* In den ``Entwickleroptionen`` den Bereich ``Unbekannte Apps installieren`` auswählen.
+* Bei ``Downloader`` auf ``An`` stellen.
 
 ---
 
