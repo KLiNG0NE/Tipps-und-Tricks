@@ -3,10 +3,9 @@
 
 Hier sind Tipps und Tricks zum Fire TV auffindbar.
 
-* Entwickleroptionen freischalten
-* Downloader – Apps aus dem Internet laden
-* SmartTube – YouTube ohne Werbung
-
+* [Entwickleroptionen freischalten](#entwickleroptionen-freischalten)
+* [Downloader](#downloader-apps-aus-dem-internet-laden) – Apps aus dem Internet laden
+* [SmartTube](#smarttube-youtube-ohne-werbung) – YouTube ohne Werbung
 
 ---
 
@@ -32,6 +31,8 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
 ---
 
 ## Downloader – Apps aus dem Internet laden
+
+![Logo: Downloader](img/Logo-Downloader.png "Logo: Downloader")
 
 Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet herunterladen und installieren.
 
