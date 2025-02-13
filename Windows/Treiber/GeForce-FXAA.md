@@ -3,9 +3,13 @@
 
 ## GeForce FXAA – Unscharfe Textdarstellung in Programmen vermeiden
 
-![Screenshot: GeForce FXAA](img/Screenshot-GeForce-FXAA.png "Screenshot: GeForce FXAA")
+Wer unbedacht die Einstellung **FXAA** in den GeForce-Treibereinstellungen aktiviert, wird evtl. bemerken, dass es in bestimmten Programmen zu unschönen Unschärfen kommt. Sobald die Maus darüber bewegt wird, „verschwindet“ die Unschäfe in diesem Bereich wieder.
 
-![Screenshot: Miracast-Ausgabe](img/Screenshot-Miracast-Ausgabe.png "Screenshot: Miracast-Ausgabe")
+#### Tipp
+* Die Einstellung in dem Reiter ``Globale Einstellungen`` auf ``Aus`` schalten.
+* In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen und die Einstellung auf ``Ein`` stellen.
+
+![Screenshot: GeForce FXAA](img/Screenshot-GeForce-FXAA.png "Screenshot: GeForce FXAA")
 
 #### Beschreibung:
 FXAA (Fast Approximate Antialiasing) ist eine Post-Process-Shading-Technik, die für jedes Programm verwendet werden kann, und zwar auch für die Programme, die keine anderen Formen von Hardware-basiertem Antialiasing unterstützen. FXAA kann zusammen mit anderen Antialiasing-Einstellungen zur Verbesserung der allgemeinen Bildqualität verwendet werden.
