@@ -1,8 +1,12 @@
 # Tipps und Tricks / Fire TV
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
+Hier sind Tipps und Tricks zum Fire TV auffindbar.
+
 * Entwickleroptionen freischalten
 * SmartTube – YouTube ohne Werbung
+
+![Screenshot: Fire TV](img/Screenshot-Fire-TV.jpg "Screenshot: Fire TV")
 
 ---
 
