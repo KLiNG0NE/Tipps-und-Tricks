@@ -3,6 +3,8 @@
 
 ## Miracast
 
+Miracast ist ein Peer-to-Peer-Funk-Screencast-Standard, der 2012 von der Wi-Fi Alliance definiert wurde. Der Standard ermöglicht unter anderem, den Bildschirminhalt eines Rechners, auf einen TV-Bildschirm zu übertragen.
+
 ### Miracast – Prüfen ob der PC drahtlos Videos übertragen kann
 
 * Eingabeaufforderung/Terminal öffnen  
