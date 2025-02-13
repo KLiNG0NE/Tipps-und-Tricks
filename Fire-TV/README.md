@@ -13,7 +13,7 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
 * Einstellungen aufrufen. – Diese sind über das Zahnradsymbol ganz rechts in der Navigationsleiste erreichbar.
 * Zu *Mein Fire TV* navigieren und *Info* auswählen.
 * Die Option *Fire TV Stick* (beziehungsweise den genauen Gerätenamen) markieren.  
-  Siebenmal hintereinander die Auswahl-Taste auf der Fernbedienung (die große runde Taste) drücken.  
+  Siebenmal hintereinander die Auswahl-Taste (die große runde Taste) auf der Fernbedienung drücken.  
   Es sollte ein entsprechender Hinweis und eine Erfolgsmeldung am unteren Bildschirmrand erscheinen.
 * Zurück-Taste drücken. Nun ist der neue Eintrag *Entwickleroptionen* verfügbar. Dieser kann nun ausgewählt werden.
 
