@@ -18,6 +18,8 @@ netsh wlan show drivers
 
 ![Screenshot: Miracast-Ausgabe](img/Screenshot-Miracast-Ausgabe.png "Screenshot: Miracast-Ausgabe")
 
+*Quelle:* [www.vive.com](https://www.vive.com/de/support/focus3/category_howto/casting-to-pc-casting-to-pc-miracast-unterst%C3%BCtzung-%C3%BCberpr%C3%BCfen.html)
+
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](../README.md) / [Treiber](README.md)
