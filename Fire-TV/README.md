@@ -9,7 +9,11 @@ Hier sind Tipps und Tricks zum Fire TV auffindbar.
 
 ---
 
+#### Screenshot: Fire TV
+
 ![Screenshot: Fire TV](img/Screenshot-Fire-TV.jpg "Screenshot: Fire TV")
+
+Die *Einstellungen* befinden sich im oberen Navigationsmenü ganz rechts (Zahnrad-Symbol).
 
 ---
 
