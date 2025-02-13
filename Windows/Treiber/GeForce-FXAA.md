@@ -5,6 +5,8 @@
 
 Wer unbedacht die Einstellung **FXAA** in den GeForce-Treibereinstellungen aktiviert, wird evtl. bemerken, dass es in bestimmten Programmen zu unschönen Unschärfen kommt. Sobald die Maus darüber bewegt wird, „verschwindet“ die Unschäfe in diesem Bereich wieder.
 
+FXAA (Fast Approximate Antialiasing) ermöglicht es z. B. bei Spielen, die keine eigene Antialiasing-Technik unterstützen, trotzdem Antialiasing anzuwenden. Ist dies im Treiber bei den *Globalen Einstellungen* aktiviert, wirkt sich allerdings auch auf Programme aus, bei denen es, besonders bei Schriften, zu unschafer Darstellung kommt.
+
 #### Tipp
 * Die Einstellung in dem Reiter ``Globale Einstellungen`` auf ``Aus`` schalten.
 * In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen, und die Einstellung auf ``Ein`` stellen.
