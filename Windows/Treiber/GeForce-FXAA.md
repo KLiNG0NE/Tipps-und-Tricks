@@ -9,7 +9,7 @@ FXAA (Fast Approximate Antialiasing) ermöglicht es z. B. bei Spielen, die kein
 
 #### Tipp
 * Die Einstellung in dem Reiter ``Globale Einstellungen`` auf ``Aus`` schalten.
-* In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen, und die Einstellung auf ``Ein`` stellen.
+* In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen, bei dem FXAA aktiviert werden soll, und die Einstellung auf ``Ein`` stellen.
 
 #### Screenshot
 ![Screenshot: GeForce FXAA](img/Screenshot-GeForce-FXAA.png "Screenshot: GeForce FXAA")
