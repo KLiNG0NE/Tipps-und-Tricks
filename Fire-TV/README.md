@@ -35,7 +35,7 @@ Die Entwickleroptionen sind standardmäßig deaktiviert und versteckt. Dies läs
 
 Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet herunterladen und installieren.
 
-*Downloader* kann direkt aus dem *Amzon Store* auf den Fire TV installiert werden:
+*Downloader* kann direkt aus dem *Amzon Store* auf dem Fire TV installiert werden:
 
 * ``Suchen`` auswahlen und „Downloader“ in die Such-Maske eingeben.
   (Meist erschwint das Gesuchte schon nach wenigen eingegebenen Buchstaben.)
