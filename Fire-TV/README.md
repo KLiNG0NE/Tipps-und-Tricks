@@ -46,7 +46,7 @@ Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet he
 
 #### Methode 2: Mit Webbrowser
 
-*Downloader* aknn auch per Webbrowser installiert werden:
+*Downloader* kann auch per Webbrowser installiert werden:
 
 * Der Browser und der Fire TV müssen beide mit dem ***selben Konto*** bei Amazon angemeldet sein.
 * Im Webroser die Amazon-Seite von *Downloader* aufrufen: [www.amazon.de](https://www.amazon.de/dp/B01N0BP507)  
