@@ -7,7 +7,7 @@ Wer unbedacht die Einstellung **FXAA** in den GeForce-Treibereinstellungen aktiv
 
 #### Tipp
 * Die Einstellung in dem Reiter ``Globale Einstellungen`` auf ``Aus`` schalten.
-* In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen und die Einstellung auf ``Ein`` stellen.
+* In den Einstellungen ``Programmeinstellungen`` das gewünschte Programm wählen, und die Einstellung auf ``Ein`` stellen.
 
 ![Screenshot: GeForce FXAA](img/Screenshot-GeForce-FXAA.png "Screenshot: GeForce FXAA")
 
