@@ -114,11 +114,15 @@ KODI ist ein umfangreicher Medienplayer. Unter anderem kann damit Live-TV über 
 * Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
 * Die [Downloader](#downloader-apps-aus-dem-internet-laden)-App starten.
 * Die Website ``kodi.tv`` aufrufen.
-* Den Bereich ``Download`` im *„Burgermenü“ der Website* (Die drei waagrechten Striche rechts oben) suchen, und mit dem roten Auswahlkreis anwählen.
-* Auf der Download-Seite im Bereich ``Select Your Platform`` den Eintrag ``Android`` mit dem roten Kreis auswählen.
-  * *Tipp:* Im Burgermenü der *Downloader*-App kann diese Seite, für spätere Updates, zu den Favoriten zugefügt werden.
+  * Den Bereich ``Download`` im *„Burgermenü“ der Website* (Die drei waagrechten Striche rechts oben) suchen, und mit dem roten Auswahlkreis anwählen.
+  * Auf der Download-Seite im Bereich ``Select Your Platform`` den Eintrag ``Android`` mit dem roten Kreis auswählen.
+* Alternative 1: Den Nummerncode ``242913`` in Downloader aufrufen.
+* Alternative 2: Die URL ``kutt.it/kodi`` aufrufen.
+* *Tipp:* Im Burgermenü der *Downloader*-App kann diese Seite, für spätere Updates, zu den Favoriten zugefügt werden.
 * Hier nun die Version ``ARMV7A (32Bit)`` anwählen.
+  * Alternative 3: Direkt die URL ``kutt.it/kodiapp`` aufrufen. (Leider nicht immer aktuell.)
 * Der Download der APK-Datei startet, und die Installation wird angeboten.
+* Nach dem Download und der Installation kann die APK-Datei gelöscht werden.
 
 Offizielle Website: [kodi.tv](https://kodi.tv/)
 
