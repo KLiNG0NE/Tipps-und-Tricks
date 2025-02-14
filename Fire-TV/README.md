@@ -63,7 +63,7 @@ Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet he
 * Bei ``Downloader`` auf ``An`` stellen.
 
 #### Tipp:
-> Im *Burgermenü* (Die drei waagrechten Striche oben rechts) können Favoriten zu häufig genutzten Seiten angelegt werden.
+> Im *Burgermenü* (Die drei waagrechten Striche oben rechts) können Favoriten zu häufig genutzten Seiten angelegt werden.  
 > Das ist besonders pracktisch, wenn eine App für ein *Update* neu heruntergeladen werden muss.
 
 Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/downloader/)
