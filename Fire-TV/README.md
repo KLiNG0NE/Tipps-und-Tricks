@@ -62,6 +62,10 @@ Die App *Downloader* kann unter anderem Apps (*.APK-Dateien) aus dem Internet he
 * Danach in den ``Entwickleroptionen`` den Bereich ``Unbekannte Apps installieren`` auswählen.
 * Bei ``Downloader`` auf ``An`` stellen.
 
+#### Tipp:
+> Im *Burgermenü* (Die drei waagrechten Striche oben rechts) können Favoriten zu häufig genutzten Seiten angelegt werden.
+> Das ist besonders pracktisch, wenn eine App für ein *Update* neu heruntergeladen werden muss.
+
 Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/downloader/)
 
 ---
@@ -70,7 +74,26 @@ Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/
 
 ![SmartTube-Logo](img/Logo-SmartTube.png "SmartTube-Logo")
 
-Um Apps aus fremden Quellen zu installieren, müssen zunächst die *Entwickleroptionen* aktiviert werden.
+Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
+
+#### Screenshot: SmartTube
+
+![Screenshot: SmartTube](img/Screenshot-SmartTube.jpg "Screenshot: SmartTube")
+
+Methode 1: Downloader (Einfach)
+
+* Die Downloader-App starten
+* Einen der folgenden Nummerncodes, je nach gewünschter Version, eingeben:
+  * Stabile Version: ``28544``
+  * Beta-Version: ``79015``
+* Alternativ die Website aufrufen: ``smarttubeapp.github.io``.
+  * Nach unten bis zu ``Download apk`` scrollen.
+  * Link zu der gewünschten Version anwählen.
+* Die App wird als APK-Datei heruntergeladen und die Installation wird angeboten.
+* Nach der Installation kann die heruntergeladene Datei gelöscht werden, um Speicherplatz zu sparen.
+
+#### Tipp:
+> Die SmartTube-App in den Entwickleroptionen im Bereich *Unbekannte Apps installieren* auf **AN** stellen, dann kann die App Updates durchführen.
 
 Offizielle Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
 
