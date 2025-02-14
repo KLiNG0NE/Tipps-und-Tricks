@@ -6,6 +6,7 @@ Hier sind Tipps und Tricks zum Fire TV auffindbar.
 * [Entwickleroptionen freischalten](#entwickleroptionen-freischalten)
 * [Downloader](#downloader-apps-aus-dem-internet-laden) – Apps aus dem Internet laden
 * [SmartTube](#smarttube-youtube-ohne-werbung) – YouTube ohne Werbung
+* [KODI](#kodi-auf-fire-tv-installieren) auf Fire TV installieren
 
 ---
 
@@ -107,6 +108,17 @@ Offizielle Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
 ## KODI auf Fire TV installieren
 
 ![Logo: KODI](img/Logo-KODI.png "Logo: KODI")
+
+KODI ist ein umfangreicher Medienplayer. Unter anderem kann damit Live-TV über das Internet geschaut werden.
+
+* Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
+* Die [Downloader](#downloader-apps-aus-dem-internet-laden)-App starten.
+* Die Website ``kodi.tv`` aufrufen.
+* Im Bereich ``Select Your Platform`` den Eintrag ``Android`` mit dem roten Kreis auswählen.
+* Hier nun die Version ``ARMV7A (32Bit)`` anwählen.
+* Der Download der APK-Datei startet, und die Installation wird angeboten.
+
+Offizielle Website: [kodi.tv](https://kodi.tv/)
 
 ---
 
