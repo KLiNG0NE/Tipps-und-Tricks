@@ -86,10 +86,13 @@ Methode 1: Downloader (Einfach)
 * Einen der folgenden Nummerncodes, je nach gewünschter Version, eingeben:
   * Stabile Version: ``28544``
   * Beta-Version: ``79015``
-* Alternativ die Website aufrufen: ``smarttubeapp.github.io``.
+* Alternative 1: Die Website aufrufen: ``smarttubeapp.github.io``.
   * Nach unten bis zu ``Download apk`` scrollen.
-  * Link zu der gewünschten Version anwählen.
-* Die App wird als APK-Datei heruntergeladen und die Installation wird angeboten.
+  * Link zu der gewünschten Version mit dem roten runden „Mauszeiger“ anwählen.
+* Alternative 2: Die gewünschte Kurz-URL zur Version aufrufen:
+  * Stabile Version: ``kutt.it/stn_stable``
+  * Beta-Version: ``kutt.it/stn_beta``
+* Die App wird als APK-Datei heruntergeladen, und anschließend die Installation angeboten.
 * Nach der Installation kann die heruntergeladene Datei gelöscht werden, um Speicherplatz zu sparen.
 
 #### Tipp:
