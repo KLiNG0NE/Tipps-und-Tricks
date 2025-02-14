@@ -75,15 +75,16 @@ Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/
 ![SmartTube-Logo](img/Logo-SmartTube.png "SmartTube-Logo")
 ![SmartTube Beta-Logo](img/Logo-SmartTube-Beta.png "SmartTube Beta-Logo")
 
-Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
+Mit *SmartTube* kann auf YouTube Videos ohne Werbeunterbrechung und Sponsor-Blöcke geschaut werden. Die App bietet vielfältige Einstellungen. 
 
 #### Screenshot: SmartTube
 
 ![Screenshot: SmartTube](img/Screenshot-SmartTube.jpg "Screenshot: SmartTube")
 
-Methode 1: Downloader (Einfach)
+Methode 1: Downloader-App (Einfach)
 
-* Die Downloader-App starten
+* Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
+* Die [Downloader](#downloader-apps-aus-dem-internet-laden)-App starten
 * Einen der folgenden Nummerncodes, je nach gewünschter Version, eingeben:
   * Stabile Version: ``28544``
   * Beta-Version: ``79015``
