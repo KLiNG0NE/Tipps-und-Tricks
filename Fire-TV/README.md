@@ -75,7 +75,7 @@ Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/
 ![SmartTube-Logo](img/Logo-SmartTube.png "SmartTube-Logo")
 ![SmartTube Beta-Logo](img/Logo-SmartTube-Beta.png "SmartTube Beta-Logo")
 
-Mit *SmartTube* kann auf YouTube Videos ohne Werbeunterbrechung und Sponsor-Blöcke geschaut werden. Die App bietet vielfältige Einstellungen. 
+Mit *SmartTube* können Videos auf YouTube ohne Werbeunterbrechung und Sponsor-Blöcke geschaut werden. Die App bietet vielfältige Einstellungsmöglichkeiten. 
 
 #### Screenshot: SmartTube
 
