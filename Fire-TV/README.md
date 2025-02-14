@@ -104,4 +104,10 @@ Offizielle Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
 
 ---
 
+## KODI auf Fire TV installieren
+
+![Screenshot: SmartTube](img/Screenshot-SmartTube.jpg "Screenshot: SmartTube")
+
+---
+
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Fire TV](README.md)
