@@ -73,6 +73,7 @@ Offizielle Website des Herstellers: [www.aftvnews.com](https://www.aftvnews.com/
 ## SmartTube – YouTube ohne Werbung
 
 ![SmartTube-Logo](img/Logo-SmartTube.png "SmartTube-Logo")
+![SmartTube Beta-Logo](img/Logo-SmartTube-Beta.png "SmartTube Beta-Logo")
 
 Um Apps aus fremden Quellen installieren zu können, müssen zunächst die [Entwickleroptionen](#entwickleroptionen-freischalten) aktiviert werden.
 
