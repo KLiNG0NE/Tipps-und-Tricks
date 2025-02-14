@@ -10,6 +10,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 * [Browser](Browser)
 * [Docker-Compose](Docker-Compose)
 * [Fire TV](Fire-TV)
+* [KODI](KODI)
 * [Linux](Linux)
 * [Live-TV am PC](Live-TV-am-PC)
 * [Proxmox](Proxmox)
