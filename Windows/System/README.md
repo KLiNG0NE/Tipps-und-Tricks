@@ -66,15 +66,15 @@ Der korrekte Pfad zu dieser Datei wird für den nächsten Befehl benötigt.
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd
 ```
 
-Nun werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
+Hier werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
 
 ```
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitAccess
 ```
 
-Nun wird nur der Inhalt ISO-Datei genutzt, und „Windows Update“ wird igoriert. Dies ist z. B. nützlich, sofern keine Internetverbindung besteht.
+Nun wird nur der Inhalt der ISO-Datei genutzt, und „Windows Update“ wird igoriert. – Dies ist z. B. nützlich, sofern keine Internetverbindung besteht.
 
-Jetzt sollte der Befehl „SFC /ScanNow“ ohne Probleme die korrupten Dateien ersetzen können.
+Anschließend sollte der Befehl „SFC /ScanNow“ ohne Probleme die korrupten Dateien ersetzen können.
 
 ---
 
