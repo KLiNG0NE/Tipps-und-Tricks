@@ -42,16 +42,14 @@ Zunächst wird hierfür die passende ISO-Datei von Microsoft heruntergeladen:
 
 **Windows 10:** [www.microsoft.com](https://www.microsoft.com/de-de/software-download/windows10)
 
-Hier muss zunächst das „Media Creation Tool“ herunter geladen, und eine ISO-Datei erstellt werden.
-
+Hier muss zunächst das „Media Creation Tool“ herunter geladen, und eine ISO-Datei erstellt werden.  
 (In dem Bereich „Windows 10-Installationsmedium erstellen“ auf „Jetzt herunterladen“ klicken.)
 
 ---
 
 **Windows 11:** [www.microsoft.com](https://www.microsoft.com/de-de/software-download/windows11)
 
-Hier kann die gewünschte Datei in dem Bereich „Windows 11 Laufwerkimage (ISO) für x64-Geräte herunterladen“ direkt heruntergeladen werden.
-
+Hier kann die gewünschte Datei in dem Bereich „Windows 11 Laufwerkimage (ISO) für x64-Geräte herunterladen“ direkt heruntergeladen werden.  
 (Auf „Jetzt herunterladen“ klicken, und dann die korrekte Sprache auswählen.)
 
 ---
@@ -66,7 +64,7 @@ Der korrekte Pfad zu dieser Datei wird für den nächsten Befehl benötigt.
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd
 ```
 Der Bereich hinter ``/Source:`` muss an die eigene ISO-Datei angepasst werden.  
-In diesem Fall werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
+In diesem Fall werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl folgendermaßen erweitert werden:
 
 ```
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitAccess
