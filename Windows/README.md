@@ -2,7 +2,7 @@
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
 * Dateiverwaltung
-  * [Autostart-Ordner](Autostart-Ordner.md)
+  * [Autostart-Ordner](Dateiverwaltung/Autostart-Ordner.md)
   * [Symbolische Verknüpfungen](Symbolische-Verknüpfungen.md)
   * Speicherort der Startmenü-Verknüpfungen
 * Dualboot
