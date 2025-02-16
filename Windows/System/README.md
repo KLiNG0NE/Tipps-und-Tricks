@@ -75,6 +75,8 @@ Nun wird nur der Inhalt der ISO-Datei genutzt, und „Windows Update“ wird ign
 
 Anschließend sollte der Befehl „SFC /ScanNow“ ohne Probleme die korrupten Dateien ersetzen können.
 
+*Quelle:* [CyberCPU Tech – Easily fix broken Windows files now with System File Checker](https://www.youtube.com/watch?v=acxCueZ2dVQ)
+
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
