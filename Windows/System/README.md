@@ -36,7 +36,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 Sollte auch dies nicht zum Erfolg führen, können die Dateien mit einem Installationsmedium (ISO-Datei) abgeglichen werden.
 
-Zunächst wird hierfür die passende ISO-Datei von Microsoft heruntergeladen.
+Zunächst wird hierfür die passende ISO-Datei von Microsoft heruntergeladen:
 
 ---
 
