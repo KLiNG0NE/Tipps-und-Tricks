@@ -20,7 +20,7 @@ SFC /ScanNow
 
 (DISM steht für Deployment Image Servicing and Management Tool.)
 
-Findet SFC korrupte Dateien, kann sie jedoch nicht reparieren, so helfen die folgenden Befehle weiter:
+Findet SFC korrupte Dateien, kann sie jedoch nicht reparieren, so helfen die folgenden Schritte weiter:
 
 Zunächst kann geprüft werden, ob die Systemdatei-Kopien in einem ordnungsgemäßen Zustand sind.
 
@@ -28,12 +28,53 @@ Zunächst kann geprüft werden, ob die Systemdatei-Kopien in einem ordnungsgemä
 DISM /Online /Cleanup-Image /ScanHealth
 ```
 
-Findet DISM hier Probleme, so können diese mit folgendem Befehl korrigiert werden:
+Findet DISM hier Probleme, so können diese mit folgendem Befehl behoben werden:
 
 ```
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
 
+Sollte auch dies nicht zum Erfolg führen, können die Dateien mit einem Installationsmedium (ISO-Datei) abgeglichen werden.
+
+Zunächst wird hierfür die passende ISO-Datei von Microsoft heruntergeladen.
+
+---
+
+**Windows 10:** [www.microsoft.com](https://www.microsoft.com/de-de/software-download/windows10)
+
+Hier muss zunächst das „Media Creation Tool“ herunter geladen, und eine ISO-Datei erstellt werden.
+
+(In dem Bereich „Windows 10-Installationsmedium erstellen“ auf „Jetzt herunterladen“ klicken.)
+
+---
+
+**Windows 11:** [www.microsoft.com](https://www.microsoft.com/de-de/software-download/windows11)
+
+Hier kann die gewünschte Datei in dem Bereich „Windows 11 Laufwerkimage (ISO) für x64-Geräte herunterladen“ direkt heruntergeladen werden.
+
+(Auf „Jetzt herunterladen“ klicken, und dann die korrekte Sprache auswählen.)
+
+---
+
+Sobald die Datei herunter geladen wurde, kann diese mit einam Doppelklick gemounted (bereitgestellt) werden.  
+(Sie erscheint dann im Windows-Explorer als ob eine normale CD in ein Laufwerk eingelegt wird.)
+
+Hier schauen wir zunächst in dem Ordner „sources“, ob eine Datei ``install.esd`` oder ``install.wim`` vorhanden ist.  
+Der korrekte Pfad zu dieser Datei wird für den nächsten Befehl benötigt.
+
+```
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd
+```
+
+Nun werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
+
+```
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitAccess
+```
+
+Nun wird nur der Inhalt ISO-Datei genutzt, und „Windows Update“ wird igoriert. Dies ist z. B. nützlich, sofern keine Internetverbindung besteht.
+
+Jetzt sollte der Befehl „SFC /ScanNow“ ohne Probleme die korrupten Dateien ersetzen können.
 
 ---
 
