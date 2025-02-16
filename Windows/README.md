@@ -3,8 +3,8 @@
 
 * Dateiverwaltung
   * [Autostart-Ordner](Dateiverwaltung/Autostart-Ordner.md)
-  * [Symbolische Verknüpfungen](Symbolische-Verknüpfungen.md)
-  * Speicherort der Startmenü-Verknüpfungen
+  * [Symbolische Verknüpfungen](Dateiverwaltung/Symbolische-Verknüpfungen.md)
+  * [Speicherort der Startmenü-Verknüpfungen](Dateiverwaltung/Startmenü-Verknüpfungen)
 * Dualboot
   * [Falsche Uhrzeit bei Dualboot](Falsche-Uhrzeit-bei-Dualboot.md)
 * Lizenz
