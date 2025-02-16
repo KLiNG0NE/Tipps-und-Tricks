@@ -65,8 +65,8 @@ Der korrekte Pfad zu dieser Datei wird für den nächsten Befehl benötigt.
 ```
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd
 ```
-
-Hier werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
+Der Bereich hinter ``/Source:`` muss an die eigene ISO-Datei angepasst werden.  
+In diesem Fall werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl erweitert werden:
 
 ```
 DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitAccess
