@@ -16,7 +16,7 @@ Mit SFC wird geprüft, ob die Windows-Dateien im ordnungemäßen Zustand sind.
 SFC /ScanNow
 ```
 
-### DISM - System File Cache prüfen und reparieren
+### DISM – System File Cache prüfen und reparieren
 
 (DISM steht für Deployment Image Servicing and Management Tool.)
 
