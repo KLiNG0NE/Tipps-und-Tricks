@@ -73,7 +73,7 @@ DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitA
 
 Nun wird nur der Inhalt der ISO-Datei genutzt, und „Windows Update“ wird ignoriert. – Dies ist z. B. nützlich, sofern keine Internetverbindung besteht.
 
-Anschließend sollte der Befehl „SFC /ScanNow“ ohne Probleme die korrupten Dateien ersetzen können.
+Anschließend sollte der Befehl ``SFC /ScanNow`` ohne Probleme die korrupten Dateien ersetzen können.
 
 *Quelle:*  
 [CyberCPU Tech](https://www.youtube.com/watch?v=acxCueZ2dVQ) – Easily fix broken Windows files now with System File Checker
