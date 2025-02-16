@@ -6,7 +6,7 @@
 Verknüpfungen, die sich im Autostart-Ordnner von Windows befinden, werden beim Systemstart automatisch ausgeführt. So können z. B. Programme beim Start ausgeführt werden.  
 Werden die Verknüpfungen hier gelöscht, kann der Start der Programme ebenso verhindert werden.
 
-### Per Tastenkombination
+### Benutzereigener Autostart-Ordner
 
 Mit der Tastenkombination ``[Win] + [R]`` wird der Ausführen-Dialog geöffnet.
 
