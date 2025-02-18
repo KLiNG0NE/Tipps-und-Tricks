@@ -8,7 +8,7 @@
 ## Methode 1: Eingabeaufforderung und OOBE-Script
 
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
-* Durch druck auf die Taste ``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
+* Durch druck auf die Taste ``Shift``+``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
 * Folgendes Script aufrufen:
 
 ```
