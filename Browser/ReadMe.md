@@ -4,6 +4,7 @@
   * [Download](#download)
   * [Lesezeichen-/Favoritenverwaltung](#lesezeichen-favoritenverwaltung)
   * [Websitefilter](#websitefilter)
+  * Twitch
   * [YouTube](#youtube)
 
 ## Plug-ins
