@@ -7,6 +7,8 @@
   * [Speicherort der Startmenü-Verknüpfungen](Dateiverwaltung/Startmenü-Verknüpfungen.md)
 * Dualboot
   * [Falsche Uhrzeit bei Dualboot](Falsche-Uhrzeit-bei-Dualboot.md)
+* Installation
+  * Lokales Konto einrichten (Online-Konto umgehen)
 * Lizenz
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
 * [System](System/README.md)
