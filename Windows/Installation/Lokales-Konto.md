@@ -14,7 +14,7 @@
 ```
 OOBE\BypassNRO
 ```
-(Gro0-und-Kleinschreibung ist unerheblich)
+(Groß- und Kleinschreibung ist unerheblich)
 
 > *OOBE* steht für "Out of the Box Experience"\
 > *Bypass* heisst auf deutsch etwa „umgehen“\
