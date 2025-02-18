@@ -9,7 +9,7 @@
 
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch druck auf die Taste ``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
-* Folgendes Skript aufrufen:
+* Folgendes Script aufrufen:
 
 ```
 OOBE\BypassNRO
