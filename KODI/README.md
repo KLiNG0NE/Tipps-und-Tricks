@@ -23,7 +23,7 @@ Viele TV-Sender bieten ihre Sendungen per Live-Stream im Internet an. Diese Stre
 
 ### PVR-Addon: IPTV Simple Client
 
-![](Bild)
+![Logo: IPTV Simple Client](img/IPTV-Simple-Client-Logo.png)
 
 Zum Abspielen von Live-Streams kann das PVR-Addon *IPTV Simple Client* genutzt werden.
 
