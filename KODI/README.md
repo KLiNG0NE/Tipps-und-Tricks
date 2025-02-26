@@ -5,7 +5,7 @@ Tipps und Tricks für Computer und Internet
 
 Hier sind verschiedene Tipps und Tricks zu KODI auffindbar. – Kodi ist eine *Open Source Home Theater Software*.
 
-Kodi stellt Ihren Smart-TV in den Schatten. Kodi spielt fast jede Art von Medien ab, die Sie finden können, und sieht dabei auch noch großartig aus[^1]!
+Kodi stellt Ihren Smart-TV in den Schatten. Kodi spielt fast jede Art von Medien ab, die Sie finden können, und sieht dabei auch noch großartig aus![^1]
 
 [^1]: Übersetzung der Website: https://kodi.tv/
 
@@ -15,11 +15,15 @@ Kodi stellt Ihren Smart-TV in den Schatten. Kodi spielt fast jede Art von Medien
   * PVR-Addon: IPTV Simple Client
   * M3U-Playliste für deutsche TV- und Radiosender
 
+---
+
 ## Live-TV
 
 Viele TV-Sender bieten ihre Sendungen per Live-Stream im Internet an. Diese Streams kann Kodi abspielen.
 
 ### PVR-Addon: IPTV Simple Client
+
+![](Bild)
 
 Zum Abspielen von Live-Streams kann das PVR-Addon *IPTV Simple Client* genutzt werden.
 
@@ -29,6 +33,8 @@ Zum Abspielen von Live-Streams kann das PVR-Addon *IPTV Simple Client* genutzt w
 * Kodi Ass-on Repository (Team Kodi)
 * PVR-Clients
 * IPTV Simple Client
+
+---
 
 ### M3U-Playliste für deutsche TV- und Radiosender
 
@@ -55,8 +61,6 @@ https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u
 ---
 
 Offizielle Website: https://kodi.tv/
-
-
 
 ---
 
