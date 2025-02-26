@@ -23,14 +23,16 @@ Viele TV-Sender bieten ihre Sendungen per Live-Stream im Internet an. Diese Stre
 
 ### PVR-Addon: IPTV Simple Client
 
+Zum Abspielen von Live-Streams kann das PVR-Addon *IPTV Simple Client* genutzt werden. (PVR = Personal Video Recorder)
+
 ![Logo: IPTV Simple Client](img/IPTV-Simple-Client-Logo.png)
 
-Zum Abspielen von Live-Streams kann das PVR-Addon *IPTV Simple Client* genutzt werden.
+Folgendermaßen kann das PVR-Addon installiert werden:
 
 * Einstellungen
 * Addons
 * Aus Repository installieren
-* Kodi Ass-on Repository (Team Kodi)
+* Kodi Add-on Repository (Team Kodi)
 * PVR-Clients
 * IPTV Simple Client
 
