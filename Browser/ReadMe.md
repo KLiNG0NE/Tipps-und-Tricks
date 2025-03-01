@@ -61,7 +61,9 @@ Website: [www.ghostery.com](https://www.ghostery.com/ "Ghostery.com")
 
 Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^3].
 
-[privacybadger.org](https://privacybadger.org/)
+![Logo: Privacy Badger](img/Privacy-Badger.png "Logo: Privacy Badger")
+
+Website: [privacybadger.org](https://privacybadger.org/ "privacybadger.org")
 
 ---
 
