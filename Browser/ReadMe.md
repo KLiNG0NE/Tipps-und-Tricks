@@ -81,7 +81,9 @@ Website: [privacybadger.org](https://privacybadger.org/ "privacybadger.org")
 
 Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites heraus.
 
-[www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu/de)
+![Logo: I don't care about cookies](img/i-dont-care-about-cookies.png "Logo: I don't care about cookies")
+
+[www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu/de "i-dont-care-about-cookies.eu")
 
 ---
 
