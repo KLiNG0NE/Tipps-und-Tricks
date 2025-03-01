@@ -27,7 +27,7 @@ Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern 
 
 ![Logo: xBrowserSync](img/xBrowserSync.png "Logo: xBrowserSync")
 
-[www.xbrowsersync.org](https://www.xbrowsersync.org/ "xBrowserSync.org")
+Website: [www.xbrowsersync.org](https://www.xbrowsersync.org/ "xBrowserSync.org")
 
 ---
 
@@ -39,20 +39,27 @@ Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (
 
 ![Logo: uBlock Origin](img/uBlock-Origin.png "Logo: uBlock Origin")
 
+Website: [ublockorigin.com](https://ublockorigin.com/ "uBlockOrigin.com")
 
-[ublockorigin.com](https://ublockorigin.com/ "uBlockOrigin.com")
+---
 
 #### Ghostery
 
 Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Schutz der Privatsphäre zu gewährleisten. Ganz gleich, ob Sie einen Werbeblocker, einen Tracker-Neutralisierer oder eine private Suchmaschine benötigen, Ghostery hat alles für Sie[^2].
 
-[www.ghostery.com](https://www.ghostery.com/)
+![Logo: Ghostery](img/Ghostery.png "Logo: Ghostery")
+
+Website: [www.ghostery.com](https://www.ghostery.com/ "Ghostery.com")
+
+---
 
 #### Privacy Badger
 
 Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^3].
 
 [privacybadger.org](https://privacybadger.org/)
+
+---
 
 #### I don't care about cookies
 
@@ -69,6 +76,8 @@ Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites hera
 SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Überspringen von Sponsor-Segmenten in YouTube-Videos. Nutzer melden sich, wenn ein Sponsor in der Erweiterung auftaucht, und die Erweiterung überspringt automatisch die Sponsoren, von denen sie weiß, indem sie ein Abfragesystem verwendet, das die Privatsphäre schützt. Sie unterstützt auch das Überspringen anderer Kategorien, wie Intros, Outros und Erinnerungen zum Abonnieren, und das Überspringen zum Punkt mit Highlight[^4].
 
 [sponsor.ajay.app](https://sponsor.ajay.app/)
+
+---
 
 #### Return YouTube Dislike
 
