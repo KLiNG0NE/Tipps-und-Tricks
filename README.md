@@ -2,6 +2,8 @@
 Tipps und Tricks für Computer und Internet
 ---
 
+![GitHub Created At](https://img.shields.io/github/created-at/KLiNG0NE/Tipps-und-Tricks) ![GitHub last commit](https://img.shields.io/github/last-commit/KLiNG0NE/Tipps-und-Tricks)
+
 Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. – Eigentlich dient mir dieser Bereich als eine Art „Spickzettel“. Kniffe und Infos, die ich immer wieder benötige, schreibe ich hier einfach auf, und kann sie so schnell wiederfinden.
 
 ## Inhalt
