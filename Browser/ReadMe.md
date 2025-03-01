@@ -14,7 +14,8 @@ Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöp
 ### Download
 
 #### Video DownloadHelper
-![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red?link=https%3A%2F%2Faddons.mozilla.org%2Fde%2Ffirefox%2Faddon%2Fvideo-downloadhelper%2F) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue?link=https://chromewebstore.google.com/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)
+
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red?logo=firefoxbrowser) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue?logo=googlechrome)
 
 Mit *Video DownloadHelper* können recht einfach Videos von Websites heruntergeladen werden.
 
