@@ -14,6 +14,7 @@ Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöp
 ### Download
 
 #### Video DownloadHelper
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red?link=https%3A%2F%2Faddons.mozilla.org%2Fde%2Ffirefox%2Faddon%2Fvideo-downloadhelper%2F) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue?link=https://chromewebstore.google.com/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)
 
 Mit *Video DownloadHelper* können recht einfach Videos von Websites heruntergeladen werden.
 
@@ -27,6 +28,8 @@ Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video Downloa
 
 #### xBrowserSync
 
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
+
 Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern sowie Android synchronisieren.
 
 ![Logo: xBrowserSync](img/xBrowserSync.png "Logo: xBrowserSync")
@@ -39,6 +42,8 @@ Website: [www.xbrowsersync.org](https://www.xbrowsersync.org/ "xBrowserSync.org"
 
 #### uBlock origin
 
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
+
 Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (Werbung, Social-Networks, ...)
 
 ![Logo: uBlock Origin](img/uBlock-Origin.png "Logo: uBlock Origin")
@@ -49,6 +54,8 @@ Website: [ublockorigin.com](https://ublockorigin.com/ "uBlockOrigin.com")
 
 #### Ghostery
 
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
+
 Ghostery bietet mehrere Anwendungen, die zusammenarbeiten, um einen optimalen Schutz der Privatsphäre zu gewährleisten. Ganz gleich, ob Sie einen Werbeblocker, einen Tracker-Neutralisierer oder eine private Suchmaschine benötigen, Ghostery hat alles für Sie[^2].
 
 ![Logo: Ghostery](img/Ghostery.png "Logo: Ghostery")
@@ -58,6 +65,8 @@ Website: [www.ghostery.com](https://www.ghostery.com/ "Ghostery.com")
 ---
 
 #### Privacy Badger
+
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
 
 Privacy Badger ist eine Browsererweiterung, die Werbetreibende und andere Drittanbieter davon abhält, heimlich zu verfolgen, wohin Sie gehen und welche Seiten Sie sich im Internet ansehen. Wenn ein Werbetreibender Sie ohne Ihre Erlaubnis über mehrere Websites hinweg verfolgt, blockiert Privacy Badger automatisch, dass dieser Werbetreibende weitere Inhalte in Ihrem Browser lädt. Für den Werbetreibenden ist es so, als wären Sie plötzlich verschwunden[^3].
 
@@ -79,6 +88,8 @@ Zu deutsch: Cookies sind mir egal. Filtert die Cookie-Hinweise von Websites hera
 
 #### SponsorBlock
 
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
+
 SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Überspringen von Sponsor-Segmenten in YouTube-Videos. Nutzer melden sich, wenn ein Sponsor in der Erweiterung auftaucht, und die Erweiterung überspringt automatisch die Sponsoren, von denen sie weiß, indem sie ein Abfragesystem verwendet, das die Privatsphäre schützt. Sie unterstützt auch das Überspringen anderer Kategorien, wie Intros, Outros und Erinnerungen zum Abonnieren, und das Überspringen zum Punkt mit Highlight[^4].
 
 [sponsor.ajay.app](https://sponsor.ajay.app/)
@@ -86,6 +97,8 @@ SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Ü
 ---
 
 #### Return YouTube Dislike
+
+![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-red) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-blue)
 
 Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
