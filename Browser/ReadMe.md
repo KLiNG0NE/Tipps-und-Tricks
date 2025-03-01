@@ -23,9 +23,9 @@ Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöp
 
 #### xBrowserSync
 
-![Logo: xBrowserSync](img/xBrowserSync.png "Logo: xBrowserSync")
-
 Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern sowie Android synchronisieren.
+
+![Logo: xBrowserSync](img/xBrowserSync.png "Logo: xBrowserSync")
 
 [www.xbrowsersync.org](https://www.xbrowsersync.org/ "xBrowserSync.org")
 
