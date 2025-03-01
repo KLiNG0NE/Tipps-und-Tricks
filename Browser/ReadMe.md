@@ -15,7 +15,11 @@ Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöp
 
 #### Video DownloadHelper
 
-[www.downloadhelper.net](https://www.downloadhelper.net/)
+Mit *Video DownloadHelper* können recht einfach Videos von Websites heruntergeladen werden.
+
+![Logo: Video DownloadHelper](img/Video-DownloadHelper.png "Logo: Video DownloadHelper")
+
+Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video DownloadHelper")
 
 ---
 
