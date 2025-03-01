@@ -37,7 +37,10 @@ Speichert online die Lieblingswebsites und kann zwischen verschiedenen Browsern 
 
 Effektive Website-Filterung durch Nutzung von unterschiedlichen Filterlisten.  (Werbung, Social-Networks, ...)
 
-[ublockorigin.com](https://ublockorigin.com/)
+![Logo: uBlock Origin](img/uBlock-Origin.png "Logo: uBlock Origin")
+
+
+[ublockorigin.com](https://ublockorigin.com/ "uBlockOrigin.com")
 
 #### Ghostery
 
