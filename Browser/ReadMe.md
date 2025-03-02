@@ -97,7 +97,9 @@ Zu deutsch: Cookies sind mir egal. – Filtert die Cookie-Hinweise von Websites
 
 SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Überspringen von Sponsor-Segmenten in YouTube-Videos. Nutzer melden sich, wenn ein Sponsor in der Erweiterung auftaucht, und die Erweiterung überspringt automatisch die Sponsoren, von denen sie weiß, indem sie ein Abfragesystem verwendet, das die Privatsphäre schützt. Sie unterstützt auch das Überspringen anderer Kategorien, wie Intros, Outros und Erinnerungen zum Abonnieren, und das Überspringen zum Punkt mit Highlight[^4].
 
-[sponsor.ajay.app](https://sponsor.ajay.app/)
+![Logo: SponsorBlock](img/SponsorBlock.png "Logo: SponsorBlock")
+
+[sponsor.ajay.app](https://sponsor.ajay.app/ "sponsor.ajay.app")
 
 ---
 
