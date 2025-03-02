@@ -85,7 +85,7 @@ Zu deutsch: Cookies sind mir egal. – Filtert die Cookie-Hinweise von Websites
 
 ![Logo: I don't care about cookies](img/i-dont-care-about-cookies.png "Logo: I don't care about cookies")
 
-[www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu/de "i-dont-care-about-cookies.eu")
+Website: [www.i-dont-care-about-cookies.eu](https://www.i-dont-care-about-cookies.eu/de "i-dont-care-about-cookies.eu")
 
 ---
 
@@ -99,7 +99,7 @@ SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Ü
 
 ![Logo: SponsorBlock](img/SponsorBlock.png "Logo: SponsorBlock")
 
-[sponsor.ajay.app](https://sponsor.ajay.app/ "sponsor.ajay.app")
+Website: [sponsor.ajay.app](https://sponsor.ajay.app/ "sponsor.ajay.app")
 
 ---
 
@@ -111,7 +111,7 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
 ![Logo: Return YouTube Dislike](img/Return-YouTube-Dislike.png "Logo: Return YouTube Dislike")
 
-[returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyoutubedislike.com")
+Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyoutubedislike.com")
 
 ---
 
