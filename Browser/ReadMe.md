@@ -109,7 +109,9 @@ SponsorBlock ist eine Open-Source-Browser-Erweiterung und eine offene API zum Ü
 
 Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 
-[returnyoutubedislike.com](https://returnyoutubedislike.com/)
+![Logo: Return YouTube Dislike](img/Return-YouTube-Dislike.png "Logo: Return YouTube Dislike")
+
+[returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyoutubedislike.com")
 
 ---
 
