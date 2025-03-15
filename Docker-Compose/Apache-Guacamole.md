@@ -22,4 +22,4 @@ services:
 
 Standardbenutzer
 
-Der Standard-Nutzername ist guacadmin mit dem Passwort guacadmin.
+Der Standard-Nutzername ist ``guacadmin`` mit dem Passwort ``guacadmin``.
