@@ -8,3 +8,6 @@ Proxmox ermöglicht den Einsatz und die Verwaltung von virtuellen Maschinen und 
 Es umfasst eine webbasierte Verwaltungsoberfläche und eine mobile Anwendung zur Steuerung von PVE-Umgebungen.
 
 Proxmox wird unter den Bedingungen der GNU Affero General Public License, Version 3, veröffentlicht.
+
+[Wake On LAN (WOL) für VMs und Container](https://forum.proxmox.com/threads/wake-on-lan-wol-for-vms-and-containers.143879/)
+
