@@ -5,10 +5,13 @@
 Zum Löschen der Anzeige kann der Registry-Editor genutz werden:
 
 ``Start -> Registrierungs-Editor``
+
 In folgendem Pfad befinden sich die OEM-Informationen:
+
 ```
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation
 ```
+
 Zur Sicherheit als ertes eine Sicherheitskopie erstellen:
 
 ``Datei -> Exportieren…``
