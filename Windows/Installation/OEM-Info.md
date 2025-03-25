@@ -23,7 +23,7 @@ Folgende Schlüssel können angelegt werden:
 
 | Schlüssel     | Wert                        | Inhalt           |
 |---------------|-----------------------------|------------------|
-| Manufacturer  | Hersteller                  | Herstellername   |
+| Manufacturer  | Computer-Hersteller         | Herstellername   |
 | Model         | Modelname                   | Modelname        |
 | SupportPhone  | (+49) 30 23125 231          | Rufnummer        |
 | SupportHours  | Mo–Fr: 9:00 Uhr – 18:00 Uhr | Support-Zeiten   |
