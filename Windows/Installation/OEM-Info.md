@@ -55,7 +55,9 @@ Das Logo muss als Bitmap in dem entsprechenden Ordner vorhanden sein. (Im Texted
 |--------|-------------|-----------|-----|
 | Bitmap | .bmp        | 120 x 120 | 24  |
 
-Windows 11 zeigt weniger Infos als die Vorgänger an:
+Wenn das Logo in einer anderen Auflösung vorliegt, wir es von Windows angepasst.
+
+Windows 11 zeigt weniger Infos als die Vorgänger an: Modelname sowie Logo werden nicht dargestellt.
 
 ```
 Windows Registry Editor Version 5.00
