@@ -72,7 +72,7 @@ Das OEM-Logo sollte optimalerweise als Bitmap-Datei mit einer Auflösung von 120
 |--------|-------------|-----------|-----|
 | Bitmap | .bmp        | 120 x 120 | 24  |
 
-Wenn das Logo in einer anderen Auflösung vorliegt, wir es von Windows angepasst.
+Wenn das Logo in einer anderen Auflösung vorliegt, wird es von Windows angepasst.
 
 Windows 11 zeigt weniger Infos als die Vorgänger an: Modelname sowie Logo werden nicht dargestellt.
 
