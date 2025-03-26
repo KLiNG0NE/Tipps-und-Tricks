@@ -1,6 +1,6 @@
 # OEM-Info
 
-![Tux, the Linux mascot](../img/Screenshot OEM-Info.png.png)
+![Screenshot: OEM-Info](../img/Screenshot-OEM-Info.png  "Screenshot: OEM-Info")
 
 ## OEM-Informationen in Windows-Einstellungen entfernen
 
