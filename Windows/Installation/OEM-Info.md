@@ -49,7 +49,11 @@ Windows Registry Editor Version 5.00
 
 Das Logo muss als Bitmap in dem entsprechenden Ordner vorhanden sein. (Im Texteditor werden Ordnernamen in REG-Dateien mit mit _zwei_ Rückstrichen ``\\`` getrennt, nicht wie in Windows üblich, mit einem.)
 
-``BMP, 120x120 Pixel, 24 Bit``
+### Format OEM-Logo
+
+| Format | Dateiendung | Pixel     | Bit |
+|--------|-------------|-----------|-----|
+| Bitmap | .bmp        | 120 x 120 | 24  |
 
 Windows 11 zeigt weniger Infos als die Vorgänger an:
 
