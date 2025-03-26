@@ -1,5 +1,7 @@
 # OEM-Info
 
+![Tux, the Linux mascot](../img/Screenshot OEM-Info.png.png)
+
 ## OEM-Informationen in Windows-Einstellungen entfernen
 
 Zum Löschen der Anzeige kann der Registry-Editor genutz werden:
