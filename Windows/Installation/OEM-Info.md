@@ -3,7 +3,11 @@
 Einige Hersteller stellen bei vorinstalliertem Windows Support-Informationen in den Einstellungen bereit.
 
 ![Screenshot: OEM-Info](../img/Screenshot-OEM-Info.png  "Screenshot: OEM-Info")
-OEM-Informationen in Windows 11 mit dunklem Design.
+*OEM-Informationen in Windows 11 mit dunklem Design.*
+
+Diese Angaben werden in den Einstellungen Windows 11 hier angezeigt:
+
+``Einstellungen -> Sytem -> Info``
 
 ## OEM-Informationen in Windows-Einstellungen entfernen
 
@@ -14,7 +18,7 @@ Zum Löschen der Anzeige kann der **Registry-Editor** genutz werden:
 In folgendem Pfad befinden sich die OEM-Informationen:
 
 ```
-Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation
 ```
 
 Zur Sicherheit als ertes eine Sicherheitskopie erstellen:
@@ -83,6 +87,6 @@ Windows Registry Editor Version 5.00
 
 ```
 
-Diese Angaben werden in den Einstellungen Windows 11 hier angezeigt:
+### Einstellungen aktivieren
 
-``Einstellungen -> Sytem -> Info``
+Die gespeicherte REG-Datei kann einfach per Doppelklick in die Registry importiert werden. Spätestens nach dem nächsten Neustart sollten die neuen Einträge angezeigt worden.
