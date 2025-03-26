@@ -1,10 +1,13 @@
 # OEM-Info
 
+Einige Hersteller stellen bei vorinstalliertem Windows Support-Informationen in den Einstellungen bereit.
+
 ![Screenshot: OEM-Info](../img/Screenshot-OEM-Info.png  "Screenshot: OEM-Info")
+OEM-Informationen in Windows 11 mit dunklem Design.
 
 ## OEM-Informationen in Windows-Einstellungen entfernen
 
-Zum Löschen der Anzeige kann der Registry-Editor genutz werden:
+Zum Löschen der Anzeige kann der **Registry-Editor** genutz werden:
 
 ``Start -> Registrierungs-Editor``
 
@@ -35,7 +38,13 @@ Folgende Schlüssel können angelegt werden:
 | SupportURL    | https://example.org/        | Website          |
 | Logo          | C:\Windows\OEM\oem-logo.bmp | Logo-Speicherort |
 
-Die Schlüssel können nach Bedarf angelegt werden.
+Die Schlüssel können nach Bedarf angelegt werden. Es müssen also nicht alle Einträge vorhanden sein.
+
+### Mit Texteditor Eine REG-Datei anlegen
+
+Mit einem Textecitor wie Windows-Editor eine Datei mit folgendem Inhalt erstellen, und z. B. unter diesem Namen speichern:
+
+``OEM-Info-SDIO.reg``
 
 ```
 Windows Registry Editor Version 5.00
@@ -52,6 +61,8 @@ Windows Registry Editor Version 5.00
 Das Logo muss als Bitmap in dem entsprechenden Ordner vorhanden sein. (Im Texteditor werden Ordnernamen in REG-Dateien mit mit _zwei_ Rückstrichen ``\\`` getrennt, nicht wie in Windows üblich, mit einem.)
 
 ### Format OEM-Logo
+
+Das OEM-Logo sollte optimalerweise als Bitmap-Datei mit einer Auflösung von 120 x 120 Pixel vorliegen.
 
 | Format | Dateiendung | Pixel     | Bit |
 |--------|-------------|-----------|-----|
