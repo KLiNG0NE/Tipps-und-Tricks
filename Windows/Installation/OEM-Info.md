@@ -46,7 +46,7 @@ Die Schlüssel können nach Bedarf angelegt werden. Es müssen also nicht alle E
 
 ### Mit Texteditor Eine REG-Datei anlegen
 
-Mit einem Textecitor wie Windows-Editor eine Datei mit folgendem Inhalt erstellen, und z. B. unter diesem Namen speichern:
+Mit einem Texteditor wie Windows-Editor (notepad.exe) eine Datei mit folgendem Inhalt erstellen, und z. B. unter diesem Namen speichern:
 
 ``OEM-Info-SDIO.reg``
 
