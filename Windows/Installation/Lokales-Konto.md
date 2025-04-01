@@ -60,6 +60,13 @@ start ms-cxh:localonly
 
 * In dem nun erscheinenden Fenster kann ein *lokales Konto* und ggf. ein *Passwort* angelegt werden.
 
+## Methode 3: Windows Pro mit Domäne installieren
+
+> Diese Methode funktioniert nur bei den Pro-Versionen von Windows.
+
+* An der Stelle, an der das Installationsprogramm nach dem Gerätenamen des Computers fragt, kann unten auf ``Überspringen`` geklickt werden.
+* Die Frage wie der Computer genutzt wird, wird mit *Bei der Arbeit oder Schule* beantwortet.
+
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
