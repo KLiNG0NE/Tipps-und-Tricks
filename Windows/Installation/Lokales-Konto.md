@@ -7,6 +7,8 @@
 
 ## Methode 1: Eingabeaufforderung und OOBE-Script
 
+> Diese Methode funktioniert nur bis zur Version 24H2
+
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch druck auf die Taste ``Shift``+``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
 * Folgendes Script aufrufen:
@@ -24,6 +26,21 @@ OOBE\BypassNRO
 
 * Der Rechner startet neu, und der Installationsprozess wird wieder durchlaufen.
 * An dem Punkt, an dem vorher das MS-Konto angegeben werden sollte, kann jetzt mit „eingeschränktem Konto“ fortgefahren werden.
+
+## Methode 2: Eingabeaufforderung und ms-cxh
+
+> Diese Methode funktioniert ab Version 25H2
+
+* Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
+* Durch druck auf die Taste ``Shift``+``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
+* Folgendes eingeben:
+
+```
+start ms-cxh:localonly
+```
+(Groß- und Kleinschreibung ist unerheblich)
+
+* In dem nun erscheinenden Fenster kann ein *lokales Konto* und ggf. ein *Passwort* angelegt werden.
 
 ---
 
