@@ -27,6 +27,24 @@ OOBE\BypassNRO
 * Der Rechner startet neu, und der Installationsprozess wird wieder durchlaufen.
 * An dem Punkt, an dem vorher das MS-Konto angegeben werden sollte, kann jetzt mit „eingeschränktem Konto“ fortgefahren werden.
 
+### Internetverbindung trennen
+
+Falls die oben genannte Methode nicht funktioniert, kann versucht werden eine Offline-Installation auszuführen:
+
+Entweder die Internetverbindung trennen, indem das Kabel aus der Netzwerkkarte (oder vom Router) entfernt wird, der WLAN-Stick entfernt wird, oder falls dies nicht möglich ist, eine Eingabeaufforderung mit ``Shift``+``F10`` öffnen und die Internet-Verbindung mit folgendem Befehl trennen:
+
+```
+ipconfig /release
+```
+
+* Bei der Aufforderung eine Verbindung mit dem Internet herzustellen, kann unten angegeben werden ``Ich habe kein Internet``.
+* Anschließend wird die Installation mit einem lokalen Benutzerkonto fortgeführt.
+* Nach erfolgreicher Installation das Netzwerkabel bzw. den WLAN-Stick wieder verbinden oder in der Eingabeaufforderung die Verbindung mit folgenden Befehl wieder herstellen:
+
+```
+ipconfig /renew
+```
+
 ## Methode 2: Eingabeaufforderung und ms-cxh
 
 > Diese Methode funktioniert ab Version 25H2
