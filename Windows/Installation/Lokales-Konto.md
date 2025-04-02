@@ -2,10 +2,13 @@
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
 * Installation
-  * Methode 1: Eingabeaufforderung oobe
-  * 
+  * Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
+  * Methode 2: Eingabeaufforderung und ms-cxh
+  * Methode 3: Windows Pro mit Domäne installieren
 
-## Methode 1: Eingabeaufforderung und OOBE-Script
+# Windows mit lokalem Benutzerkonto installieren
+
+## Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
 > Diese Methode funktioniert nur bis zur Version 24H2
 
