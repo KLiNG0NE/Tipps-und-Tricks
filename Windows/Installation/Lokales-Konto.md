@@ -72,6 +72,29 @@ start ms-cxh:localonly
 * An der Stelle, an der das Installationsprogramm nach dem Gerätenamen des Computers fragt, kann unten auf ``Überspringen`` geklickt werden.
 * Die Frage wie der Computer genutzt wird, wird mit *Bei der Arbeit oder Schule* beantwortet.
 
+## Methode 4: Registryeintrag hinzufügen (BypassNRO)
+
+> Diese Methode sollte auch bei Version 25H2 funktionieren.
+
+* Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
+* Durch druck auf die Taste ``Shift``+``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
+* Folgenden Befehl eingeben:
+
+```
+REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
+```
+
+(Groß- und Kleinschreibung muss, besonders bei Eingabe des Schlüssels, beachtet werden.)
+
+Anschließend den Rechner durch Eingabe des folgenden Befehls neu starten:
+
+```
+shutdown /r /t 0
+```
+
+> /r = Fährt den Computer vollständig herunter und startet ihn neu. (restart)  
+> /t = Setzt das Zeitlimit vor dem Herunterfahren auf xxx Sekunden. (time)
+
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
