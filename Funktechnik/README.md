@@ -12,12 +12,12 @@ Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder 
 * **SRD** *Short Range Devices* (vormals auch *Low Power Device* LPD genannt)
 * **PMR446** *Private Mobile Radio* („privater Mobilfunk“)
 
-Technik | Kurz | Frequenz      | Band | Kanäle       | Leistung | Reichweite
-------- | ---- | ------------- | ---- | ------------ | -------- |---------------
-CB-Funk |  CBF | 27 MHz        | -    | 80 FM, 12 AM | 4 W      | 1–10 km
-Freenet |  FRE | 149 MHz       | 2 m  | 6 FM         | 1 W      | 0,5–5 km
-SRD     |  SRD |               |      |              |          |
-PMR446  |  PMR | 446–446,2 MHz |      | 16 FM        | 0,5 W    | 0,5–3 km
+Technik | Kurz | Frequenz      | Band | Kanäle       | Leistung | Reichweite | Geltungsbereich
+------- |:----:|:-------------:| ---- | ------------ | --------:| ----------:|:--------------:
+CB-Funk | CBF  |  27 MHz       | -    | 80 FM, 12 AM | 4 W      | 1–10 km    | EUR
+Freenet | FRE  | 149 MHz       | 2 m  | 6 FM         | 1 W      | 0,5–5 km   | DEU
+SRD     | SRD  |               |      |              |          |            | EUR
+PMR446  | PMR  | 446 MHz       |      | 16 FM        | 0,5 W    | 0,5–3 km   | EUR
 
 ## Funktechnik
 
