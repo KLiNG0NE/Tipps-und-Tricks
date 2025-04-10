@@ -9,7 +9,7 @@ Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder 
 
 * **CB-Funk**
 * **Freenet** („freies Netz“)
-* **SRD** (vormals auch *Low Power Device* LPD genannt)
+* **SRD** *Short Range Devices* (vormals auch *Low Power Device* LPD genannt)
 * **PMR446** *Private Mobile Radio* („privater Mobilfunk“)
 
 Technik | Kurz | Frequenz      | Band | Kanäle       | Leistung | Reichweite
