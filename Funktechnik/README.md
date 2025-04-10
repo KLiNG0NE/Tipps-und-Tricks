@@ -3,8 +3,23 @@
 
 Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
-## Funktechnik
+## Jedermannfunk (auch Hobbyfunk)
 
+Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder eine Eignungsprüfung. Die Nutzung ist auf zugelassene Geräte beschränkt. Diese Geräte dürfen nicht technisch verändert werden. Es ist nur erlaubt, auf zugewiesenen Kanälen mit den entsprechenden Frequenzen zu senden.
+
+* **CB-Funk**
+* **Freenet** („freies Netz“)
+* **SRD** (vormals auch *Low Power Device* LPD genannt)
+* **PMR446** *Private Mobile Radio* („privater Mobilfunk“)
+
+Technik | Kurz | Frequenz | Band | Kanäle       | Leistung
+------- | ---- | -------- | ---- | ------------ | --------
+CB-Funk |  CBF | 27 MHz   | -    | 80 FM, 12 AM | 4 W
+Freenet |  FRE |
+SRD     |  SRD |
+PMR446  |  PMR | 446
+
+## Funktechnik
 
 * Software Defined Radio (SDR)
   * RTL-SDR
