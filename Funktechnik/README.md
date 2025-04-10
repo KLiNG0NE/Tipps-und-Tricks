@@ -5,6 +5,12 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
 ## Funktechnik
 
+
+* Software Defined Radio (SDR)
+  * RTL-SDR
+* Handfunkgeräte
+  * Quansheng UV-K5(8)/K6
+
 ---
 
 
