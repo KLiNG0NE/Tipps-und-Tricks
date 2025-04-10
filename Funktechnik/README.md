@@ -15,7 +15,7 @@ Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder 
 Technik | Kurz | Frequenz      | Band | Kanäle       | Leistung | Reichweite
 ------- | ---- | ------------- | ---- | ------------ | -------- |---------------
 CB-Funk |  CBF | 27 MHz        | -    | 80 FM, 12 AM | 4 W      |
-Freenet |  FRE |               |      |              |          |
+Freenet |  FRE | 149 MHz       |      |              |          |
 SRD     |  SRD |               |      |              |          |
 PMR446  |  PMR | 446–446,2 MHz |      | 16 FM        | 0,5 W    | 0,5–3 km
 
