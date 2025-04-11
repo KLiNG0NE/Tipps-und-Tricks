@@ -24,7 +24,7 @@ Proxmox ist Open Source und in der **Community-Edition** *kostenlos*, trotzdem w
 
 Dieser Hinweis kann umgangen werden.
 
-(Getestet mit Version 7.4-13 – 8.3.5)
+(Getestet mit Version 7.4-13 – 8.4.1)
 
 ### Manuell
 
