@@ -46,14 +46,14 @@ Nr. | Bezeichnung | Funktion                    | Werte
 38  | D-ST
 39  | D-RSP
 40  | D-HOLD
-41  | 
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
+41  | D-PRE
+42  | PTT-ID      |
+43  | D-DCD
+44  | D-LIST
+45  | PONMSG      | Einschaltnachricht          | MSG, VOLT, FULL
+46  | ROGER       | Roger-Beep                  |
+47  | AM          | Batteriespannung            | X.XXV
+48  | AM          | Amplutudenmodulation        | OFF, ON
+49  | NOAA_S      | Wetter-Scan                 | OFF, ON (nur USA)
+50  | DEL-CH      | Kanal löschen               |
+51  | RESET       | Zurücksetzen                | VFO, ALL
