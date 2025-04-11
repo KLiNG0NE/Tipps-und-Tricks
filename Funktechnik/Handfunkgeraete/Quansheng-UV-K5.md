@@ -6,7 +6,7 @@
 
 Nr. | Bezeichnung | Funktion                    | Werte                           | Anmerkungen
 :--:| ----------- | --------------------------- | ------------------------------- | ----------------
-01  | SQL         | Rauschsperre (Squelch)      | 0 … 9                           |
+01  | SQL         | Rauschsperre                | 0 … 9                           | (Squelch)
 02  | STEP        | Schrittweite                | 25, 12.5, 10, 6.25, 5, 2.5 kHz  |
 03  | TXP         | Sendeleistung               | LOW, MID, HIGH                  | 1 W, 3 W, 5 W 
 04  | R_DCS       | Empfang Selektivruf DCS     | ON, OFF                         | Digital Coded Squelch
@@ -16,7 +16,7 @@ Nr. | Bezeichnung | Funktion                    | Werte                         
 08  | SFT-D       | Ablage                      | 0, +, -                         |
 09  | OFFSET      | Wert f. Ablage              | XXX.XXX MHz                     | Ablagefrequenz
 10  | W/N         | Frequenzhub                 | WIDE, NARROW                    | 
-11  | SCR         |                             |
+11  | SCR         | Sprachverschlüsselung       | OFF, ON                         | (Scrambling)
 12  | BCL         |                             |
 13  | MEM-CH      | Kanalspeicher               |
 14  | SAVE        | Energiesparen               | 1:1 - 1:4
