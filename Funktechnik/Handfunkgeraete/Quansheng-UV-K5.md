@@ -57,11 +57,11 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 49  | NOAA_S      | Wetter-Scan                         | OFF, ON                         | (nur USA)
 50  | DEL-CH      | Kanal löschen                       | CH-001 … CH-200                 |
 51  | RESET       | Zurücksetzen                        | VFO, ALL                        | VFO = Nur Kanäle, ALL = Alles
-52* | 350TX       |                                     |                                 |
-53* | F-LOCK      |                                     |                                 |
-54* | 200TX       |                                     |                                 |
-55* | 500TX       |                                     |                                 |
-56* | 350EN       |                                     |                                 |
-57* | SCREN       |                                     |                                 |
+52* | 350TX       | ON, OFF                             |                                 |
+53* | F-LOCK      | OFF, FCC, CE, GB, 430, 438, IC      |                                 |
+54* | 200TX       | ON, OFF                             |                                 |
+55* | 500TX       | ON, OFF                             |                                 |
+56* | 350EN       | ON, OFF                             |                                 |
+57* | SCREN       | ON, OFF                             |                                 |
 
-*Diese Menüeinträge sind normalerweise verborgen und werden aktiviert, indem beim Einschalten des Geräts die Tasten [PTT] und [P1] (obere Seitentaste) solage gedrückt werden, bis das Menü erscheint.
+*Diese Menüeinträge sind normalerweise verborgen und werden aktiviert, indem beim Einschalten des Geräts die Tasten [PTT] und [P1] (mittlere Seitentaste) solage gedrückt werden, bis das Menü erscheint.
