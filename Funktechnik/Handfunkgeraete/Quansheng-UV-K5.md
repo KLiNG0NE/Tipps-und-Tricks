@@ -2,7 +2,7 @@
 
 # Quansheng UV-K5/K5(8)/K6
 
-# Menü
+## Menü
 
 Nr. | Bezeichnung | Funktion                            | Werte                           | Anmerkungen
 :--:| ----------- | ----------------------------------- | ------------------------------- | ----------------
@@ -25,31 +25,31 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 17  | TDR         | Dual-watch                          | OFF, CHAN_A, CHAN_B             | Voreinstellung Senden
 18  | WX          | Bandübergreifendes Empfangen/Senden | OFF, CHAN_A, CHAN_B             |
 19  | BEEP        | Tastentöne                          | ON, OFF                         |
-20  | TOT         | Sprechzeit                          | OFF, 1min … 10min               | (Transmit over time)
+20  | TOT         | Sprechzeit                          | OFF, 1min … 10min               | (Transmit over time, Time out timer)
 21  | VOICE       | Sprachhinweise                      | ENG, CHI, OFF                   |
 22  | SC-REV      | Scan-Fortsetzungsmodus              | TO, CO, SE                      | TO=nach 5 Sek, CO=nach Kanalsendung, SE=Scan beenden
 23  | MDF         | Anzeige des Kanals                  | FREQ, CH, NAME                  | Frequenz, Kanal, Name
 24  | AUTOLK      | Automatische Tastensperre           | OFF                             | (Auto lock)
-25  | S-ADD1      | Scanliste 1                         |                                 |
-26  | S-ADD2      | Scanliste 2                         |                                 |
-27  | STE         | Enbdton-Beseitigumg                 |                                 | (Tail Tone Elimination)
-28  | RP-STE      | Repeater Enbdton-Beseitigumg        |
-29  | MIC         | Mikrofonempfindlichkeit     |
-30  | 1-CALL      | Call-Channel
+25  | S-ADD1      | Zu Scanliste 1 hinzufügen           |                                 |
+26  | S-ADD2      | Zu Scanliste 2 hinzufügen           |                                 |
+27  | STE         | Endton-Beseitigumg                  |                                 | (Tail Tone Elimination)
+28  | RP-STE      | Repeater Endton-Beseitigumg         |
+29  | MIC         | Mikrofonempfindlichkeit             |
+30  | 1-CALL      | Call-Channel                        |
 31  | S-LIST      | Scan-Liste
 32  | SLIST1      | Inhalt Scanliste 1
 33  | SLIST2      | Inhalt Scanliste 2
-34  | AL-MOD
-35  | ANI-ID
-36  | UPCODE
-37  | DWCODE
-38  | D-ST
-39  | D-RSP
-40  | D-HOLD
-41  | D-PRE
+34  | AL-MOD      | Alarm-Modus
+35  | ANI-ID      |
+36  | UPCODE      |
+37  | DWCODE      |
+38  | D-ST        |
+39  | D-RSP       |
+40  | D-HOLD      |
+41  | D-PRE       |
 42  | PTT-ID      |
-43  | D-DCD
-44  | D-LIST
+43  | D-DCD       |
+44  | D-LIST      |
 45  | PONMSG      | Einschaltnachricht                  | MSG, VOLT, FULL
 46  | ROGER       | Roger-Beep                          |
 47  | AM          | Batteriespannung                    | X.XXV
@@ -57,3 +57,11 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 49  | NOAA_S      | Wetter-Scan                         | OFF, ON (nur USA)
 50  | DEL-CH      | Kanal löschen                       |
 51  | RESET       | Zurücksetzen                        | VFO, ALL
+52* | 350TX       |
+53* | F-LOCK      |
+54* | 200TX       |
+55* | 500TX       |
+56* | 350EN       |
+57* | SCREN       |
+
+*Diese Menüeinträge sind normalerweise verborgen und werden aktiviert, indem beim Einschalten des Geräts die Tasten [PTT] und [P1] (obere Seitentaste) solage gedrückt werden, bis das Menü erscheint.
