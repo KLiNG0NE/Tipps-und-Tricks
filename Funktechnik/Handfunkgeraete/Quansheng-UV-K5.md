@@ -27,7 +27,7 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 19  | BEEP        | Tastentöne                          | ON, OFF                         |
 20  | TOT         | Sprechzeit                          | OFF, 1min … 10min               | (Transmit over time, Time out timer)
 21  | VOICE       | Sprachhinweise                      | ENG, CHI, OFF                   |
-22  | SC-REV      | Scan-Fortsetzungsmodus              | TO, CO, SE                      | TO=nach 5 Sek, CO=nach Kanalsendung, SE=Scan beenden
+22  | SC-REV      | Scan-Fortsetzungsmodus              | TO, CO, SE                      | TO = nach 5 Sek (Time out), CO = nach Kanalsendung (Channel off), SE = Scan beenden (Scan end)
 23  | MDF         | Anzeige des Kanals                  | FREQ, CH, NAME                  | Frequenz, Kanal, Name
 24  | AUTOLK      | Automatische Tastensperre           | OFF                             | (Auto lock)
 25  | S-ADD1      | Zu Scanliste 1 hinzufügen           | ON, OFF                         |
