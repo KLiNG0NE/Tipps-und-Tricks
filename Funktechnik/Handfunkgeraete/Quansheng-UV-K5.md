@@ -5,30 +5,30 @@
 ## Menü
 
 Nr. | Bezeichnung | Funktion                            | Werte                           | Anmerkungen
-:--:| ----------- | ----------------------------------- | ------------------------------- | ----------------
+:--:| ----------- | ----------------------------------- | ------------------------------- | ---------------------------------------------------------
 01  | SQL         | Rauschsperre                        | 0 … 9                           | (Squelch)
-02  | STEP        | Schrittweite                        | 25, 12.5, 10, 6.25, 5, 2.5 kHz  |
+02  | STEP        | Schrittweite                        | 25, 12.5, 10, 6.25, 5, 2.5 kHz  | Bestimmt in welchen Schritten die Frequenz geändert wird.
 03  | TXP         | Sendeleistung                       | LOW, MID, HIGH                  | 1, 2.5, 5 W 
-04  | R_DCS       | Empfang Selektivruf DCS             | OFF, DXXXN                      | Digital Coded Squelch
-05  | R_CTCS      | Empfang Selektivruf CTCS            | XX,XkHz                         | Continuous Tone-Coded Subaudio Squelch
-06  | T_DCS       | Senden Selektivruf DCS              |                                 |
-07  | T_CTCS      | Senden Selektivruf CTCS             |                                 |
-08  | SFT-D       | Ablage                              | 0, +, -                         |
+04  | R_DCS       | Empfang Selektivruf DCS             | OFF, DXXXN                      | (Digital Coded Squelch)
+05  | R_CTCS      | Empfang Selektivruf CTCS            | XX,XkHz                         | (Continuous Tone-Coded Subaudio Squelch)
+06  | T_DCS       | Senden Selektivruf DCS              |                                 | (Digital Coded Squelch)
+07  | T_CTCS      | Senden Selektivruf CTCS             |                                 | (Continuous Tone-Coded Subaudio Squelch)
+08  | SFT-D       | Ablage                              | 0, +, -                         | keine, positive, negative Ablage
 09  | OFFSET      | Wert f. Ablage                      | XXX.XXX MHz                     | Ablagefrequenz
 10  | W/N         | Frequenzhub                         | WIDE, NARROW                    | 25, 12.5 kHz
 11  | SCR         | Sprachverschlüsselung               | OFF, 1 … 10                     | (Scrambling) 1 bis 10 Arten von Verschlüsselungsfrequenzen.
 12  | BCL         | Sperre bei belegtem Kanal           | OFF, ON                         | (Busy Channel Lockage)
-13  | MEM-CH      | Kanalspeicher                       | 1 … 200                         | Gespeicherte Kanäle werden mit CH- vor der Nr. angezeigt
+13  | MEM-CH      | Kanal speichern                     | 1 … 200                         | Gespeicherte Kanäle werden mit CH- vor der Nr. angezeigt
 14  | SAVE        | Energiesparen                       | OFF, 1:1 … 1:4                  | Verhältnis Ein- zu Energiesparzeit
-15  | VOX         | Freisprechfunktion                  | OFF, ON                         |
-16  | ABR         | Hintergrundbeleuchtung              | Off, 1 … 5                      | Sek. (Auto Backlight Rate)
+15  | VOX         | Freisprechfunktion                  | OFF, ON                         | Sprachgesteuertes Senden
+16  | ABR         | Hintergrundbeleuchtung              | Off, 1 … 5                      | Sek. (Auto Backlight Range)
 17  | TDR         | Dual-watch                          | OFF, CHAN_A, CHAN_B             | Voreinstellung Senden
-18  | WX          | Bandübergreifendes Empfangen/Senden | OFF, CHAN_A, CHAN_B             |
+18  | WX          | Bandübergreifendes Empfangen/Senden | OFF, CHAN_A, CHAN_B             | Crossband
 19  | BEEP        | Tastentöne                          | ON, OFF                         |
 20  | TOT         | Sprechzeit                          | OFF, 1min … 10min               | (Transmit over time, Time out timer)
 21  | VOICE       | Sprachhinweise                      | ENG, CHI, OFF                   |
 22  | SC-REV      | Scan-Fortsetzungsmodus              | TO, CO, SE                      | TO = nach 5 Sek (Time out), CO = nach Kanalsendung (Channel off), SE = Scan beenden (Scan end)
-23  | MDF         | Anzeige des Kanals                  | FREQ, CH, NAME                  | Frequenz, Kanal, Name
+23  | MDF         | Anzeige des Kanals                  | FREQ, CH, NAME                  | Frequenz, Kanalnummer, Name (Name kann in Programmiersoftware bestimmt werden.)
 24  | AUTOLK      | Automatische Tastensperre           | OFF                             | (Auto lock)
 25  | S-ADD1      | Zu Scanliste 1 hinzufügen           | ON, OFF                         |
 26  | S-ADD2      | Zu Scanliste 2 hinzufügen           | ON, OFF                         |
