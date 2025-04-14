@@ -33,35 +33,35 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 25  | S-ADD1      | Zu Scanliste 1 hinzufügen           |                                 |
 26  | S-ADD2      | Zu Scanliste 2 hinzufügen           |                                 |
 27  | STE         | Endton-Beseitigumg                  |                                 | (Tail Tone Elimination)
-28  | RP-STE      | Repeater Endton-Beseitigumg         |
-29  | MIC         | Mikrofonempfindlichkeit             |
-30  | 1-CALL      | Call-Channel                        |
-31  | S-LIST      | Scan-Liste
-32  | SLIST1      | Inhalt Scanliste 1
-33  | SLIST2      | Inhalt Scanliste 2
-34  | AL-MOD      | Alarm-Modus
-35  | ANI-ID      |
-36  | UPCODE      |
-37  | DWCODE      |
-38  | D-ST        |
-39  | D-RSP       |
-40  | D-HOLD      |
-41  | D-PRE       |
-42  | PTT-ID      |
-43  | D-DCD       |
-44  | D-LIST      |
-45  | PONMSG      | Einschaltnachricht                  | MSG, VOLT, FULL
-46  | ROGER       | Roger-Beep                          |
-47  | AM          | Batteriespannung                    | X.XXV
-48  | AM          | Amplutudenmodulation                | OFF, ON
-49  | NOAA_S      | Wetter-Scan                         | OFF, ON (nur USA)
-50  | DEL-CH      | Kanal löschen                       |
-51  | RESET       | Zurücksetzen                        | VFO, ALL
-52* | 350TX       |
-53* | F-LOCK      |
-54* | 200TX       |
-55* | 500TX       |
-56* | 350EN       |
-57* | SCREN       |
+28  | RP-STE      | Repeater Endton-Beseitigumg         |                                 |
+29  | MIC         | Mikrofonempfindlichkeit             |                                 |
+30  | 1-CALL      | Call-Channel                        |                                 |
+31  | S-LIST      | Scan-Liste                          |                                 |
+32  | SLIST1      | Inhalt Scanliste 1                  |                                 |
+33  | SLIST2      | Inhalt Scanliste 2                  |                                 |
+34  | AL-MOD      | Alarm-Modus                         | TONE, SITE                      | Tone = Sendung, Site = Alarmton aus Gerät
+35  | ANI-ID      | ID des Geräts einstellen            | XXX                             | (Automatic Number Identification)
+36  | UPCODE      |                                     |                                 |
+37  | DWCODE      |                                     |                                 |
+38  | D-ST        |                                     |                                 |
+39  | D-RSP       |                                     |                                 |
+40  | D-HOLD      |                                     |                                 |
+41  | D-PRE       |                                     |                                 |
+42  | PTT-ID      |                                     |                                 |
+43  | D-DCD       |                                     |                                 |
+44  | D-LIST      |                                     |                                 |
+45  | PONMSG      | Einschaltnachricht                  | MSG, VOLT, FULL                 | Kann in Programmiersoftware konfiguriert werden.
+46  | ROGER       | Roger-Beep                          | OFF, ROGER, MDC                 |
+47  | VOL         | Batteriespannung                    | X.XXV                           |
+48  | AM          | Amplutudenmodulation                | OFF, ON                         |
+49  | NOAA_S      | Wetter-Scan                         | OFF, ON (nur USA)               |
+50  | DEL-CH      | Kanal löschen                       |                                 |
+51  | RESET       | Zurücksetzen                        | VFO, ALL                        |
+52* | 350TX       |                                     |                                 |
+53* | F-LOCK      |                                     |                                 |
+54* | 200TX       |                                     |                                 |
+55* | 500TX       |                                     |                                 |
+56* | 350EN       |                                     |                                 |
+57* | SCREN       |                                     |                                 |
 
 *Diese Menüeinträge sind normalerweise verborgen und werden aktiviert, indem beim Einschalten des Geräts die Tasten [PTT] und [P1] (obere Seitentaste) solage gedrückt werden, bis das Menü erscheint.
