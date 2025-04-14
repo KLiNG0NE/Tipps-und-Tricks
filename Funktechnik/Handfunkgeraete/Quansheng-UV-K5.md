@@ -15,7 +15,7 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 07  | T_CTCS      | Senden Selektivruf CTCS             |                                 |
 08  | SFT-D       | Ablage                              | 0, +, -                         |
 09  | OFFSET      | Wert f. Ablage                      | XXX.XXX MHz                     | Ablagefrequenz
-10  | W/N         | Frequenzhub                         | WIDE, NARROW                    | 
+10  | W/N         | Frequenzhub                         | WIDE, NARROW                    | 25, 12.5 kHz
 11  | SCR         | Sprachverschlüsselung               | OFF, ON                         | (Scrambling)
 12  | BCL         | Sperre bei belegtem Kanal           | OFF, ON                         | (Busy Channel Lock)
 13  | MEM-CH      | Kanalspeicher                       | 0 … 200                         |
