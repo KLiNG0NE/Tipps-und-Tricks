@@ -8,7 +8,7 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 :--:| ----------- | ----------------------------------- | ------------------------------- | ----------------
 01  | SQL         | Rauschsperre                        | 0 … 9                           | (Squelch)
 02  | STEP        | Schrittweite                        | 25, 12.5, 10, 6.25, 5, 2.5 kHz  |
-03  | TXP         | Sendeleistung                       | LOW, MID, HIGH                  | 1 W, 3 W, 5 W 
+03  | TXP         | Sendeleistung                       | LOW, MID, HIGH                  | 1, 2.5, 5 W 
 04  | R_DCS       | Empfang Selektivruf DCS             | ON, OFF                         | Digital Coded Squelch
 05  | R_CTCS      | Empfang Selektivruf CTCS            |                                 | Continuous Tone-Coded Subaudio Squelch
 06  | T_DCS       | Senden Selektivruf DCS              |                                 |
