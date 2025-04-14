@@ -16,9 +16,9 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 08  | SFT-D       | Ablage                              | 0, +, -                         |
 09  | OFFSET      | Wert f. Ablage                      | XXX.XXX MHz                     | Ablagefrequenz
 10  | W/N         | Frequenzhub                         | WIDE, NARROW                    | 25, 12.5 kHz
-11  | SCR         | Sprachverschlüsselung               | OFF, ON                         | (Scrambling)
-12  | BCL         | Sperre bei belegtem Kanal           | OFF, ON                         | (Busy Channel Lock)
-13  | MEM-CH      | Kanalspeicher                       | 0 … 200                         |
+11  | SCR         | Sprachverschlüsselung               | OFF, 1 … 10                     | (Scrambling) 1 bis 10 Arten von Verschlüsselungsfrequenzen.
+12  | BCL         | Sperre bei belegtem Kanal           | OFF, ON                         | (Busy Channel Lockage)
+13  | MEM-CH      | Kanalspeicher                       | 1 … 200                         | Gespeicherte Kanäle werden mit CH- vor der Nr. angezeigt
 14  | SAVE        | Energiesparen                       | OFF, 1:1 … 1:4                  | Verhältnis Ein- zu Energiesparzeit
 15  | VOX         | Freisprechfunktion                  | OFF, ON                         |
 16  | ABR         | Hintergrundbeleuchtung              | Off, 1 … 5                      | Sek. (Auto Backlight Rate)
