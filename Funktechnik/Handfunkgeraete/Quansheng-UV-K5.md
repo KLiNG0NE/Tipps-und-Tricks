@@ -9,8 +9,8 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 01  | SQL         | Rauschsperre                        | 0 … 9                           | (Squelch)
 02  | STEP        | Schrittweite                        | 25, 12.5, 10, 6.25, 5, 2.5 kHz  |
 03  | TXP         | Sendeleistung                       | LOW, MID, HIGH                  | 1, 2.5, 5 W 
-04  | R_DCS       | Empfang Selektivruf DCS             | ON, OFF                         | Digital Coded Squelch
-05  | R_CTCS      | Empfang Selektivruf CTCS            |                                 | Continuous Tone-Coded Subaudio Squelch
+04  | R_DCS       | Empfang Selektivruf DCS             | OFF, DXXXN                      | Digital Coded Squelch
+05  | R_CTCS      | Empfang Selektivruf CTCS            | XX,XkHz                         | Continuous Tone-Coded Subaudio Squelch
 06  | T_DCS       | Senden Selektivruf DCS              |                                 |
 07  | T_CTCS      | Senden Selektivruf CTCS             |                                 |
 08  | SFT-D       | Ablage                              | 0, +, -                         |
@@ -30,8 +30,8 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 22  | SC-REV      | Scan-Fortsetzungsmodus              | TO, CO, SE                      | TO=nach 5 Sek, CO=nach Kanalsendung, SE=Scan beenden
 23  | MDF         | Anzeige des Kanals                  | FREQ, CH, NAME                  | Frequenz, Kanal, Name
 24  | AUTOLK      | Automatische Tastensperre           | OFF                             | (Auto lock)
-25  | S-ADD1      | Zu Scanliste 1 hinzufügen           |                                 |
-26  | S-ADD2      | Zu Scanliste 2 hinzufügen           |                                 |
+25  | S-ADD1      | Zu Scanliste 1 hinzufügen           | ON, OFF                         |
+26  | S-ADD2      | Zu Scanliste 2 hinzufügen           | ON, OFF                         |
 27  | STE         | Endton-Beseitigumg                  |                                 | (Tail Tone Elimination)
 28  | RP-STE      | Repeater Endton-Beseitigumg         |                                 |
 29  | MIC         | Mikrofonempfindlichkeit             |                                 |
@@ -51,12 +51,12 @@ Nr. | Bezeichnung | Funktion                            | Werte                 
 43  | D-DCD       |                                     |                                 |
 44  | D-LIST      |                                     |                                 |
 45  | PONMSG      | Einschaltnachricht                  | MSG, VOLT, FULL                 | Kann in Programmiersoftware konfiguriert werden.
-46  | ROGER       | Roger-Beep                          | OFF, ROGER, MDC                 |
-47  | VOL         | Batteriespannung                    | X.XXV                           |
-48  | AM          | Amplutudenmodulation                | OFF, ON                         |
-49  | NOAA_S      | Wetter-Scan                         | OFF, ON (nur USA)               |
-50  | DEL-CH      | Kanal löschen                       |                                 |
-51  | RESET       | Zurücksetzen                        | VFO, ALL                        |
+46  | ROGER       | Roger-Beep                          | OFF, ROGER, MDC                 | (Motorola Data Communications)
+47  | VOL         | Batteriespannung                    | X.XXV                           | Zeigt die Spannung des Akkus an.
+48  | AM          | Amplutudenmodulation                | OFF, ON                         | Nur für Airband.
+49  | NOAA_S      | Wetter-Scan                         | OFF, ON                         | (nur USA)
+50  | DEL-CH      | Kanal löschen                       | CH-001 … CH-200                 |
+51  | RESET       | Zurücksetzen                        | VFO, ALL                        | VFO = Nur Kanäle, ALL = Alles
 52* | 350TX       |                                     |                                 |
 53* | F-LOCK      |                                     |                                 |
 54* | 200TX       |                                     |                                 |
