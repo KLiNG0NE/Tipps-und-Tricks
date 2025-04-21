@@ -54,11 +54,30 @@ Diese Liste beinhaltet TV- sowie Radiosender inklkusive Logos.
 
 Leider funktionieren nicht alle Sender unbedingt, allerdings ist eine große Auswahl von Sendern, besonders öffentl.-rechtl. (ARD/ZDF), vorhanden.
 
+
 Die originale URL lautet:
 
 ```
 https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u
 ```
+
+Alternative M3U-Liste:
+
+```
+https://kodi-unlimited-support.de/iptv/tv/german/full/kus_tv_full_de.m3u
+```
+
+Die Anbieter stellen auch eine EPG-Liste bereit:
+
+```
+https://kodi-unlimited-support.de/iptv/tv/epg.xml.gz
+```
+
+EPG = Electronic Program Guide (Englisch für: elektronischer Programmführer)
+
+Support: https://www.facebook.com/groups/kodiunlimited/
+
+Quelle: https://kodi-unlimited-support.de/
 
 ---
 
