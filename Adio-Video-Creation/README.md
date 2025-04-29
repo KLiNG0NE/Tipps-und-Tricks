@@ -4,8 +4,8 @@
 
 Hier sind Tipps und Tricks zur Erstellung von Audio und Video auf dem PC.
 
-* [Digital Audio Workstation (DAW)](#entwickleroptionen-freischalten) – Aufnahme und Bearbeitung von Audiosignalen
-* [Downloader](#downloader-apps-aus-dem-internet-laden) – Apps aus dem Internet laden
+* [Digital Audio Workstation (DAW)](#digital-audio-workstation-daw) – Aufnahme und Bearbeitung von Audiosignalen
+* [Streaming](Streaming) – Apps aus dem Internet laden
 * [SmartTube](#smarttube-youtube-ohne-werbung) – YouTube ohne Werbung
 * [KODI](#kodi-auf-fire-tv-installieren) auf Fire TV installieren
 
