@@ -2,7 +2,7 @@
 
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
-Hier sind Tipps und Tricks zur Erstellung von Audio und Video auf dem PC
+Hier sind Tipps und Tricks zur Erstellung von Audio und Video auf dem PC.
 
 * [Digital Audio Workstation (DAW)](#entwickleroptionen-freischalten) – Aufnahme und Bearbeitung von Audiosignalen
 * [Downloader](#downloader-apps-aus-dem-internet-laden) – Apps aus dem Internet laden
