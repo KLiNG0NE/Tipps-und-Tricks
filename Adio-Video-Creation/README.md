@@ -16,11 +16,11 @@ Eine Digital Audio Workstation (DAW) ist ein System aus digitalen Geräten, das 
 ### Kostenlose Software
 
 * Bitwig Studio - [www.bitwig.com](https://www.bitwig.com/de/)
+* Cakewalk by BandLab - [www.bandlab.com](https://www.bandlab.com/products/cakewalk)
 * LMMS - [lmms.io](https://lmms.io/)
 * REAPER - [www.reaper.fm](https://www.reaper.fm/) (60 Tage Testversion)
-* Cakewalk by BandLab - [www.bandlab.com](https://www.bandlab.com/products/cakewalk)
-
 * Waveform Free - [www.tracktion.com](https://www.tracktion.com/products/waveform-free)
+
 
 ## Streaming
 
