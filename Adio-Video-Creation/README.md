@@ -28,9 +28,10 @@ Audio/Video live an Zuschauer senden
 
 ### Kostenlose Software
 
-* OBS
+* OBS - [obsproject.com](https://obsproject.com/de)
+* streamlabs - [streamlabs.com](https://streamlabs.com/de-de)
 
-[^1]: Text mit Unterstützung von Copilot erstellt.
+[^1]: Text mit Unterstützung von KI erstellt.
 
 
 ---
