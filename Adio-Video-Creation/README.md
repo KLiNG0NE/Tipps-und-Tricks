@@ -5,7 +5,7 @@
 Hier sind Tipps und Tricks zur Erstellung von Audio und Video auf dem PC.
 
 * [Digital Audio Workstation (DAW)](#digital-audio-workstation-daw) – Aufnahme und Bearbeitung von Audiosignalen
-* [Streaming](#streaming) – Audio/Video live an Zuschauer Senden
+* [Streaming](#streaming) – Audio/Video live an Zuschauer senden
 
 ---
 
@@ -22,7 +22,7 @@ Eine Digital Audio Workstation (DAW) ist ein System aus digitalen Geräten, das 
 
 ## Streaming
 
-Audio/Video live an Zuschauer Senden
+Audio/Video live an Zuschauer senden
 
 [^1]: Text mit Unterstützung von Copilot erstellt.
 
