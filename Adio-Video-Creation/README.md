@@ -13,6 +13,13 @@ Hier sind Tipps und Tricks zur Erstellung von Audio und Video auf dem PC.
 
 Eine Digital Audio Workstation (DAW) ist ein System aus digitalen Geräten, das für die Aufnahme und Bearbeitung von Audiosignalen bei Musikproduktion, Tonaufnahmen, Abmischung und Mastering genutzt wird. Der Begriff steht heute meistens für ein computergestütztes System, das aus spezieller Hardware wie einer hochwertigen Audiokarte und passender Musiksoftware besteht. Früher bezeichnete man damit Geräte für Harddisk-Recording, bevor die Aufnahme und Bearbeitung von Audio über PCs oder Macs möglich war.[^1]
 
+### Kostenlose Software
+
+* Bitwig Studio - [www.bitwig.com](https://www.bitwig.com/de/)
+* LMMS - [lmms.io](https://lmms.io/)
+* REAPER - [www.reaper.fm](https://www.reaper.fm/)
+* Cakewalk by BandLab - [www.bandlab.com](https://www.bandlab.com/products/cakewalk)
+
 ## Streaming
 
 Audio/Video live an Zuschauer Senden
