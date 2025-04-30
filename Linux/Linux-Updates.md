@@ -30,7 +30,7 @@ apt update && apt upgrade -y
 sudo pacman -Syu
 ```
 
-## RPM-basierten Linux-Distributionen
+## RPM-basierte Linux-Distributionen
 
 * Fedora, …
 
