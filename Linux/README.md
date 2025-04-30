@@ -18,7 +18,7 @@ Zu den Nutzern gehören Privatpersonen, Unternehmen, Organisationen und Regierun
 
 Linux wird durch das Open Invention Network (OIN) patentrechtlich geschützt. Zusätzlich sorgt die Linux Foundation dafür, dass Linux erhalten bleibt und sich weiterentwickeln kann.[^1]
 
-[^1]: Text mit Unterstützung von Copilot erstellt.
+[^1]: Text mit Unterstützung von KI erstellt.
 
 <sub>_Quelle:_ Seite „Linux“. In: Wikipedia – Die freie Enzyklopädie</sub>
 
