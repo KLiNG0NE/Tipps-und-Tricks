@@ -8,15 +8,23 @@ Hier sind Tipps und Tricks zu REAPER.
 
 ## REAPER
 
-*REAPER* ist eine kostengünstige[^1] DAW. – Eine Digital Audio Workstation (DAW) ist ein System aus digitalen Geräten, das für die Aufnahme und Bearbeitung von Audiosignalen bei Musikproduktion, Tonaufnahmen, Abmischung und Mastering genutzt wird. Der Begriff steht heute meistens für ein computergestütztes System, das aus spezieller Hardware wie einer hochwertigen Audiokarte und passender Musiksoftware besteht. Früher bezeichnete man damit Geräte für Harddisk-Recording, bevor die Aufnahme und Bearbeitung von Audio über PCs oder Macs möglich war.[^2]
+*REAPER* ist eine kostengünstige[^1] DAW. Eine 60 Tage gültige kostenlose Testversion, ohne Funktionseinschränkungen, kann beim Anbieter heruntergeladen werden. – Eine Digital Audio Workstation (DAW) ist ein System aus digitalen Geräten, das für die Aufnahme und Bearbeitung von Audiosignalen bei Musikproduktion, Tonaufnahmen, Abmischung und Mastering genutzt wird. Der Begriff steht heute meistens für ein computergestütztes System, das aus spezieller Hardware wie einer hochwertigen Audiokarte und passender Musiksoftware besteht. Früher bezeichnete man damit Geräte für Harddisk-Recording, bevor die Aufnahme und Bearbeitung von Audio über PCs oder Macs möglich war.[^2]
+
+---
 
 ### Screenshot
 
-https://github.com/KLiNG0NE/Tipps-und-Tricks/
+![Screenshot: About Reaper](Screenshot-About-Reaper-2025-05-06.png "Screenshot: About Reaper")
+
+Screenshot: About Reaper
+
+---
 
 ### Website
 
 * REAPER – [www.reaper.fm](https://www.reaper.fm/)
+
+---
 
 #### RePack
 
