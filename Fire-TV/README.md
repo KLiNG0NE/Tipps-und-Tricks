@@ -101,7 +101,8 @@ Methode 1: Downloader-App (Einfach)
 #### Tipp:
 > Die SmartTube-App in den Entwickleroptionen im Bereich *Unbekannte Apps installieren* auf **AN** stellen, dann kann die App Updates durchführen.
 
-Offizielle Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
+Offizielle Website: [smarttubenext.com](https://smarttubenext.com/)  
+GitHub Website: [smarttubeapp.github.io](https://smarttubeapp.github.io/)
 
 ---
 
