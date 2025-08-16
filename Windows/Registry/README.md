@@ -32,6 +32,14 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize
 
 ---
 
+### Systemuhr mit Sekunden anzeigen
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+* ShowSecondsInSystemClock (Voreinstellung: 0, Aktiviert: 1)
+
+---
+
 Quellen:
 
 https://www.youtube.com/watch?v=V7AuHBZsOj0
