@@ -11,6 +11,7 @@
   * Lokales Konto einrichten (Online-Konto umgehen)
 * Lizenz
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
+* [Registry-Tweaks](Registry/README.md)
 * [System](System/README.md)
   * System mit Windows-Tools reparieren
 * [Treiber](Treiber/README.md)
@@ -24,3 +25,4 @@
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
+
