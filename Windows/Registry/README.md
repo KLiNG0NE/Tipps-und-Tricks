@@ -3,11 +3,21 @@
 
 ---
 
+### Ausführlichere Informationen beim Booten und Herunterfahren
+
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
 
 * VerboseStatus (Voreinstellung: 0, Aktiviert: 1)
 
 Dieser Eintrag muss neu angelegt werden (DWORD-Wert (32-Bit)). Bei Aktivierung werden beim Booten und Herunterfahren ausführlichere Informationen angezeigt.
+
+### Websuche im Startmenü deaktivieren
+
+Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer
+
+* DisableSearchBoxSuggestions (Voreinstellung: 0, Aktiviert: 1)
+
+Bei Aktivierung verhindert diser Eintrag, dass im Startmenü eine Websuche durchgeführt wird.
 
 ---
 
