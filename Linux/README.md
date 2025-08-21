@@ -8,18 +8,29 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ## GNU/Linux
 
-**Linux**, auch als **GNU/Linux** bekannt, ist ein frei verfügbares Betriebssystem, das mehrere Benutzer gleichzeitig nutzen können. Es basiert auf dem **Linux-Kernel** und enthält viele Programme aus dem GNU-Projekt. Seit 1992 kann Linux durch die freie Lizenz **GPL** von jedem verwendet, verändert und sogar kommerziell angeboten werden. Einer der Hauptentwickler von Linux war der finnische Programmierer Linus Torvalds.
+### 🖥️ Was ist Linux?
+**Linux** – häufig auch als **GNU/Linux** bezeichnet – ist ein frei zugängliches Betriebssystem, das von mehreren Nutzern gleichzeitig verwendet werden kann. Es basiert auf dem Linux-Kernel und integriert zahlreiche Programme aus dem GNU-Projekt. Seit 1992 steht Linux unter der freien GPL-Lizenz, was bedeutet, dass es von jedem genutzt, verändert und sogar kommerziell weitergegeben werden darf. Die Entwicklung wurde maßgeblich vom finnischen Programmierer Linus Torvalds angestoßen.
 
-Das modular aufgebaute Betriebssystem wird von Softwareentwicklern auf der ganzen Welt weiterentwickelt, die an den verschiedenen Projekten mitarbeiten. An der Entwicklung sind Unternehmen, Non-Profit-Organisationen und viele Freiwillige beteiligt. Beim Gebrauch auf Computern kommen meist sogenannte **Linux-Distributionen** zum Einsatz. Eine Distribution fasst den Linux-Kernel mit verschiedener Software zu einem Betriebssystem zusammen, das für die Endnutzung geeignet ist. Dabei passen viele Distributoren und versierte Benutzer die Software an ihre eigenen Zwecke an.
+### 🌍 Globale Entwicklung und Distributionen
+Linux ist modular aufgebaut und wird weltweit von einer aktiven Gemeinschaft aus Softwareentwicklern weiterentwickelt. Neben großen Unternehmen und gemeinnützigen Organisationen tragen auch viele Freiwillige zur Verbesserung bei. Auf den meisten Computern kommt Linux in Form sogenannter Distributionen zum Einsatz – das sind Pakete, die den Kernel mit zusätzlicher Software zu einem vollständigen Betriebssystem kombinieren. Viele Distributoren und erfahrene Anwender passen diese Systeme individuell an ihre Bedürfnisse an.
 
-Linux wird in vielen Bereichen genutzt, darunter Arbeitsrechner, Server, Smartphones, Router, Notebooks, eingebettete Systeme, Multimedia-Geräte und Supercomputer. Je nach Einsatzgebiet ist es unterschiedlich verbreitet: Während es auf Servern und mobilen Geräten weit verbreitet ist, spielt es auf Desktops und Laptops noch eine kleinere Rolle. Im November 2023 lief Linux in Deutschland auf etwa 2,8 % der Desktop-Computer, und Anfang 2024 erreichte es weltweit erstmals eine Verbreitung von über 4 %.
+### 📱 Vielfältige Einsatzbereiche
+Linux findet in zahlreichen technischen Bereichen Anwendung:
+• 	Arbeitsrechner und Server
+• 	Smartphones und Router
+• 	Notebooks und eingebettete Systeme
+• 	Multimedia-Geräte und Supercomputer
+Die Verbreitung variiert je nach Einsatzgebiet. Während Linux auf Servern und mobilen Geräten weit verbreitet ist, bleibt der Marktanteil auf Desktop-Computern vergleichsweise gering. Im November 2023 lag der Anteil in Deutschland bei etwa 2,8 %, und Anfang 2024 überschritt Linux weltweit erstmals die 4 %-Marke auf Desktops.
 
-Zu den Nutzern gehören Privatpersonen, Unternehmen, Organisationen und Regierungen.
+### 👥 Wer nutzt Linux?
+Die Nutzerbasis ist breit gefächert und umfasst Privatpersonen, Unternehmen, Organisationen sowie staatliche Einrichtungen.
 
-Linux wird durch das Open Invention Network (OIN) patentrechtlich geschützt. Zusätzlich sorgt die Linux Foundation dafür, dass Linux erhalten bleibt und sich weiterentwickeln kann.[^1]
+### 🔒 Rechtlicher Schutz und Förderung
+Linux wird durch das Open Invention Network (OIN) vor Patentstreitigkeiten geschützt. Die Linux Foundation setzt sich zudem aktiv dafür ein, dass das Betriebssystem weiterentwickelt wird und langfristig erhalten bleibt.[^1]
 
 [^1]: Text mit Unterstützung von KI erstellt.
 
 <sub>_Quelle:_ Seite „Linux“. In: Wikipedia – Die freie Enzyklopädie</sub>
 
 [KLiNG0NE](https://github.com/KLiNG0NE) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / Linux
+
