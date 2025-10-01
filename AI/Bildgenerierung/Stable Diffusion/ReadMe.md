@@ -39,7 +39,7 @@ Stable Diffusion ist ein Text-to-Image Bildgenerator. Bilder können per Textein
 
 ## FreeU-Parameter
 
-Du kannst diese Parameter je nach deinen Modellen, Bild-/Videostil oder Aufgaben anpassen. Du kannst dir die folgenden Parameter mal anschauen.
+Du kannst diese Parameter je nach deinen Modellen, Bild-/Videostil oder Aufgaben anpassen. Die folgenden Parameter kannst du dir mal anschauen.
 
 #### SD1.4:
 
