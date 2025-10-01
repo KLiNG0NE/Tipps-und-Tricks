@@ -8,7 +8,7 @@ Inhalt in der Datei `autorun.inf` im Wurzelverzeichnis des Datenträgers speiche
 
     [AutoRun]
     icon=autorun.ico
-    label=Datenträgername
+    label=Datenträgerbezeichnung
     
 In diesem Beispiel befinden sich Autorun- und Icon-Datei direkt im Wurzelverzeichnis des Datenträgers.
 
@@ -18,7 +18,7 @@ In diesem Beispiel befinden sich Autorun- und Icon-Datei direkt im Wurzelverzeic
     icon=autorun/wd-black.ico
     label=WD_BLACK SN770 1TB
     
-Hier befindet sich die Icon-Datei im Unterverzeichnis autorun des Datenträgers.
+Hier befindet sich die Icon-Datei im Unterverzeichnis `autorun` des Datenträgers.
 Unterodner werden hier mit Slash `[/]`, nicht wie in Windows üblich mit Backslash `[\]` getrennt.
 
 ### Erweitert
