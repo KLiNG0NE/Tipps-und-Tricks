@@ -9,7 +9,8 @@ Inhalt in der Datei `autorun.inf` im Wurzelverzeichnis des Datenträgers speiche
     [AutoRun]
     icon=autorun.ico
     label=Datenträgername
-
+    
+In diesem Beispiel befinden sich Autorun- und Icon-Datei direkt im Wurzelverzeichnis des Datenträgers.
 
 #### Beispiel
 
@@ -17,6 +18,7 @@ Inhalt in der Datei `autorun.inf` im Wurzelverzeichnis des Datenträgers speiche
     icon=autorun/wd-black.ico
     label=WD_BLACK SN770 1TB
     
+Hier befindet sich die Icon-Datei im Unterverzeichnis autorun des Datenträgers.
 
 ### Erweitert
 
