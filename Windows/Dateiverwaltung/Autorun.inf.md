@@ -3,7 +3,9 @@
 Inhalt in der Datei autorun.inf im Wurzelverzeichnis des Datenträgers speichern.
 
 ### Datenträgericon und -name
-  
+
+#### autorun.inf
+
     [AutoRun]
     icon=autorun.ico
     label=Datenträgername
