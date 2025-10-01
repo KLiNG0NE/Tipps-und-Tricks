@@ -15,7 +15,15 @@ Stable Diffusion ist ein Text-to-Image Bildgenerator. Bilder können per Textein
 
 #### Stable Diffusion XL (SDXL)
 
-1024 x 1024 (Standard)
+* 1536 x 640
+* 1344 x 768
+* 1216 x 832
+* 1152 x 896
+* 1024 x 1024 (Standard)
+* 896 x 1152
+* 832 x 1216
+* 768 x 1344
+* 640 x 1536
 
 #### FLUX
 
