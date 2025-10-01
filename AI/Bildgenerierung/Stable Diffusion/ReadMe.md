@@ -27,4 +27,3 @@ Stable Diffusion ist ein Text-to-Image Bildgenerator. Bilder können per Textein
 * Landscape: 768 × 512 px oder 1024 × 768 px
 * Widescreen: 1280 × 720 px oder 1920 × 1080 px (Full HD)
 * Square HD: 1024 × 1024 px oder 2048 × 2048 px (für Druck oder große Displays)
-* 
