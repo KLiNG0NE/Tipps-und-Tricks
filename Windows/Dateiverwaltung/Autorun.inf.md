@@ -28,3 +28,4 @@ Unterodner werden hier mit Slash `[/]`, nicht wie in Windows üblich mit Backsla
     icon=programm.ico
     action=Programm starten
     
+Wikipedia: https://de.wikipedia.org/wiki/Autorun
