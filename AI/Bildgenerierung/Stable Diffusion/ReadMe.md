@@ -35,3 +35,30 @@ Stable Diffusion ist ein Text-to-Image Bildgenerator. Bilder können per Textein
 * Landscape: 768 × 512 px oder 1024 × 768 px
 * Widescreen: 1280 × 720 px oder 1920 × 1080 px (Full HD)
 * Square HD: 1024 × 1024 px oder 2048 × 2048 px (für Druck oder große Displays)
+
+
+## FreeU-Parameter
+
+Du kannst diese Parameter je nach deinen Modellen, Bild-/Videostil oder Aufgaben anpassen. Du kannst dir die folgenden Parameter mal anschauen.
+
+#### SD1.4:
+
+b1: 1.3, b2: 1.4, s1: 0.9, s2: 0.2
+
+#### SD1.5:
+
+b1: 1.5, b2: 1.6, s1: 0.9, s2: 0.2
+
+#### SD2.1
+
+b1: 1.1, b2: 1.2, s1: 0.9, s2: 0.2
+
+b1: 1.4, b2: 1.6, s1: 0.9, s2: 0.2
+
+#### SDXL
+
+b1: 1.3, b2: 1.4, s1: 0.9, s2: 0.2
+
+---
+
+FreeU: https://github.com/ChenyangSi/FreeU
