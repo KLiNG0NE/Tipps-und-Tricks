@@ -36,7 +36,7 @@ In folgender Tabelle werden die LMP-Version (Link Manager Protocol) entsprechend
 | 11          | 5.2               | 2020                 | bis zu 240 m              |
 | 12          | 5.3               | 2021                 | bis zu 240 m              |
 | 13          | 5.4               | 2023                 | bis zu 240 m              |
-| 14          | 6.0 (geplant)     | voraussichtlich 2025 | tbd (vermutlich >240 m)   |
+| 14          | 6.0               | 2024                 | tbd (vermutlich >240 m)   |
 
 ##### Beispiel
 
