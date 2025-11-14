@@ -16,7 +16,7 @@
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
 
 * Netzwerk
-  * [Bluetooth-Version anzeigen](Bluetooth-Version.md)
+  * [Bluetooth-Version anzeigen](Netzwerk/Bluetooth-Version.md)
 
 * [Registry-Tweaks](Registry/README.md)
 
@@ -36,6 +36,7 @@
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
+
 
 
 
