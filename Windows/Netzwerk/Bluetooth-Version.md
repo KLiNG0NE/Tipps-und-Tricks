@@ -6,11 +6,10 @@ Hier wird dargestellt, wie in Windows die Bluetooth-Version angezeigt werden kan
 ## Methode: Über den Geräte-Manager
 
 - Geräte-Manager öffnen. – Z. B. `Windows-Taste + X` und „Geräte-Manager“.
-- Suche nach dem Eintrag „Bluetooth“ und klicke auf den kleinen Pfeil, um die Liste zu erweitern.
-- Rechtsklicke auf deinen Bluetooth-Adapter (z. B. „Intel Wireless Bluetooth“ oder „Realtek Bluetooth Adapter“) und wähle „Eigenschaften“.
-- Wechsle zum Tab „Erweitert“ oder „Details“.
-- Wähle im Dropdown-Menü „Bluetooth-Radio-Unterstützte Version“ oder „Bluetooth-Version“ (je nach Gerät).
-- Dort siehst du die LMP-Version (Link Manager Protocol). Diese Zahl zeigt indirekt die Bluetooth-Version an.
+- Hier nach dem Eintrag „Bluetooth“ und auf den kleinen Pfeil klicke, um die Liste zu erweitern.
+- Rechtsklick auf den Bluetooth-Adapter (z. B. „Intel Wireless Bluetooth“ oder „Realtek Bluetooth Adapter“) und „Eigenschaften“ wählen.
+- Zum Tab „Erweitert“ oder „Details“ wechseln.
+- Dort wird die LMP-Version (Link Manager Protocol) angezeigt. Diese Zahl zeigt indirekt die Bluetooth-Version an.
 
 
 ## Screenshot
