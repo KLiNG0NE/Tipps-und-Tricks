@@ -7,6 +7,8 @@
 
 ## LMP-Versionen und ihre Bluetooth-Entsprechungen
 
+In folgender Tabelle werden die LMP-Version (Link Manager Protocol) entsprechend der Bluetooth-Version angezeigt:
+
 | LMP-Version | Bluetooth-Version     |
 |-------------|------------------------|
 | 0           | 1.0b                   |
