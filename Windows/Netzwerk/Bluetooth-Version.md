@@ -38,4 +38,4 @@ Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
 - HS = High Speed (Hohe Geschwindigkeit)
 - Neuere Versionen wie Bluetooth 5.x und 6.0 bieten Verbesserungen bei Reichweite, Energieeffizienz, Audioqualität (LE Audio) und Verbindungsstabilität.
 - Die tatsächliche Reichweite hängt stark von der Umgebung, Antennenleistung und Energieklasse ab.
-- Bluetooth 5.0 und höher bieten LE (Low Energy) Long Range, was die Reichweite deutlich erhöht – allerdings bei reduzierter Datenrate.
+- Bluetooth 5.0 und höher bieten **LE (Low Energy) Long Range,** was die Reichweite deutlich erhöht – allerdings bei reduzierter Datenrate.
