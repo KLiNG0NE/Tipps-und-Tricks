@@ -42,7 +42,7 @@ In folgender Tabelle werden die LMP-Version (Link Manager Protocol) entsprechend
 
 Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
 
-##### Hinweis
+##### Hinweise
 
 - Die LMP-Version zeigt an, welche Bluetooth-Kernfunktionen das Gerät maximal unterstützt.
 - EDR = Enhanced Data Rate (Erhöhte Datenrate)
