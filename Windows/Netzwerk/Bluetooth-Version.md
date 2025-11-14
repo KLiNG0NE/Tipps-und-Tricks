@@ -25,7 +25,7 @@
 | 13          | 5.4                    |
 | 14          | 6.0                    |
 
-Beispiel:
+##### Beispiel
 
 Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
 
