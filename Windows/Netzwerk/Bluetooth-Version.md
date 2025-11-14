@@ -13,7 +13,7 @@ Hier wird dargestellt, wie in Windows die Bluetooth-Version angezeigt werden kan
 - Dort siehst du die LMP-Version (Link Manager Protocol). Diese Zahl zeigt indirekt die Bluetooth-Version an.
 
 
-## LMP-Version (Link Manager Protocol)
+## Screenshot
 
 ![Screenshot](Screenshot-Bluetooth-Version-Windows.png)
 
