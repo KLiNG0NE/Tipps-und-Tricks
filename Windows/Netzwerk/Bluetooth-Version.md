@@ -5,7 +5,7 @@ Hier wird dargestellt, wie in Windows die Bluetooth-Version angezeigt werden kan
 
 ## Methode: Über den Geräte-Manager
 
-- Drücke Windows-Taste + X und wähle „Geräte-Manager“ aus.
+- Geräte-Manager öffnen. – Z. B. `Windows-Taste + X` und „Geräte-Manager“.
 - Suche nach dem Eintrag „Bluetooth“ und klicke auf den kleinen Pfeil, um die Liste zu erweitern.
 - Rechtsklicke auf deinen Bluetooth-Adapter (z. B. „Intel Wireless Bluetooth“ oder „Realtek Bluetooth Adapter“) und wähle „Eigenschaften“.
 - Wechsle zum Tab „Erweitert“ oder „Details“.
