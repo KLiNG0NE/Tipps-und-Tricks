@@ -38,10 +38,6 @@ In folgender Tabelle werden die LMP-Version (Link Manager Protocol) entsprechend
 | 13          | 5.4               | 2023                 | bis zu 240 m                   |
 | 14          | 6.0               | 2024                 | bis zu 300 m                   |
 
-##### Beispiel
-
-Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
-
 ##### Hinweise
 
 - Die LMP-Version zeigt an, welche Bluetooth-Kernfunktionen das Gerät maximal unterstützt.
@@ -50,3 +46,7 @@ Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
 - Neuere Versionen wie Bluetooth 5.x und 6.0 bieten Verbesserungen bei Reichweite, Energieeffizienz, Audioqualität (LE Audio) und Verbindungsstabilität.
 - Die tatsächliche Reichweite hängt stark von der Umgebung, Antennenleistung und Energieklasse ab.
 - Bluetooth 5.0 und höher bieten **LE (Low Energy) Long Range,** was die Reichweite deutlich erhöht – allerdings bei reduzierter Datenrate.
+
+##### Beispiel
+
+Wenn „LMP 9“ angezeigt wird, unterstützt das Gerät Bluetooth 5.0.
