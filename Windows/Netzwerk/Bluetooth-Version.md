@@ -41,10 +41,10 @@ In folgender Tabelle werden die LMP-Version (Link Manager Protocol) entsprechend
 ##### Hinweise
 
 - Die LMP-Version zeigt an, welche Bluetooth-Kernfunktionen das Gerät maximal unterstützt.
+- Die tatsächliche Reichweite hängt stark von der Umgebung, Antennenleistung und Energieklasse ab.
 - EDR = Enhanced Data Rate (Erhöhte Datenrate)
 - HS = High Speed (Hohe Geschwindigkeit)
 - Neuere Versionen wie Bluetooth 5.x und 6.0 bieten Verbesserungen bei Reichweite, Energieeffizienz, Audioqualität (LE Audio) und Verbindungsstabilität.
-- Die tatsächliche Reichweite hängt stark von der Umgebung, Antennenleistung und Energieklasse ab.
 - Bluetooth 5.0 und höher bieten **LE (Low Energy) Long Range,** was die Reichweite deutlich erhöht – allerdings bei reduzierter Datenrate.
 
 ##### Beispiel
