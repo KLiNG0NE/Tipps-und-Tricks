@@ -9,6 +9,7 @@ Die Bildgenerierung mittels AI ist in der Lage aus Textbeschreibungen KI-Kunst z
   Stability AI
 * FLUX.1  
   Black Forest Labs Inc.
+* Wildcards
 
 ---
 
