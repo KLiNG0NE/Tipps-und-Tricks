@@ -29,9 +29,9 @@ Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöp
 
 ![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-FF7139?logo=firefox) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-4285F4?logo=googlechrome)
 
-Mit *Video DownloadHelper* können recht einfach Videos von Websites heruntergeladen werden.
+<img src="img/Video-DownloadHelper.png" alt="Logo: Video DownloadHelper" width="100px" />
 
-![Logo: Video DownloadHelper](img/Video-DownloadHelper.png "Logo: Video DownloadHelper")
+Mit *Video DownloadHelper* können recht einfach Videos von Websites heruntergeladen werden.
 
 Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video DownloadHelper")
 
@@ -41,11 +41,13 @@ Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video Downloa
 
 #### Floccus
 
+<img src="img/Floccus.png" alt="Logo: Floccus" width="100px" />
+
 Bietet verschiedene Speichermöglichkeiten für die Favoriten.
 
-![Logo: Floccus](img/Floccus.png "Logo: Floccus")
+Website: [floccus.org](https://floccus.org/ "floccus.org")
 
-Website: https://floccus.org/
+---
 
 #### xBrowserSync
 
