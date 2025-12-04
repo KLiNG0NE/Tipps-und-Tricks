@@ -9,8 +9,15 @@
 
 ## Browser
 
-* Chromebasiert
+* Chromiumbasiert
+  * Google Chrome
+  * Brave
+  * Microsoft Edge
+  * Ungoogled Chromium
 * Firefoxbasiert
+  * Mozilla Firefox
+  * Librefox
+  * Waterfox
 
 ## Plug-ins
 
