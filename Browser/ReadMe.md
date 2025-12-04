@@ -7,6 +7,11 @@
   * Twitch
   * [YouTube](#youtube)
 
+## Browser
+
+* Chromebasiert
+* Firefoxbasiert
+
 ## Plug-ins
 
 Ein Plug-in [ˈplʌgɪn] (häufig auch Plugin; von engl. to plug in, „einstöpseln, anschließen“, auch Software-Erweiterung oder Zusatzmodul) ist eine optionale Softwarekomponente, die eine bestehende Software oder ein Computerspiel erweitert bzw. verändert. Der Begriff wird teilweise auch als Synonym zu „Add-on“ und „Add-in“ benutzt. Plug-ins werden meist vom Benutzer installiert und dann von der entsprechenden Hauptanwendung während der Laufzeit eingebunden. Plug-ins können nicht ohne die Hauptanwendung ausgeführt werden[^1].
