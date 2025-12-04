@@ -43,6 +43,8 @@ Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video Downloa
 
 Bietet verschiedene Speichermöglichkeiten für die Favoriten.
 
+![Logo: Floccus](img/Floccus.png "Logo: Floccus")
+
 Website: https://floccus.org/
 
 #### xBrowserSync
