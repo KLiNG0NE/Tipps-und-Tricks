@@ -39,6 +39,12 @@ Website: [www.downloadhelper.net](https://www.downloadhelper.net/ "Video Downloa
 
 ### Lesezeichen-/Favoritenverwaltung
 
+#### Floccus
+
+Bietet verschiedene Speichermöglichkeiten für die Favoriten.
+
+Website: https://floccus.org/
+
 #### xBrowserSync
 
 ![Static Badge](https://img.shields.io/badge/Firefox-Erweiterung-FF7139?logo=firefox) ![Static Badge](https://img.shields.io/badge/Chromium-Erweiterung-4285F4?logo=googlechrome)
