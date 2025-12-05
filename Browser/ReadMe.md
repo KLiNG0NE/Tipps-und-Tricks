@@ -16,7 +16,7 @@
   * Ungoogled Chromium - [github.com/ungoogled-software](https://github.com/ungoogled-software/ungoogled-chromium "https://github.com/") (engl.)
   * Opera - [www.opera.com](https://www.opera.com/de "https://www.opera.com") | undurchsichtige Besitzverhältnisse
   * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
-  * NAVER Whale - [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") | koreanischer Anbieter
+  * NAVER Whale - [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.) | koreanischer Anbieter, kein deu. UI
 * Firefoxbasiert
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)
