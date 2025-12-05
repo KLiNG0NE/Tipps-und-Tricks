@@ -18,7 +18,7 @@
   * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
 * Firefoxbasiert
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
-  * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
+  * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)
   * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
   * Floorp - [floorp.app](https://floorp.app/ "https://floorp.app") (engl.) | Open Source
   * Zen Browser - [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.) | Abspaltung von Mozilla Firefox, Open Source
