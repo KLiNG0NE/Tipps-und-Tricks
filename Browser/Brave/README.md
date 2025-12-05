@@ -1,5 +1,11 @@
 # KLiNG0NE / Tipps-und-Tricks / Browser / Brave
 
+Website: [brave.com](https://brave.com/de/ "https://brave.com")
+
+* [Flackern in Brave beseitigen](flackern-in-brave-beseitigen)
+
+---
+
 ## Flackern in Brave beseitigen
 
 Bei meinen Einstellungen kam es zum flackern vieler Seitenelemente. Das *deaktivieren* folgender Einstellung brachte Abhilfe:
