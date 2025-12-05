@@ -14,10 +14,15 @@
   * Brave
   * Microsoft Edge
   * Ungoogled Chromium
+  * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
+  * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net")
 * Firefoxbasiert
   * Mozilla Firefox
-  * Librefox
-  * Waterfox
+  * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
+  * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
+  * Tor Browser - 
+* Unabhängig
+  * Ladybird - noch in Entwicklung - Website: [ladybird.org](https://ladybird.org/ "ttps://ladybird.org")
 
 ## Plug-ins
 
