@@ -10,7 +10,7 @@
 ## Browser
 
 * Chromiumbasiert
-  * Google Chrome
+  * Google Chrome - [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")
   * Brave - [brave.com](https://brave.com/de/ "https://brave.com")
   * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
   * Ungoogled Chromium
