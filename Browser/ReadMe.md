@@ -17,7 +17,7 @@
   * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
   * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net")
 * Firefoxbasiert
-  * Mozilla Firefox
+  * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
   * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
   * Floorp - Open Source [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)
