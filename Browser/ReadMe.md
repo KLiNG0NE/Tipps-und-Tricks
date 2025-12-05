@@ -11,7 +11,7 @@
 
 * Chromiumbasiert
   * Google Chrome
-  * Brave
+  * Brave - [brave.com](https://brave.com/de/ "https://brave.com")
   * Microsoft Edge
   * Ungoogled Chromium
   * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
