@@ -20,7 +20,9 @@
   * Mozilla Firefox
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
   * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
-  * Tor Browser - 
+  * Floorp - Open Source
+  * Zen Browser - Abspaltung von Mozilla Firefox, Open Source
+  * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org")
 * Unabhängig
   * Ladybird - noch in Entwicklung - Website: [ladybird.org](https://ladybird.org/ "ttps://ladybird.org")
 
