@@ -20,11 +20,11 @@
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
   * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
-  * Floorp - Open Source [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)
+  * Floorp - [floorp.app](https://floorp.app/ "https://floorp.app") (engl.) | Open Source
   * Zen Browser - [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.) | Abspaltung von Mozilla Firefox, Open Source
   * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org") | Nutzt ein eigenes Netz, um die Identität zu verschleiern
 * Unabhängig
-  * Ladybird - noch in Entwicklung - Website: [ladybird.org](https://ladybird.org/ "ttps://ladybird.org")
+  * Ladybird - [ladybird.org](https://ladybird.org/ "ttps://ladybird.org") | Befindet sich noch in Entwicklung
 
 ## Plug-ins
 
