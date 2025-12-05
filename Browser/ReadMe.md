@@ -15,7 +15,7 @@
   * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
   * Ungoogled Chromium
   * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
-  * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net")
+  * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net") (engl.)
 * Firefoxbasiert
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
