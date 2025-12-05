@@ -12,7 +12,7 @@
 * Chromiumbasiert
   * Google Chrome
   * Brave - [brave.com](https://brave.com/de/ "https://brave.com")
-  * Microsoft Edge
+  * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
   * Ungoogled Chromium
   * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
   * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net")
