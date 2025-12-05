@@ -13,7 +13,7 @@
   * Google Chrome - [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")
   * Brave - [brave.com](https://brave.com/de/ "https://brave.com") | Kann auch Onion-URLs öffnen
   * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
-  * Ungoogled Chromium
+  * Ungoogled Chromium - [github.com/ungoogled-software](https://github.com/ungoogled-software/ungoogled-chromium "https://github.com/") (engl.)
   * Opera - [www.opera.com](https://www.opera.com/de "https://www.opera.com") | undurchsichtige Besitzverhältnisse
   * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
 * Firefoxbasiert
