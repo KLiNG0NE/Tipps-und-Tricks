@@ -11,18 +11,18 @@
 
 * Chromiumbasiert
   * Google Chrome - [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")
-  * Brave - [brave.com](https://brave.com/de/ "https://brave.com")
+  * Brave - [brave.com](https://brave.com/de/ "https://brave.com") | Kann auch Onion-URLs öffnen
   * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
   * Ungoogled Chromium
-  * Opera - undurchsichtige Besitzverhältnisse - [www.opera.com](https://www.opera.com/de "https://www.opera.com")
-  * Arc - Tableiste an der Seite - [arc.net](https://arc.net/ "https://arc.net") (engl.)
+  * Opera - [www.opera.com](https://www.opera.com/de "https://www.opera.com") | undurchsichtige Besitzverhältnisse
+  * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
 * Firefoxbasiert
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne")
   * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
   * Floorp - Open Source [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)
-  * Zen Browser - Abspaltung von Mozilla Firefox, Open Source
-  * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org")
+  * Zen Browser - [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.) | Abspaltung von Mozilla Firefox, Open Source
+  * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org") | Nutzt ein eigenes Netz, um die Identität zu verschleiern
 * Unabhängig
   * Ladybird - noch in Entwicklung - Website: [ladybird.org](https://ladybird.org/ "ttps://ladybird.org")
 
