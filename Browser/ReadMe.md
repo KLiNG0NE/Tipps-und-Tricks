@@ -19,7 +19,7 @@
 * Firefoxbasiert
   * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
   * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)
-  * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net")
+  * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.)
   * Floorp - [floorp.app](https://floorp.app/ "https://floorp.app") (engl.) | Open Source
   * Zen Browser - [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.) | Abspaltung von Mozilla Firefox, Open Source
   * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org") | Nutzt ein eigenes Netz, um die Identität zu verschleiern
