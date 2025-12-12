@@ -2,11 +2,11 @@
 
 ## Kostenlose VPN-Anbieter
 
-| Name      | Website                                                                        |
-| --------- | ------------------------------------------------------------------------------ |
-| RiseupVPN | [riseup.net](https://riseup.net/de/vpn "https://riseup.net")                   |
-| UrbanVPN  | [www.urban-vpn.com](https://www.urban-vpn.com/de/ "https://www.urban-vpn.com") |
-| VPNBook   | [www.vpnbook.com](https://www.vpnbook.com/ "https://www.vpnbook.com") (engl.)  |
+| Name      | Website                                                                        | Bemerkungen                |
+| --------- | ------------------------------------------------------------------------------ | -------------------------- |
+| RiseupVPN | [riseup.net](https://riseup.net/de/vpn "https://riseup.net")                   | Eigener Client, OpenVPN    |
+| UrbanVPN  | [www.urban-vpn.com](https://www.urban-vpn.com/de/ "https://www.urban-vpn.com") | P2P                        |
+| VPNBook   | [www.vpnbook.com](https://www.vpnbook.com/ "https://www.vpnbook.com") (engl.)  | OpenVPN, PPTP, Outline VPN |
 
 ---
 
