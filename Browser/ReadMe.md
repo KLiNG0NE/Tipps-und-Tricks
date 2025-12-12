@@ -22,7 +22,7 @@
 ### Firefoxbasiert
 
 | Name            | Website                                                                          | Hinweise                                                 |
-| --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| --------------- | :------------------------------------------------------------------------------: | -------------------------------------------------------- |
 | Floorp          | [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)                   | Open Source                                              |
 | LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert aus Privatsphäre                       |
 | Mozilla Firefox | [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")         |                                                          |
