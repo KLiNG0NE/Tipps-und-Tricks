@@ -2,12 +2,7 @@
 
 ## Software
 
-Hier eine Übersicht kostenloser Programme, mit denen ein Webserver unter Windows betrieben werden kann.
-
-* EasyPHP – [www.easyphp.org](https://www.easyphp.org/ "https://www.easyphp.org") (engl.)
-* Laragon [laragon.org](https://laragon.org/ "https://laragon.org") (engl.)
-* Wamp
-* XAMPP
+Hier eine Übersicht kostenloser Programme, mit denen ein Webserver unter Windows betrieben werden kann. Ein Webserver stellt die Software bereit, die notwendig ist, um Webseiten im Internet bereitzustellen. Die Hardware, auf der diese Programme laufen werden ebenfalls häufig als Webserver bezeichnet. Als Software kommen häufig Standardprogramme, wie Apache als Server, PHP als interpreter sowie MySQL als Datenbank zum Einsatz.
 
 | Name           | Website                                                                                         | Hinweise                        |
 | :------------- | :---------------------------------------------------------------------------------------------: | ------------------------------- |
