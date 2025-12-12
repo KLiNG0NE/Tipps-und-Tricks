@@ -2,7 +2,9 @@
 
 ## Software
 
-Hier eine Übersicht kostenloser Programme, mit denen ein Webserver unter Windows betrieben werden kann. Ein Webserver stellt die Software bereit, die notwendig ist, um Webseiten im Internet bereitzustellen. Die Hardware, auf der diese Programme laufen werden ebenfalls häufig als Webserver bezeichnet. Als Software kommen häufig Standardprogramme, wie Apache als Server, PHP als interpreter sowie MySQL als Datenbank zum Einsatz.
+Hier eine Übersicht kostenloser Programme, mit denen ein Webserver unter Windows betrieben werden kann. Ein Webserver stellt die Software bereit, die notwendig ist, um Webseiten im Internet bereitzustellen. Die Hardware, auf der diese Programme laufen wird ebenfalls häufig als Webserver bezeichnet. Als Software kommen häufig Standardprogramme, wie Apache als Server, PHP als interpreter sowie MySQL als Datenbank zum Einsatz.
+
+Die hier genannten Programme stellen meist nur eine Entwicklungsumgebung bereit und sind nicht ohne weiteres für den produktiven Einsatz gedacht.
 
 | Name           | Website                                                                                         | Hinweise                        |
 | :------------- | :---------------------------------------------------------------------------------------------: | ------------------------------- |
