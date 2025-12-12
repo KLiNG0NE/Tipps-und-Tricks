@@ -11,6 +11,8 @@ Die hier genannten Programme stellen meist nur eine Entwicklungsumgebung bereit 
 | EasyPHP        | [www.easyphp.org](https://www.easyphp.org/ "https://www.easyphp.org") (engl.)                   | Lokale PHP-Entwicklungsumgebung |
 | Laragon        | [laragon.org](https://laragon.org/ "https://laragon.org") (engl.)                               | Häufiger Lizenzhinweis          |
 | Uniform Server | [www.uniformserver.com](https://www.uniformserver.com/ "https://www.uniformserver.com") (engl.) | Veraltete Updates               |
-| Wamp           | Text                                                                                            | Text                            |
-| XAMPP          | Text                                                                                            | Text                            |
+| WampServer     | [www.wampserver.com](https://www.wampserver.com/en/ "https://www.wampserver.com")  (engl.)      |                                 |
+| XAMPP          | [www.apachefriends.org](https://www.apachefriends.org/de/ "https://www.apachefriends.org")      | Sehr verbreitet                 |
 | Text           | Text                                                                                            | Text                            |
+
+https://www.apachefriends.org/de/
