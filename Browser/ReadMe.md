@@ -18,15 +18,24 @@
   * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
   * NAVER Whale - [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.) | südkoreanischer Anbieter, kein deu. UI, eigener Extension Store
   * Sleipnir - [www.fenrir-inc.com](https://www.fenrir-inc.com/jp/sleipnir/ "https://www.fenrir-inc.com") (jap.) | japanischer Anbieter, UI in deutscher Sprache
-* Firefoxbasiert
-  * Mozilla Firefox - [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")
-  * LibreWolf - [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)
-  * Waterfox - [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.)
-  * Floorp - [floorp.app](https://floorp.app/ "https://floorp.app") (engl.) | Open Source
-  * Zen Browser - [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.) | Abspaltung von Mozilla Firefox, Open Source
-  * Tor Browser - [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org") | Nutzt ein eigenes Netz, um die Identität zu verschleiern
-* Unabhängig
-  * Ladybird - [ladybird.org](https://ladybird.org/ "ttps://ladybird.org") | Befindet sich noch in Entwicklung
+
+### Firefoxbasiert
+
+| Name            | Website                                                                          | Hinweise                                                 |
+| --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Mozilla Firefox | [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")         |                                                          |
+| LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert aus PPrivatsphäre                      |
+| Waterfox        | [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.) |                                                          |
+| Floorp          | [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)                   | Open Source                                              |
+| Zen Browser     | [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.)    | Open Source                                              |
+| Tor Browser     | [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org")   | Nutzt ein eigenes Netz, um die Identität zu verschleiern |
+
+### Unabhängig
+
+| Name     | Website                                                     | Hinweise                          |
+| -------- | ----------------------------------------------------------- | --------------------------------- |
+| Ladybird | [ladybird.org](https://ladybird.org/ "ttps://ladybird.org") | Befindet sich noch in Entwicklung |
+
 
 ## Plug-ins
 
