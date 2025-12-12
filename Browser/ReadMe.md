@@ -23,12 +23,12 @@
 
 | Name            | Website                                                                          | Hinweise                                                 |
 | --------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Mozilla Firefox | [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")         |                                                          |
-| LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert aus PPrivatsphäre                      |
-| Waterfox        | [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.) |                                                          |
 | Floorp          | [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)                   | Open Source                                              |
-| Zen Browser     | [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.)    | Open Source                                              |
+| LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert aus Privatsphäre                       |
+| Mozilla Firefox | [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")         |                                                          |
 | Tor Browser     | [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org")   | Nutzt ein eigenes Netz, um die Identität zu verschleiern |
+| Waterfox        | [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.) |                                                          |
+| Zen Browser     | [zen-browser.app](https://zen-browser.app/ "https://zen-browser.app") (engl.)    | Open Source                                              |
 
 ### Unabhängig
 
