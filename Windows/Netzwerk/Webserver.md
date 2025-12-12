@@ -8,9 +8,9 @@ Die hier genannten Programme stellen meist nur eine Entwicklungsumgebung bereit 
 
 | Name           | Website                                                                                         | Hinweise                        |
 | :------------- | :---------------------------------------------------------------------------------------------: | ------------------------------- |
-| EasyPHP        | [www.easyphp.org](https://www.easyphp.org/ "https://www.easyphp.org") (engl.)                   | lokale PHP-Entwicklungsumgebung |
-| Laragon        | [laragon.org](https://laragon.org/ "https://laragon.org") (engl.)                               | Text                            |
-| Uniform Server | [www.uniformserver.com](https://www.uniformserver.com/ "https://www.uniformserver.com") (engl.) | Text                            |
+| EasyPHP        | [www.easyphp.org](https://www.easyphp.org/ "https://www.easyphp.org") (engl.)                   | Lokale PHP-Entwicklungsumgebung |
+| Laragon        | [laragon.org](https://laragon.org/ "https://laragon.org") (engl.)                               | Häufiger Lizenzhinweis          |
+| Uniform Server | [www.uniformserver.com](https://www.uniformserver.com/ "https://www.uniformserver.com") (engl.) | Veraltete Updates               |
 | Wamp           | Text                                                                                            | Text                            |
 | XAMPP          | Text                                                                                            | Text                            |
 | Text           | Text                                                                                            | Text                            |
