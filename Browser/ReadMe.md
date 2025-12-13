@@ -41,9 +41,9 @@ Diese Browser nutzen die freie Browserengine *Gecko*.
 
 ### Unabhängig
 
-| Name     | Website                                                     | Hinweise                          |
-| -------- | ----------------------------------------------------------- | --------------------------------- |
-| Ladybird | [ladybird.org](https://ladybird.org/ "ttps://ladybird.org") | Befindet sich noch in Entwicklung |
+| Name     | Website                                                     | Hinweise                                                       |
+| -------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
+| Ladybird | [ladybird.org](https://ladybird.org/ "ttps://ladybird.org") | Befindet sich in Entwicklung, Angestrebtes Release: Mitte 2026 |
 
 
 ## Plug-ins
