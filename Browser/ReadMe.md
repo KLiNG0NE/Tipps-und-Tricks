@@ -13,6 +13,8 @@ Eine unvollständige Übersicht von verschiedenen Browsern.
 
 ### Chromiumbasiert
 
+Chromiumbasierte Browser nutzen die freie Browser-Engine *WebKit*.
+
 | Name               | Website                                                                                                                 | Hinweise                                                        |
 | ------------------ | :---------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------- |
 | Google Chrome      | [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")                                    |                                                                 |
