@@ -9,9 +9,9 @@
 
 ## Browser
 
-Eine unvollständige Übersicht von verschiedenen Browsern.
+Eine unvollständige Übersicht von verschiedenen Browsern. – Derzeit können Browser grob anhand der genutzten Engine eingeteilt werden: Zunächst exitiert die freie Engine *WebKit*, welche von dem marktbeherrschendem Browser *Google Chrome* genutzt wird. Desweiteren existiert die freie Browserengine *Gecko*, welche von dem Konkurrenten *Mozilla Firefox* eingesetzt wird.
 
-### Chromiumbasiert
+### WebKit-basiert
 
 Chromiumbasierte Browser nutzen die freie Browser-Engine *WebKit*.
 
@@ -26,7 +26,9 @@ Chromiumbasierte Browser nutzen die freie Browser-Engine *WebKit*.
 | NAVER Whale        | [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.)                                        | südkoreanischer Anbieter, kein deu. UI, eigener Extension Store |
 | Sleipnir           | [www.fenrir-inc.com](https://www.fenrir-inc.com/jp/sleipnir/ "https://www.fenrir-inc.com") (jap.)                       | japanischer Anbieter, UI in deutscher Sprache                   |
 
-### Firefoxbasiert
+### Gecko-basiert
+
+Diese Browser nutzen die freie Browserengine *Gecko*.
 
 | Name            | Website                                                                          | Hinweise                                                 |
 | --------------- | :------------------------------------------------------------------------------: | -------------------------------------------------------- |
