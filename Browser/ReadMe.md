@@ -9,22 +9,27 @@
 
 ## Browser
 
-* Chromiumbasiert
-  * Google Chrome - [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")
-  * Brave - [brave.com](https://brave.com/de/ "https://brave.com") | Kann auch Onion-URLs öffnen
-  * Microsoft Edge - [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")
-  * Ungoogled Chromium - [github.com/ungoogled-software](https://github.com/ungoogled-software/ungoogled-chromium "https://github.com/") (engl.)
-  * Opera - [www.opera.com](https://www.opera.com/de "https://www.opera.com") | undurchsichtige Besitzverhältnisse
-  * Arc - [arc.net](https://arc.net/ "https://arc.net") (engl.) | Tableiste an der Seite
-  * NAVER Whale - [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.) | südkoreanischer Anbieter, kein deu. UI, eigener Extension Store
-  * Sleipnir - [www.fenrir-inc.com](https://www.fenrir-inc.com/jp/sleipnir/ "https://www.fenrir-inc.com") (jap.) | japanischer Anbieter, UI in deutscher Sprache
+Eine unvollständige Übersicht von verschiedenen Browsern.
+
+### Chromiumbasiert
+
+| Name               | Website                                                                                                                 | Hinweise                                                        |
+| ------------------ | :---------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------- |
+| Google Chrome      | [www.google.com](https://www.google.com/intl/de_de/chrome/ "https://www.google.com")                                    |                                                                 |
+| Brave              | [brave.com](https://brave.com/de/ "https://brave.com")                                                                  | Kann auch Onion-URLs öffnen                                     |
+| Microsoft Edge     | [www.microsoft.com](https://www.microsoft.com/de-de/edge/ "https://www.microsoft.com")                                  |                                                                 |
+| Ungoogled Chromium | [github.com/ungoogled-software](https://github.com/ungoogled-software/ungoogled-chromium "https://github.com/") (engl.) |                                                                 |
+| Opera              | [www.opera.com](https://www.opera.com/de "https://www.opera.com")                                                       | undurchsichtige Besitzverhältnisse                              |
+| Arc                | [arc.net](https://arc.net/ "https://arc.net") (engl.)                                                                   | Tableiste an der Seite                                          |
+| NAVER Whale        | [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.)                                        | südkoreanischer Anbieter, kein deu. UI, eigener Extension Store |
+| Sleipnir           | [www.fenrir-inc.com](https://www.fenrir-inc.com/jp/sleipnir/ "https://www.fenrir-inc.com") (jap.)                       | japanischer Anbieter, UI in deutscher Sprache                   |
 
 ### Firefoxbasiert
 
 | Name            | Website                                                                          | Hinweise                                                 |
 | --------------- | :------------------------------------------------------------------------------: | -------------------------------------------------------- |
 | Floorp          | [floorp.app](https://floorp.app/ "https://floorp.app") (engl.)                   | Open Source                                              |
-| LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert aus Privatsphäre                       |
+| LibreWolf       | [librewolf.net](https://librewolf.net/ "https://librewolf.ne") (engl.)           | Legt erhöten Wert auf Privatsphäre                       |
 | Mozilla Firefox | [www.firefox.com](https://www.firefox.com/de/ "https://www.firefox.com")         |                                                          |
 | Tor Browser     | [www.torproject.org](https://www.torproject.org/ "https://www.torproject.org")   | Nutzt ein eigenes Netz, um die Identität zu verschleiern |
 | Waterfox        | [www.waterfox.net](https://www.waterfox.net/ "https://www.waterfox.net") (engl.) |                                                          |
