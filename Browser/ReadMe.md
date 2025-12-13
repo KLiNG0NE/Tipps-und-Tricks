@@ -28,7 +28,7 @@ Chromiumbasierte Browser nutzen die freie Browser-Engine *WebKit*.
 
 ### Gecko-basiert
 
-Diese Browser nutzen die freie Browserengine *Gecko*.
+Diese Browser nutzen die freie Browser-Engine *Gecko*.
 
 | Name            | Website                                                                          | Hinweise                                                 |
 | --------------- | :------------------------------------------------------------------------------: | -------------------------------------------------------- |
