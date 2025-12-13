@@ -9,7 +9,7 @@
 
 ## Browser
 
-Eine unvollständige Übersicht von verschiedenen Browsern. – Derzeit können Browser grob anhand der genutzten Engine eingeteilt werden: Zunächst exitiert die freie Engine *WebKit*, welche von dem marktbeherrschendem Browser *Google Chrome* genutzt wird. Desweiteren existiert die freie Browserengine *Gecko*, welche von dem Konkurrenten *Mozilla Firefox* eingesetzt wird.
+Eine unvollständige Übersicht von verschiedenen Browsern. – Derzeit können Browser grob anhand der genutzten Engine eingeteilt werden: Zunächst exitiert die freie Engine *WebKit*, welche von dem marktbeherrschenden Browser *Google Chrome* genutzt wird. Desweiteren existiert die freie Browserengine *Gecko*, welche von dem Konkurrenten *Mozilla Firefox* eingesetzt wird.
 
 ### WebKit-basiert
 
