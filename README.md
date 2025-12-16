@@ -18,6 +18,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 * [Linux](Linux)
 * [Live-TV am PC](Live-TV-am-PC)
 * [Proxmox](Proxmox)
+* [VPN](VPN)
 * [Windows](Windows)
 
 Vielleicht ist ja auch etwas Interessantes für Dich dabei.
