@@ -1,5 +1,7 @@
 # Tipps-und-Tricks / VPN
 
+VPN – Virtual Private Network (deutsch „virtuelles privates Netzwerk“) bezeichnet eine Netzwerkverbindung, die von Unbeteiligten nicht einsehbar ist. Hier wird dieses Netz genutzt, um eine Verbindung zum Internet zu erstellen, ohne die eigene IP und den Standort preiszugeben.
+
 ## Kostenlose VPN-Anbieter
 
 | Name      | Website                                                                        | Hinweise                   |
