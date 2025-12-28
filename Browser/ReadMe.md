@@ -164,6 +164,13 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ---
 
+## Links
+
+* BrowserAudit https://browseraudit.com/
+* https://www.whatismybrowser.com/
+
+---
+
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
 
 ###### Quellenangaben:
