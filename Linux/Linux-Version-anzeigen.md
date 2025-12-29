@@ -2,7 +2,8 @@
 
 ## Terminal
 
-Im Terminal folgenden Befehl ausführen:
+Im Terminal (Konsole) folgenden Befehl ausführen:
+
 ```
 cat /etc/*release
 ```
