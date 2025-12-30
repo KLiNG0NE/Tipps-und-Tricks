@@ -176,6 +176,8 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 | quad9                                                                              | https://dns.quad9.net/dns-query                                              |
 | [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
 
+Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
+
 ---
 
 
