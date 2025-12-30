@@ -184,9 +184,15 @@ Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
 
 #### Firefox
 
-Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
+##### Englisch voreingestellt
 
-Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
+☰ - Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
+
+##### Deutsch voreingestellt
+
+☰ - Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
+
+Das Burger-Menü ☰ befindet sich typischerweise in der rechten oberen Ecke des Browserfensters.
 
 ---
 
