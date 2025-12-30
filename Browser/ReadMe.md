@@ -1,13 +1,40 @@
 # KLiNG0NE / Tipps-und-Tricks / Browser
 
-* [Plug-ins](#plug-ins)
+Hier wird über Tipps, Tricks und wissenswertes zu Browsern berichtet.
+
+## Übersicht
+
+* Was ist ein Browser?
+* Browser-Übersicht
+* Anzeigesprache des Browsers einstellen (UI)
+  * Firefox (u. -Verwandte)
+  * Chrome (u. -Verwandte)
+* Einstellungen des Browsers für erhöhte Sicherheit und Privatsphäre
+* Nützliche [Plug-ins](#plug-ins) für Browser
   * [Download](#download)
   * [Lesezeichen-/Favoritenverwaltung](#lesezeichen-favoritenverwaltung)
   * [Websitefilter](#websitefilter)
   * Twitch
   * [YouTube](#youtube)
 
-## Browser
+## Was ist ein Browser?
+
+Ein Browser (to browse ≙ durchsuchen) ist ein Programm, mit dem Webseiten im Internet angesehen und bedient werden können. Ohne Browser kann keine Seite wie Google, YouTube oder Wikipedia genutzt werden.
+
+### Was macht ein Browser genau?
+
+- Er ruft Webseiten aus dem Internet ab.
+- Er zeigt Texte, Bilder, Videos und Buttons so an, dass der Nutzer sie sehen und anklicken kann.
+- Er interpretiert Websprachen wie HTML, CSS und JavaScript, damit die Seite richtig aussieht und funktioniert.
+
+### Beispiele für bekannte Browser
+
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Apple Safari
+
+## Browser-Übersicht
 
 Eine unvollständige Übersicht von verschiedenen Browsern. – Derzeit können Browser grob anhand der genutzten Engine eingeteilt werden: Zunächst exitiert die freie Engine *WebKit*, welche von dem marktbeherrschenden Browser *Google Chrome* genutzt wird. Desweiteren existiert die freie Browserengine *Gecko*, welche von dem Konkurrenten *Mozilla Firefox* eingesetzt wird.
 
