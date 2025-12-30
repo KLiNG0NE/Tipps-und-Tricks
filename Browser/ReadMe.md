@@ -118,6 +118,31 @@ Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
 
 ### Firefox (u. -Verwandte)
 
+#### Verbesserter Schutz vor Aktivitätenverfolgung
+
+☰ - Burger-Menü -> Einstellungen -> Datenschutz und Sicherheit -> Browser-Datenschutz
+
+Empfohlene Einstellung: Benutzerdefiniert
+
+Alle Optionen sollten ``aktiv`` (angehakt) sein.
+
+Dies erhöht den Datenschutz, könnte jedoch dazu führen, dass evtl. einige Websites nicht mehr korrekt funktionieren.
+
+#### WebRTC Peer-Verbindung
+
+Web Real Time Communication wird zum Beispiel für Videokonferenz im Browser genutzt. Wer so etwas nicht nutzt, kann die Funktion deaktivieren.
+
+Empfohlene Einstellung: deaktiviert
+
+Wer dies benötigt, schaltet es wieder ein.
+
+#### Datenschutzeinstellungen für Websites
+
+Mit dieser Einstellung soll Websites mitgeteilt werden, dass Daten nicht verkauft oder weitergegeben werden.  
+Es bleibt fraglich, ob Betreiber solche Einstellungen auswerten, und wie sie darauf reagieren.
+
+Empfohlene Einstellung: aktiviert
+
 ### Chrome (u. -Verwandte)
 
 ---
