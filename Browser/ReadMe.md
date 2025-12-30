@@ -193,7 +193,8 @@ Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Er
 ## Links
 
 * BrowserAudit https://browseraudit.com/
-* https://www.whatismybrowser.com/
+* [www.whatismybrowser.com](https://www.whatismybrowser.com/) (engl.)
+* What's My Browser: [www.whatsmybrowser.org](https://www.whatsmybrowser.org/)
 
 ---
 
