@@ -143,6 +143,26 @@ Es bleibt fraglich, ob Betreiber solche Einstellungen auswerten, und wie sie dar
 
 Empfohlene Einstellung: aktiviert
 
+#### Cookies und Website-Daten
+
+Idealerweise sollten Cookies und Websitedaten beim Verlassen des Browsers gelöscht werden. Falls Websites in der Nutzung zu sehr beeinträchtigt werden, können sie hier zu den Ausnahmen hinzugefügt werden.
+
+Empfohlene Einstellung: aktiviert
+
+#### Cookie-Banner-Blocker
+
+Wenn aktiviert, werden im privaten Modus Cookies automatisch abgelehnt.
+
+Empfohlene Einstellung: aktiviert
+
+#### Passwörter
+
+Aus sicherheitsgründen empfiehlt es sich nicht, Passwörter im Browser speichern zu lassen. Eine externe Passwortverwaltung ist besser geeignet. - Wer aus Bequemlichkeit Passwörter im Browser speichert, sollte zumindest ein *Masterpasswort* (Hauptpasswort) vergeben.
+
+Empfohlene Einstellung: deaktiviert
+
+Die Option "Alarme für Passwörter…" sollte aktiviert bleiben, so wird darauf hingewiesen, falls Websites von einem Datenleck betroffen sind.
+
 ### Chrome (u. -Verwandte)
 
 ---
