@@ -164,6 +164,13 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ---
 
+#### DNS-over-HTTPS einrichten
+
+doh.safedns.com
+
+---
+
+
 ## Links
 
 * BrowserAudit https://browseraudit.com/
