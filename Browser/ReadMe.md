@@ -168,12 +168,13 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 #### Public Resolvers
 
-| Anbieter                                                                           | DoH-Resolver                                                         | 
-|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Cloudflare                                                                         | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query) |
-| Google                                                                             | https://dns.google/dns-query                                         |
-| quad9                                                                              | https://dns.quad9.net/dns-query                                      |
-| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                           |
+| Anbieter                                                                           | DoH-Resolver                                                                 | 
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Cloudflare                                                                         | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
+| [DNS4EU](https://www.joindns4.eu/for-public#resolver-options)                      | [unfiltered.joindns4.eu/dns-query](https://unfiltered.joindns4.eu/dns-query) |
+| Google                                                                             | https://dns.google/dns-query                                                 |
+| quad9                                                                              | https://dns.quad9.net/dns-query                                              |
+| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
 
 ---
 
