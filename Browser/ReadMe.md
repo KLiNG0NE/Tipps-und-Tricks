@@ -16,6 +16,7 @@ Hier wird über Tipps, Tricks und wissenswertes zu Browsern berichtet.
   * [Websitefilter](#websitefilter)
   * Twitch
   * [YouTube](#youtube)
+* Links
 
 ---
 
@@ -83,15 +84,15 @@ Diese Browser nutzen die freie Browser-Engine *Gecko*.
 
 #### Firefox
 
+Das Burger-Menü ☰ (Drei-Striche-Menü) befindet sich typischerweise in der rechten oberen Ecke des Browserfensters.
+
 ##### Englisch voreingestellt
 
-☰ - Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
+☰ -  Burger-Menü -> Settings -> General -> Language and Appearance -> Language 
 
 ##### Deutsch voreingestellt
 
-☰ - Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
-
-Das Burger-Menü ☰ befindet sich typischerweise in der rechten oberen Ecke des Browserfensters.
+☰ - Burger-Menü -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
 
 ---
 
@@ -115,10 +116,9 @@ Falls der Browser manuell eingerichtet wird, sind unter *DoH-Resolver* in der fo
 
 Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
 
-
 ### Firefox (u. -Verwandte)
 
-### Firefox (u. -Verwandte)
+### Chrome (u. -Verwandte)
 
 ---
 
@@ -237,11 +237,6 @@ Zeigt einen geschätzten Dislike-Wert bei YouTube an.
 ![Logo: Return YouTube Dislike](img/Return-YouTube-Dislike.png "Logo: Return YouTube Dislike")
 
 Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyoutubedislike.com")
-
----
-
-
----
 
 ---
 
