@@ -168,11 +168,11 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 #### Public Resolvers
 
-| Anbieter                                                                           | Resolver                        | 
-|------------------------------------------------------------------------------------|---------------------------------|
-| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | doh.safedns.com                 |
-| Google                                                                             | https://dns.google/dns-query    |
-| quad9                                                                              | https://dns.quad9.net/dns-query |
+| Anbieter                                                                           | DoH-Resolver                               | 
+|------------------------------------------------------------------------------------|--------------------------------------------|
+| Google                                                                             | https://dns.google/dns-query               |
+| quad9                                                                              | https://dns.quad9.net/dns-query            |
+| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com) |
 
 ---
 
