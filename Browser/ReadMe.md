@@ -180,6 +180,15 @@ Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
 
 ---
 
+### Anzeigesprache einstellen
+
+#### Firefox
+
+Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
+
+Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
+
+---
 
 ## Links
 
