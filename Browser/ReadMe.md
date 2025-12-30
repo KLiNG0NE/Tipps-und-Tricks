@@ -17,6 +17,8 @@ Hier wird über Tipps, Tricks und wissenswertes zu Browsern berichtet.
   * Twitch
   * [YouTube](#youtube)
 
+---
+
 ## Was ist ein Browser?
 
 Ein Browser (to browse ≙ durchsuchen) ist ein Programm, mit dem Webseiten im Internet angesehen und bedient werden können. Ohne Browser kann keine Seite wie Google, YouTube oder Wikipedia genutzt werden.
@@ -33,6 +35,8 @@ Ein Browser (to browse ≙ durchsuchen) ist ein Programm, mit dem Webseiten im I
 - Mozilla Firefox
 - Microsoft Edge
 - Apple Safari
+
+---
 
 ## Browser-Übersicht
 
@@ -72,6 +76,51 @@ Diese Browser nutzen die freie Browser-Engine *Gecko*.
 | --------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- |
 | Ladybird  | [ladybird.org](https://ladybird.org/ "ttps://ladybird.org")              | Befindet sich in Entwicklung, Angestrebtes Release: Mitte 2026 |
 | Pale Moon | [www.palemoon.org](https://www.palemoon.org/ "https://www.palemoon.org") | Abspaltung von Mozilla Firefox, Browser-Engine: Goanna         |
+
+---
+
+### Anzeigesprache einstellen
+
+#### Firefox
+
+##### Englisch voreingestellt
+
+☰ - Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
+
+##### Deutsch voreingestellt
+
+☰ - Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
+
+Das Burger-Menü ☰ befindet sich typischerweise in der rechten oberen Ecke des Browserfensters.
+
+---
+
+## Einstellungen des Browsers für erhöhte Sicherheit und Privatsphäre
+
+### DNS over HTTPS (DoH) manuell einrichten
+
+Bei DNS over HTTPS werden anfragen an den DNS-Server verschlüsselt übertragen. Dies verhindert, dass andere, zum Beispiel der Internetprovider, weiß, welche Websites oder Dienste angefragt werden.
+
+Falls der Browser manuell eingerichtet wird, sind unter *DoH-Resolver* in der folgenden Tabelle korrekte URLs angegeben.
+
+#### Public Resolvers
+
+| Anbieter                                                                           | DoH-Resolver                                                                 | 
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Cloudflare                                                                         | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
+| [DNS4EU](https://www.joindns4.eu/for-public#resolver-options)                      | [unfiltered.joindns4.eu/dns-query](https://unfiltered.joindns4.eu/dns-query) |
+| Google                                                                             | https://dns.google/dns-query                                                 |
+| quad9                                                                              | https://dns.quad9.net/dns-query                                              |
+| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
+
+Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
+
+
+### Firefox (u. -Verwandte)
+
+### Firefox (u. -Verwandte)
+
+---
 
 ## Plug-ins
 
@@ -191,35 +240,8 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ---
 
-### DNS over HTTPS (DoH) einrichten
-
-#### Public Resolvers
-
-| Anbieter                                                                           | DoH-Resolver                                                                 | 
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Cloudflare                                                                         | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
-| [DNS4EU](https://www.joindns4.eu/for-public#resolver-options)                      | [unfiltered.joindns4.eu/dns-query](https://unfiltered.joindns4.eu/dns-query) |
-| Google                                                                             | https://dns.google/dns-query                                                 |
-| quad9                                                                              | https://dns.quad9.net/dns-query                                              |
-| [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
-
-Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
 
 ---
-
-### Anzeigesprache einstellen
-
-#### Firefox
-
-##### Englisch voreingestellt
-
-☰ - Drei-Striche-Menu (Burger-Menü) -> Settings -> General -> Language and Appearance -> Language 
-
-##### Deutsch voreingestellt
-
-☰ - Drei-Striche-Menu (Burger-Menü) -> Einstellungen -> Allgemein -> Sprache und Erscheinungsbild -> Sprache
-
-Das Burger-Menü ☰ befindet sich typischerweise in der rechten oberen Ecke des Browserfensters.
 
 ---
 
