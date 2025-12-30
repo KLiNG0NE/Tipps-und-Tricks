@@ -164,10 +164,15 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ---
 
-#### DNS-over-HTTPS einrichten
+#### DNS over HTTPS (DoH) einrichten
 
-doh.safedns.com
+#### Public Resolvers
 
+| Anbieter | Resolver                        | 
+|----------|---------------------------------|
+| SaveDNS  | doh.safedns.com                 |
+| Google   | https://dns.google/dns-query    |
+| quad9    | https://dns.quad9.net/dns-query |
 ---
 
 
