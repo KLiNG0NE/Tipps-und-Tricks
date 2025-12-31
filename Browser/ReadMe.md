@@ -290,6 +290,7 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 * BrowserAudit https://browseraudit.com/
 * WhatIsMyBrowser.com: [www.whatismybrowser.com](https://www.whatismybrowser.com/) (engl.)
 * What's My Browser: [www.whatsmybrowser.org](https://www.whatsmybrowser.org/)
+* whichbrowser: [whichbrowser.net](https://whichbrowser.net/) (engl.)
 
 ---
 
