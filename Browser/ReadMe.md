@@ -287,8 +287,8 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ## Links
 
-* BrowserAudit https://browseraudit.com/
-* WhatIsMyBrowser.com: [www.whatismybrowser.com](https://www.whatismybrowser.com/) (engl.)
+* BrowserAudit: [browseraudit.com](https://browseraudit.com/)
+* WhatIsMyBrowser.com: [www.whatismybrowser.com](https://www.whatismybrowser.com/de/)
 * What's My Browser: [www.whatsmybrowser.org](https://www.whatsmybrowser.org/)
 * whichbrowser: [whichbrowser.net](https://whichbrowser.net/) (engl.)
 
