@@ -25,6 +25,10 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 
 "Maximaler Schutz" auswählen und einen Anbieter wählen oder manuell konfigurieren.
 
+- Maximaler Schutz – Es werden nur gesicherte DNS-Anfragen zugelassen.
+- Erhöter Schutz – Bei Problemen mit DoH wird der Standard-DNS-Resolver genutzt.
+- Standardschutz – Der Browser entscheidet, wann DoH genutzt wird.
+
 ---
 
 ## Brave
