@@ -41,7 +41,8 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 
 ## DNS over HTTPS (DoH) manuell einrichten
 
-Falls der Browser manuell eingerichtet wird, sind unter *DoH-Resolver* in der folgenden Tabelle korrekte URLs angegeben.
+Falls der Browser manuell eingerichtet wird, sind unter *DoH-Resolver* in der folgenden Tabelle korrekte URLs angegeben.  
+Meiner Erfahrung nach, muss das "https://" nicht mit angegeben werden, schadet aber auch nicht.
 
 #### Public Resolvers
 
