@@ -4,14 +4,14 @@ Bei DNS over HTTPS werden anfragen an den DNS-Server verschlüsselt übertragen.
 
 ## Übersicht
 
-- Chrome
-- Firefox
-- Brave
-- DNS over HTTPS (DoH) manuell einrichten
+- [Chrome](#chrome)
+- [Firefox](#firefox)
+- [Brave](#brave)
+- [DNS over HTTPS (DoH) manuell einrichten](#dns-over-https-doh-manuell-einrichten)
 
 ---
 
-## Crome
+## Chrome
 
 ⁝ -> Einstellungen -> Datenschutz und Sicherheit -> Sicheres DNS verwenden
 
