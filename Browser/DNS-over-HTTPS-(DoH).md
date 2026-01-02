@@ -44,7 +44,7 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 Falls der Browser manuell eingerichtet wird, sind unter *DoH-Resolver* in der folgenden Tabelle korrekte URLs angegeben.  
 Meiner Erfahrung nach, muss das "https://" nicht mit angegeben werden, schadet aber auch nicht.
 
-#### Public Resolvers
+#### Öffentliche DoH-Resolver
 
 | Anbieter                                                                           | DoH-Resolver                                                                 | 
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
