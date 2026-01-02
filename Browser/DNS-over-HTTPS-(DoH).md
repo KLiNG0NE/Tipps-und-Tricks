@@ -50,7 +50,7 @@ Meiner Erfahrung nach, muss das "https://" nicht mit angegeben werden, schadet a
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------| --------
 | [Cloudflare](https://developers.cloudflare.com/1.1.1.1/dns-over-https/)            | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
 | [DNS4EU](https://www.joindns4.eu/for-public#resolver-options)                      | [unfiltered.joindns4.eu/dns-query](https://unfiltered.joindns4.eu/dns-query) |
-| Google                                                                             | https://dns.google/dns-query                                                 |
+| [Google](https://developers.google.com/speed/public-dns/docs/doh/)                 | https://dns.google/dns-query                                                 |
 | [Quad9](https://quad9.net/de/)                                                     | https://dns.quad9.net/dns-query                                              | Schweiz, erhöhter Schutz
 | [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
 
