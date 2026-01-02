@@ -16,9 +16,10 @@
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
 
 * Netzwerk
+  * [Bluetooth-Gerät entfernen](Netzwerk/Bluetooth-Gerät-entfernen.md)
   * [Bluetooth-Version anzeigen](Netzwerk/Bluetooth-Version.md)
   * [Webserver](Netzwerk/Webserver.md)
-
+Bluetooth-Gerät-entfernen.md
 * [Registry-Tweaks](Registry/README.md)
 
 * [System](System/README.md)
@@ -37,6 +38,7 @@
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
+
 
 
 
