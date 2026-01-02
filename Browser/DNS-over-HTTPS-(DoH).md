@@ -46,12 +46,12 @@ Meiner Erfahrung nach, muss das "https://" nicht mit angegeben werden, schadet a
 
 #### Öffentliche DoH-Resolver
 
-| Anbieter                                                                           | DoH-Resolver                                                                 | 
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Cloudflare                                                                         | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
+| Anbieter                                                                           | DoH-Resolver                                                                 | Hinweise
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------| --------
+| [Cloudflare](https://developers.cloudflare.com/1.1.1.1/dns-over-https/)            | [cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query)         |
 | [DNS4EU](https://www.joindns4.eu/for-public#resolver-options)                      | [unfiltered.joindns4.eu/dns-query](https://unfiltered.joindns4.eu/dns-query) |
 | Google                                                                             | https://dns.google/dns-query                                                 |
-| quad9                                                                              | https://dns.quad9.net/dns-query                                              |
+| [Quad9](https://quad9.net/de/)                                                     | https://dns.quad9.net/dns-query                                              | Schweiz, erhöhter Schutz
 | [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
 
 Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
