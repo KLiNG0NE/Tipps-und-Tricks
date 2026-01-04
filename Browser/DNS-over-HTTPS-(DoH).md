@@ -54,4 +54,5 @@ Meiner Erfahrung nach, muss das "https://" nicht mit angegeben werden, schadet a
 | [Quad9](https://quad9.net/de/)                                                     | https://dns.quad9.net/dns-query                                              | Schweiz, erhöhter Schutz
 | [SaveDNS](https://docs.safedns.com/books/hidden/page/dns-over-https-setup-doh-url) | [doh.safedns.com](https://doh.safedns.com)                                   |
 
-Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)
+Quelle: [dnsprivacy.org](https://dnsprivacy.org/public_resolvers/)  
+Weitere DNS-Resolver: [github.com/curl](https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers)
