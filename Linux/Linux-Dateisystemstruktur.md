@@ -4,7 +4,8 @@ Hier wird die Struktur des Linux-Dateisystems erklärt
 
 #### /
 
-Wurzelordner (Root), Startpunkt des Dateisystems
+Wurzelordner (Root), Startpunkt des Dateisystems  
+In Linux erhält nicht, wie in Windows, jedes Laufwerk einen eigenen Startpunkt, sondern alles wird unter / eingeordnet
 
 #### /bin
 
@@ -17,7 +18,7 @@ Benötigt meist Admin-Rechte
 
 #### /lib
 
-Librarys - Bibliotheken, die von anderen Programmen gemeinsam genutzt werden, nachladbare Kernelmodule
+Librarys - Bibliotheken, die von anderen Programmen gemeinsam genutzt werden, nachladbare Kernelmodule  
 Auf einigen Systemen sind die Ordner /lib32 bzw. /lib64 vorhanden
 
 #### /usr
