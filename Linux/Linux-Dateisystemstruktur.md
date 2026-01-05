@@ -23,7 +23,7 @@ Auf einigen Systemen sind die Ordner /lib32 bzw. /lib64 vorhanden
 
 #### /usr
 
-Unix System Resources, installierte Programme
+Unix System Resources, installierte Programme dss Linux-Sytems
 
 #### /boot
 
@@ -43,7 +43,7 @@ Et cetera, Editable Text Configuration – Systemweite Konfigurationsdateien
 Speicherort der persönlichen Benutzerdateien, jeder Nutzer erhält einen eigenen Unterordner, (Dokumente, Bilder, Downloads, …)  
 Standardmäßig können nur die Dateien im eigenen Ordner genutzt werden und die Dateien anderer Nutzer sind geschützt  
 Enthält auch benutzerspezifische Konfigurationsdateien  
-Kann die Unterordner /share bzw. /public enthalten, um Dateien zwischen Nutzern zu teilen
+Kann die Unterordner /home/share bzw. /home/public enthalten, um Dateien zwischen Nutzern zu teilen
 
 #### /root
 
@@ -68,16 +68,17 @@ System – Virtueller Ordner, Dynamisches Interface zwischen Kernal und Hardware
 
 #### /run
 
-Enthält Dateien, die während des Systemstarts genutzt werden, Kann von Prozessen zur Kommunikation untereinander genutzt wrrden
+Enthält Dateien, die während des Systemstarts genutzt werden, Kann von Prozessen zur Kommunikation untereinander genutzt werden
 
 #### /srv
 
-Service – Dienste wie Webserver, FTP-Server – Enthält Dateien für Nutzer, die sich mit dem System verbinden  
+Service – Dienste wie Webserver, FTP-Server – Enthält Dateien für Nutzer, die sich extern mit dem System verbinden  
 Kann bei einigen Systemen auch unter /var/srv vorhanden sein
 
 #### /var
 
-Variables – Enthält Dateien, die sich währen der Laufzeit häufig ändern (Log-Dateien), wird auch von einigen Paketmanagern genutzt
+Variables – Enthält Dateien, die sich währen der Laufzeit häufig ändern (Log-Dateien), wird auch von einigen Paketmanagern genutzt  
+Häufig ist z. B. /var/www vorhanden, welches die Ressourcen eines Webservers enthält
 
 #### /tmp
 
