@@ -90,7 +90,7 @@ Temporary – Enthält Dateien, die nur kurzzeitig genutzt werden.
 
 #### /opt
 
-Optional – Enthält Programme und Dateien die nicht zum eigentlichen System gehören („Dritt-Hersteller-Software“).
+Optional – Enthält Programme und Dateien die nicht aus zur Distribution gehörenden Paketquellen stammen. („Dritt-Anbieter-Software“).
 
 ---
 
