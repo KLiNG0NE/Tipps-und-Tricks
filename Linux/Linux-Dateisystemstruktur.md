@@ -94,6 +94,6 @@ Häufig ist z. B. /var/www vorhanden, welches die Ressourcen eines Webservers e
 
 ---
 
-Quelle:  
+QuelleN:  
 WhiteboardDoodles @ [YouTube](https://www.youtube.com/watch?v=ISJ44S5sZu8)  
 Filesystem Hierarchy Standard @ [de.wikipedia.org](https://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
