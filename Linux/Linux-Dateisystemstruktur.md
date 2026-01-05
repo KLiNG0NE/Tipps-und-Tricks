@@ -9,13 +9,14 @@ In Linux erhält nicht, wie z. B. in Windows, jedes Laufwerk einen eigenen Star
 
 #### /bin
 
-Binary – Ausführbare Programme (ls, cp, mv, …), die für Anwender immer zur Verfügung stehen müssen.  
+Binary – Ausführbare Programme (ls, cp, mv, fdisk, ifconfig, ip, reboot, shutdown, …), die für Anwender immer zur Verfügung stehen müssen.  
 Beispielsweise die Shell *bash* befindet sich hier.
 
 #### /sbin
 
-Systembinarys – Ausführbare Programme des Systems (mount, fsck, shutdown, …)
-Benötigt meist Admin-Rechte
+Systembinarys – Ausführbare Programme des Systems (mount, fsck, shutdown, …)  
+Benötigt meist Admin-Rechte  
+Systemadministration, Systemwartung, Booten und Konfiguration des Systems
 
 #### /lib
 
