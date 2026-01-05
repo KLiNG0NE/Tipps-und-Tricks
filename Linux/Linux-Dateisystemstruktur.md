@@ -14,7 +14,7 @@ Beispielsweise die Shell *bash* befindet sich hier.
 
 #### /sbin
 
-Systembinarys – Ausführbare Programme des Systems und für Systemadministratoren (mount, fsck, shutdown, …)  
+System-Binarys – Ausführbare Programme des Systems und für Systemadministratoren (mount, fsck, shutdown, …)  
 Benötigt im Allgemeinen Admin-Rechte  
 Systemadministration, Systemwartung, Booten und Konfiguration des Systems
 
@@ -25,7 +25,9 @@ Auf einigen Systemen sind die Ordner /lib32 bzw. /lib64 vorhanden
 
 #### /usr
 
-Unix System Resources, installierte Programme dss Linux-Sytems
+Unix System Resources, installierte Programme des Linux-Sytems
+Dies ist meist der größte Ordner des Systems.  
+Ausführbaren Programmdateien befinden sich oft in /usr/bin, die Programmbi-Bliotheken in /usr/lib.
 
 #### /boot
 
@@ -53,7 +55,7 @@ Persönlicher Ordner des Administrators
 
 ####  /media
 
-Moderne Systeme legen hier den Inhalt von entfernbaren Speichermedien wie USB-Sticks, CD oder DVD ab.
+Moderne Systeme legen hier den Inhalt von Wechseldatenträgern wie USB-Sticks, CD oder DVD ab.
 
 ####  /mnt
 
