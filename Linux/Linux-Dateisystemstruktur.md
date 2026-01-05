@@ -14,8 +14,8 @@ Beispielsweise die Shell *bash* befindet sich hier.
 
 #### /sbin
 
-Systembinarys – Ausführbare Programme des Systems (mount, fsck, shutdown, …)  
-Benötigt meist Admin-Rechte  
+Systembinarys – Ausführbare Programme des Systems und für Systemadministratoren (mount, fsck, shutdown, …)  
+Benötigt im Allgemeinen Admin-Rechte  
 Systemadministration, Systemwartung, Booten und Konfiguration des Systems
 
 #### /lib
