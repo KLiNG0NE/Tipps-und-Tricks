@@ -6,20 +6,24 @@ Tipps und Tricks für Computer und Internet
 
 Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. – Eigentlich dient mir dieser Bereich als eine Art „Spickzettel“. Kniffe und Infos, die ich immer wieder benötige, schreibe ich hier einfach auf, und kann sie so schnell wiederfinden.
 
-## Inhalt
+## übersicht
 
-* 🤖 [AI](AI)
-* 🎥 [Audio/Video-Creation](Audio-Video-Creation)
-* 🌐 [Browser](Browser)
-* 📦 [Docker-Compose](Docker-Compose)
-* ▶️ [Fire TV](Fire-TV)
-* 🖁 [Funktechnik](Funktechnik)
-* 🎞️ [KODI](KODI)
-* 🐧 [Linux](Linux)
-* 📺 [Live-TV am PC](Live-TV-am-PC)
-* 🖥️ [Proxmox](Proxmox)
-* 🛡️ [VPN](VPN)
-* 🪟 [Windows](Windows)
+|     | Thema    |
+| :---: | --- |
+| 🤖  | [AI](AI) |
+| 🎥  | [Audio/Video-Creation](Audio-Video-Creation) |
+| 🎥  | [Audio/Video-Creation](Audio-Video-Creation) |
+| 🌐  | [Browser](Browser) |
+| 📦  | [Docker-Compose](Docker-Compose) |
+| ▶️  | [Fire TV](Fire-TV) |
+| 🖁   | [Funktechnik](Funktechnik) |
+| 🎞️  | [KODI](KODI) |
+|  🐧 | [Linux](Linux) |
+| 📺  | [Live-TV am PC](Live-TV-am-PC) |
+| 🖥️  | [Proxmox](Proxmox) |
+| 🛡️  | [VPN](VPN) |
+|  🪟 | [Windows](Windows) |
+|  |  |
 
 Vielleicht ist ja auch etwas Interessantes für Dich dabei.
 
