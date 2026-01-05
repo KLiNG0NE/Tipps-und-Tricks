@@ -12,7 +12,6 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 | :---: | --- |
 | 🤖  | [AI](AI) |
 | 🎥  | [Audio/Video-Creation](Audio-Video-Creation) |
-| 🎥  | [Audio/Video-Creation](Audio-Video-Creation) |
 | 🌐  | [Browser](Browser) |
 | 📦  | [Docker-Compose](Docker-Compose) |
 | ▶️  | [Fire TV](Fire-TV) |
