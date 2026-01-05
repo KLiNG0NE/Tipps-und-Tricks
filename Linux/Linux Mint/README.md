@@ -9,6 +9,14 @@ Linux Mint ist ein kostenloses Betriebssystem, dass auf Ubuntu aufbaut. Es ist d
 - Deutsche Usergroup: [www.linuxmintusers.de](https://www.linuxmintusers.de/)
 - Deutsches Ubuntu-Wiki: [wiki.ubuntuusers.de](https://wiki.ubuntuusers.de/Startseite/)
 
+### Mindestanforderungen
+
+- 2GB RAM (4GB empfohlen zur komfortablen Benutzung).
+- 20GB Speicherplatz (100GB empfohlen).
+- 1024×768 Bildschirm-Auflösung, (bei geringerer Auflösung ALT zum bewegen von Fenstern nutzen, die nicht auf den Bildschirm passen).
+
+Quelle:  
+FAQ @ [linuxmint.com](https://linuxmint.com/faq.php)
 
 ---
 
