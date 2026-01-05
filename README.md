@@ -8,18 +8,18 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 
 ## Inhalt
 
-* [AI](AI)
-* [Audio/Video-Creation](Audio-Video-Creation)
-* [Browser](Browser)
-* [Docker-Compose](Docker-Compose)
-* [Fire TV](Fire-TV)
-* [Funktechnik](Funktechnik)
-* [KODI](KODI)
-* [Linux](Linux)
-* [Live-TV am PC](Live-TV-am-PC)
-* [Proxmox](Proxmox)
-* [VPN](VPN)
-* [Windows](Windows)
+* 🤖 [AI](AI)
+* 🎥 [Audio/Video-Creation](Audio-Video-Creation)
+* 🌐 [Browser](Browser)
+* 📦 [Docker-Compose](Docker-Compose)
+* ▶️ [Fire TV](Fire-TV)
+* 🖁 [Funktechnik](Funktechnik)
+* 🎞️ [KODI](KODI)
+* 🐧 [Linux](Linux)
+* 📺 [Live-TV am PC](Live-TV-am-PC)
+* 🖥️ [Proxmox](Proxmox)
+* 🛡️ [VPN](VPN)
+* 🪟 [Windows](Windows)
 
 Vielleicht ist ja auch etwas Interessantes für Dich dabei.
 
