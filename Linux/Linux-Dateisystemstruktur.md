@@ -27,15 +27,15 @@ Et cetera, Editable Text Configuration – Systemweite Konfigurationsdateien
 
 #### /home
 
-Speicherort der persönlichen Benutzerdateien, jeder Nutzer erhält einen eigenen Unterordner, (Dokumente, Bilder, Downloads, …)  
-Standardmäßig können nur die Dateien im eigenen Ordner genutzt werden und die Dateien anderer Nutzer sind geschützt  
+Der Speicherort der persönlichen Benutzerdateien. Jeder Nutzer erhält einen eigenen Unterordner mit seinem Nutzernamen. Häufig sind Unterordner (Dokumente, Bilder, Downloads, …) bereits vorhanden.  
+Standardmäßig können nur die Dateien im eigenen Ordner genutzt werden und die Dateien anderer Nutzer sind geschützt.  
 Enthält auch benutzerspezifische Konfigurationsdateien  
 Kann die Unterordner /home/share bzw. /home/public enthalten, um Dateien zwischen Nutzern zu teilen
 
 #### /lib
 
 Librarys - Bibliotheken, die von anderen Programmen gemeinsam genutzt werden, nachladbare Kernelmodule  
-Auf einigen Systemen sind die Ordner /lib32 bzw. /lib64 vorhanden
+Auf einigen Systemen sind die Ordner /lib32 bzw. /lib64 vorhanden.
 
 ####  /media
 
@@ -43,7 +43,7 @@ Moderne Systeme legen hier den Inhalt von Wechseldatenträgern wie USB-Sticks, e
 
 ####  /mnt
 
-Mount – enthält die Dateisysteme von manuell gemounteten Verzeichnissen wie externe Festplatten oder Netzwerk-Ressourcen.
+Mount – Enthält die Dateisysteme von manuell gemounteten Verzeichnissen wie externe Festplatten oder Netzwerk-Ressourcen.
 
 #### /opt
 
@@ -52,7 +52,7 @@ Optional – Enthält Programme und Dateien die nicht aus zur Distribution gehö
 #### /proc
 
 Processes – Virtueller Ordner, Live-Schnittstelle zu Kernal und Prozessen  
-Enthält z. B. Unterordner nach Prozess-ID wie /proc/1234 und Infos zum laufenden System wie /proc/cpuinfo und /proc/meminfo
+Enthält z. B. Unterordner nach Prozess-ID wie /proc/1234 und Infos zum laufenden System wie /proc/cpuinfo und /proc/meminfo.
 
 #### /root
 
