@@ -3,9 +3,9 @@
 Hier wird die Struktur des Linux-Dateisystems erklärt
 
 /  
-Wurzelordner (Root)
+Wurzelordner (Root), Startpunkt des Dateisystems
 
-/bin
+/bin  
 Binary – Ausführbare Programme (ls, cp, mv, …)
 
 /sbin  
@@ -22,6 +22,19 @@ Unix System Resources, installierte Programme
 
 /boot  
 Dateien, die zum Systemstart benötigt werden. (initrd, initfs, GRUB, grub.cfg)
+
+/dev  
+Devices – Enthält keine tatsächlichen Dateien, Geräte werden hier eingehängt
+
+/etc  
+Et cetera, Editable Text Configuration
+Systemweite Konfigurationsdateien
+
+/home  
+Speicherort der persönlichen Benutzerdateien, jeder Nutzer erhält einen eigenen Unterordner, (Dokumente, Downloads)  
+Standardmäßig können nur die Dateien im eigenen Ordner genutzt werden und die Dateien anderer Nutzer sind geschützt
+Enthält auch benutzerspezifische Konfigurationsdateien
+Kann die Unterordner /share bzw. /public enthalten, um Dateien zwischen Nutzern zu teilen
 
 /root  
 Persönlicher Ordner des Administrators
