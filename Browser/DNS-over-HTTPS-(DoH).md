@@ -35,6 +35,9 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 
 ☰ (Burger-Menü) -> Einstellungen -> Datenschutz und Sicherheit -> Sicherheit -> Erweitert -> Sicheres DNS verwenden
 
+![Brave – Sicheres DNS verwenden](../img/Brave-Sicheres-DNS-verwenden.png)
+
+
 Hier einen Anbieter wählen oder manuell konfigurieren.
 
 ---
