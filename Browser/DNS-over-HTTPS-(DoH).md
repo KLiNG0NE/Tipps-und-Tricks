@@ -13,7 +13,7 @@ Bei DNS over HTTPS werden anfragen an den DNS-Server verschlüsselt übertragen.
 
 ## Chrome
 
-⁝ -> Einstellungen -> Datenschutz und Sicherheit -> Sicheres DNS verwenden
+⁝ (Drei-Punkte-Menü) -> Einstellungen -> Datenschutz und Sicherheit -> Sicheres DNS verwenden
 
 ![Google Chrome – Sicheres DNS verwenden](img/Google-Chrome-Sicheres-DNS-verwenden.png)
 
