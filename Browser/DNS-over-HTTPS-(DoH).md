@@ -15,6 +15,8 @@ Bei DNS over HTTPS werden anfragen an den DNS-Server verschlüsselt übertragen.
 
 ⁝ -> Einstellungen -> Datenschutz und Sicherheit -> Sicheres DNS verwenden
 
+![Google Chrome – Sicheres DNS verwenden](img/Google-Chrome-Sicheres-DNS-verwenden.png)
+
 Hier einen Anbieter wählen oder manuell konfigurieren.
 
 ---
@@ -22,6 +24,8 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 ## Firefox
 
 ☰ (Burger-Menü) -> Einstellungen -> Datenschutz & Sicherheit -> DNS über HTTPS
+
+![Firefox – Maximaler Schutz](img/Firefox-Maximaler-Schutz.png)
 
 "Maximaler Schutz" auswählen und einen Anbieter wählen oder manuell konfigurieren.
 
@@ -35,7 +39,7 @@ Hier einen Anbieter wählen oder manuell konfigurieren.
 
 ☰ (Burger-Menü) -> Einstellungen -> Datenschutz und Sicherheit -> Sicherheit -> Erweitert -> Sicheres DNS verwenden
 
-![Brave – Sicheres DNS verwenden](../img/Brave-Sicheres-DNS-verwenden.png)
+![Brave – Sicheres DNS verwenden](img/Brave-Sicheres-DNS-verwenden.png)
 
 
 Hier einen Anbieter wählen oder manuell konfigurieren.
