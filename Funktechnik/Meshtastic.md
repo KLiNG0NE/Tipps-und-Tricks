@@ -17,7 +17,7 @@ Der Name **Meshtastic** setzt sich aus den Wörtern **Mesh** und **Phantastic** 
 
 ## Vorraussetzungen für den Betrieb von Meshtastic
 
-Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendigere Geräte besitzen eine Tastatur sowie Bildschirm und können direkt zum Senden und Empfang von Nachrichten genutzt werden. Günstigere Varianten werden z.B. per Bluetooth mit dem Smartphone verbunden, und nutzen dieses dann um Texte zu verfassen. Meist wird in Deutschland die Frequenz 868 MHz (SRD-Band Europa) genutzt, es könnenn jedoch auch Geräte die Frequenz 433 MHz nutzen.
+Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendigere Geräte besitzen eine Tastatur sowie Bildschirm und können direkt zum Senden und Empfang von Nachrichten genutzt werden. Günstigere Varianten werden z.B. per Bluetooth mit dem Smartphone verbunden, und nutzen dieses dann um Texte zu verfassen. Meist wird in Deutschland die Frequenz 868 MHz (SRD-Band Europa) genutzt, es exitieren jedoch auch Geräte für die Frequenz 433 MHz. Da für die Frequenzen unterschiedliche Antennen genutzt werden, sollte dies bereits bei Anschaffung der Hardware berücksichtigt werden.
 
 ## Hardware
 
@@ -26,11 +26,17 @@ Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendiger
 
 ## Software - PC
 
-- MeshSense
-- Visual Sylog Server
-- Meshtastic Network Management Client
+- [MeshSense](https://affirmatech.com/meshsense) – Zeigt das Mesh-Netzwerk an.
+- [Meshtastic Network Management Client](https://github.com/meshtastic/network-management-client) – Netzwerk-Management
+- [Visual Syslog Server](https://maxbelkov.github.io/visualsyslog/) – Log-Server (Alternative zu ?)
 
 ## Links
+
+#### Projekt
+
+- [Meshtastic Project](https://meshtastic.org/) – Offizielle Website (engl.)
+
+### Maps
 
 - https://meshmap.net/
 - https://meshtastic.liamcottle.net/
