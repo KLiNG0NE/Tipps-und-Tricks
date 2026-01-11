@@ -38,8 +38,8 @@ Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendiger
 
 ### Maps
 
-- https://meshmap.net/
-- https://meshtastic.liamcottle.net/
+- [meshmap.net](https://meshmap.net/) – 
+- [meshtastic.liamcottle.net](https://meshtastic.liamcottle.net/) – 
 
 ---
 
