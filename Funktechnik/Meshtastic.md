@@ -33,7 +33,7 @@ In Deutschland wird meist die Frequenz von 868 MHz (SRD-Band Europa) verwendet, 
 ### Webclients
 
 - Meshtastic Web – [client.meshtastic.org](https://client.meshtastic.org/)
-- MeshTXT – [meshtxt.liamcottle.net](https://meshtxt.liamcottle.net/)
+- MeshTXT – [meshtxt.liamcottle.net](https://meshtxt.liamcottle.net/) | [GitHub](https://github.com/liamcottle/meshtxt)
 
 ### Desktop
 
