@@ -15,18 +15,18 @@ Als Geräte dienen spezielle Sende‑Empfangs‑Module oder Smartphones, die ein
 Über diese Verbindung können **Textnachrichten**, **Positionen** und **Telemetriedaten** in beide Richtungen gesendet werden.  
 Der Name **Meshtastic** setzt sich aus den Wörtern **Mesh** und **Phantastic** zusammen.
 
-## Vorraussetzungen für den Betrieb von Meshtastic
+## Betriebsbedingungen für Meshtastic
 
-Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt.  
-Aufwendigere Geräte besitzen eine Tastatur sowie Bildschirm und können direkt zum Senden und Empfang von Nachrichten genutzt werden.  
-Günstigere Varianten werden z.B. per Bluetooth mit dem Smartphone verbunden, und nutzen dieses dann um Texte zu verfassen.
+Zuallererst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt.  
+Geräte, die komplexer sind, haben einen Bildschirm und eine Tastatur. Sie dienen direkt dem Senden und Empfangen von Nachrichten.  
+Weniger kostspielige Modelle verbinden sich beispielsweise über Bluetooth mit dem Handy und verwenden dieses, um Texte zu erstellen.
 
-Meist wird in Deutschland die Frequenz **868 MHz** (SRD-Band Europa) genutzt, es exitieren jedoch auch Geräte für die Frequenz 433 MHz. Da für die Frequenzen unterschiedliche Antennen genutzt werden, sollte dies bereits bei Anschaffung der Hardware berücksichtigt werden.
+In Deutschland wird meist die Frequenz von 868 MHz (SRD-Band Europa) verwendet, es gibt jedoch auch Geräte für die Frequenz von 433 MHz. Es sollte bei der Beschaffung der Hardware bedacht werden, dass für die Frequenzen verschiedene Antennen verwendet werden.
 
 ## Hardware
 
-- [Heltec WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/) – Moderner SX126x; OLED; gute Verfügbarkeit
-- [XIAO ESP32S3 & Wio-SX1262 Kit](https://www.seeedstudio.com/XIAO-ESP32S3-for-Meshtastic-LoRa-with-3D-Printed-Enclosure-p-6314.html) – 
+- [Heltec - WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/) – Moderner SX126x; OLED; gute Verfügbarkeit
+- [Seeed Studio - XIAO ESP32S3 & Wio-SX1262 Kit](https://www.seeedstudio.com/XIAO-ESP32S3-for-Meshtastic-LoRa-with-3D-Printed-Enclosure-p-6314.html) – 
 
 ## Software
 
