@@ -28,6 +28,7 @@ Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendiger
 
 - MeshSense
 - Visual Sylog Server
+- Meshtastic Network Management Client
 
 ## Links
 
