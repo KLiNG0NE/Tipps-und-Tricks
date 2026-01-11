@@ -17,7 +17,11 @@ Der Name **Meshtastic** setzt sich aus den Wörtern **Mesh** und **Phantastic** 
 
 ## Vorraussetzungen für den Betrieb von Meshtastic
 
-Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendigere Geräte besitzen eine Tastatur sowie Bildschirm und können direkt zum Senden und Empfang von Nachrichten genutzt werden. Günstigere Varianten werden z.B. per Bluetooth mit dem Smartphone verbunden, und nutzen dieses dann um Texte zu verfassen. Meist wird in Deutschland die Frequenz 868 MHz (SRD-Band Europa) genutzt, es exitieren jedoch auch Geräte für die Frequenz 433 MHz. Da für die Frequenzen unterschiedliche Antennen genutzt werden, sollte dies bereits bei Anschaffung der Hardware berücksichtigt werden.
+Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt.  
+Aufwendigere Geräte besitzen eine Tastatur sowie Bildschirm und können direkt zum Senden und Empfang von Nachrichten genutzt werden.  
+Günstigere Varianten werden z.B. per Bluetooth mit dem Smartphone verbunden, und nutzen dieses dann um Texte zu verfassen.
+
+Meist wird in Deutschland die Frequenz **868 MHz** (SRD-Band Europa) genutzt, es exitieren jedoch auch Geräte für die Frequenz 433 MHz. Da für die Frequenzen unterschiedliche Antennen genutzt werden, sollte dies bereits bei Anschaffung der Hardware berücksichtigt werden.
 
 ## Hardware
 
