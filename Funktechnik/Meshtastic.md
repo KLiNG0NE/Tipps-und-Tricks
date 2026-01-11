@@ -44,7 +44,7 @@ Meist wird in Deutschland die Frequenz **868 MHz** (SRD-Band Europa) genutzt, es
 
 #### iOS
 
-- Meshtastic - [Apple Store](https://apps.apple.com/us/app/meshtastic/id1586432531)
+- Meshtastic - [Apple Store](https://apps.apple.com/de/app/meshtastic/id1586432531)
 
 ## Links
 
