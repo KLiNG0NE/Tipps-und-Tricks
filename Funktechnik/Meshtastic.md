@@ -30,25 +30,27 @@ Meist wird in Deutschland die Frequenz **868 MHz** (SRD-Band Europa) genutzt, es
 
 ## Software
 
-#### Desktop
+### Desktop
 
 - [MeshSense](https://affirmatech.com/meshsense) – Zeigt das Mesh-Netzwerk an.
 - [Meshtastic Network Management Client](https://github.com/meshtastic/network-management-client) – Netzwerk-Management
 - [Visual Syslog Server](https://maxbelkov.github.io/visualsyslog/) – Log-Server (Windows-Alternative zu rsyslog)
 
-#### Apps
+### Apps
 
 #### Android
 
 - Meshtastic-Android – [Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh) | [F-Droid](https://f-droid.org/de/packages/com.geeksville.mesh/) | [GitHub](https://github.com/meshtastic/Meshtastic-Android)
 
-#### Iphone
+#### iOS
+
+- Meshtastic - [Apple Store](https://apps.apple.com/us/app/meshtastic/id1586432531)
 
 ## Links
 
 #### Projekt
 
-- [Meshtastic Project](https://meshtastic.org/) – Offizielle Website (engl.)
+- [Meshtastic Project](https://meshtastic.org/de/) – Offizielle Website (engl.)
 
 #### Maps
 
