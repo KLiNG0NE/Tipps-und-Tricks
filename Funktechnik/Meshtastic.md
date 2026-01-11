@@ -30,6 +30,11 @@ In Deutschland wird meist die Frequenz von 868 MHz (SRD-Band Europa) verwendet, 
 
 ## Software
 
+### Webclients
+
+- Meshtastic Web – [client.meshtastic.org](https://client.meshtastic.org/)
+- MeshTXT – [meshtxt.liamcottle.net](https://meshtxt.liamcottle.net/)
+
 ### Desktop
 
 - [MeshSense](https://affirmatech.com/meshsense) – Zeigt das Mesh-Netzwerk an.
