@@ -24,11 +24,17 @@ Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendiger
 - [Heltec WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/) – Moderner SX126x; OLED; gute Verfügbarkeit
 - [XIAO ESP32S3 & Wio-SX1262 Kit](https://www.seeedstudio.com/XIAO-ESP32S3-for-Meshtastic-LoRa-with-3D-Printed-Enclosure-p-6314.html) – 
 
-## Software - PC
+## Software
+
+#### Desktop
 
 - [MeshSense](https://affirmatech.com/meshsense) – Zeigt das Mesh-Netzwerk an.
 - [Meshtastic Network Management Client](https://github.com/meshtastic/network-management-client) – Netzwerk-Management
-- [Visual Syslog Server](https://maxbelkov.github.io/visualsyslog/) – Log-Server (Alternative zu ?)
+- [Visual Syslog Server](https://maxbelkov.github.io/visualsyslog/) – Log-Server (Windows-Alternative zu rsyslog)
+
+#### Apps
+
+- Meshtastic – [Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh) | [F-Droid](https://f-droid.org/de/packages/com.geeksville.mesh/)
 
 ## Links
 
@@ -36,7 +42,7 @@ Zunächst wird ein LoRa-fähiges Sende- und Empfangsmodul benötigt. Aufwendiger
 
 - [Meshtastic Project](https://meshtastic.org/) – Offizielle Website (engl.)
 
-### Maps
+#### Maps
 
 - [meshmap.net](https://meshmap.net/) – 
 - [meshtastic.liamcottle.net](https://meshtastic.liamcottle.net/) – 
