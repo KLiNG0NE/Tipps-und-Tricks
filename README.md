@@ -16,6 +16,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 | 📦  | [Docker-Compose](Docker-Compose) |
 | ▶️  | [Fire TV](Fire-TV) |
 | 🖁   | [Funktechnik](Funktechnik) |
+| 🏡  | [Home Assistant](Home-Assistant) |
 | 🎞️  | [KODI](KODI) |
 |  🐧 | [Linux](Linux) |
 | 📺  | [Live-TV am PC](Live-TV-am-PC) |
