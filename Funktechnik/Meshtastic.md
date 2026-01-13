@@ -37,9 +37,12 @@ In Deutschland wird meist die Frequenz von 868 MHz (SRD-Band Europa) verwendet, 
 
 ### Desktop
 
-- [MeshSense](https://affirmatech.com/meshsense) – Zeigt das Mesh-Netzwerk an.
-- [Meshtastic Network Management Client](https://github.com/meshtastic/network-management-client) – Netzwerk-Management
+- [MeshSense][msen] – Zeigt das Mesh-Netzwerk an.
+- [Meshtastic Network Management Client][mnmc] – Netzwerk-Management
 - [Visual Syslog Server](https://maxbelkov.github.io/visualsyslog/) – Log-Server (Windows-Alternative zu rsyslog)
+
+[msen]: <https://affirmatech.com/meshsense> "https://affirmatech.com"
+[mnmc]: <https://github.com/meshtastic/network-management-client> "https://github.com"
 
 ### Apps
 
