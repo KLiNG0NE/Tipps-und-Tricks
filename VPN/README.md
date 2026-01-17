@@ -4,6 +4,8 @@ VPN – Virtual Private Network (deutsch „virtuelles privates Netzwerk“) be
 
 ## Kostenlose VPN-Anbieter
 
+Folgende Anbieter stellen kostenloses VPN ohne Daten-Volumenbeschränkung zur Verfügung:
+
 | Name      | Website                                                                        | Hinweise                          |
 | --------- | ------------------------------------------------------------------------------ | --------------------------------- |
 | ProtonVPN | [protonvpn.com](https://protonvpn.com/) (engl.)                                | zufällig 10 Länder, 1 Verbindung  |
