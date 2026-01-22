@@ -1,6 +1,8 @@
 # Tipps und Tricks / Windows / Installation / Lokales Konto
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
+Hier erfährst du wie Windows mit einem lokalen Konto ohne Online-Registrierung installiert werden kann.
+
 * Installation
   * Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
   * Methode 2: Eingabeaufforderung und ms-cxh
