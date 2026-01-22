@@ -4,11 +4,11 @@
 Hier erfährst du wie Windows mit einem lokalen Konto ohne Online-Registrierung installiert werden kann.
 
 ## Übersicht
-* Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
-* Methode 2: Eingabeaufforderung und ms-cxh
-* Methode 3: Windows Pro mit Domäne installieren
+* Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO) [<25H2]
+* Methode 2: Eingabeaufforderung und ms-cxh […25H2]
+* Methode 3: Windows Pro mit Domäne installieren [<25H2]
 * Methode 4: Registryeintrag hinzufügen (BypassNRO)
-* Methode 5: Developer-Eingabeaufforderung
+* Methode 5: Developer-Eingabeaufforderung [25H2+]
 
 ---
 
