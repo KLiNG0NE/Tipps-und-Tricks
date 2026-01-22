@@ -31,7 +31,8 @@ Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ei
 ```
 OOBE\BypassNRO
 ```
-(Groß- und Kleinschreibung ist unerheblich)
+
+🍪 (Groß- und Kleinschreibung ist unerheblich)
 
 > *OOBE* steht für "Out of the Box Experience"\
 > *Bypass* heisst auf deutsch etwa „umgehen“\
@@ -73,7 +74,8 @@ ipconfig /renew
 ```
 start ms-cxh:localonly
 ```
-(Groß- und Kleinschreibung ist unerheblich)
+
+🍪 (Groß- und Kleinschreibung ist unerheblich)
 
 * In dem nun erscheinenden Fenster kann ein *lokales Konto* und ggf. ein *Passwort* angelegt werden.
 
@@ -100,7 +102,7 @@ start ms-cxh:localonly
 REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
 ```
 
-(Groß- und Kleinschreibung muss, besonders bei Eingabe des Schlüssels, beachtet werden.)
+⚠️ (Groß- und Kleinschreibung muss, besonders bei Eingabe des Schlüssels, beachtet werden.)
 
 Anschließend den Rechner durch Eingabe des folgenden Befehls neu starten:
 
