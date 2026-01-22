@@ -34,7 +34,7 @@ OOBE\BypassNRO
 
 🍪 (Groß- und Kleinschreibung ist unerheblich)
 
-> *OOBE* steht für "Out of the Box Experience"\
+> *OOBE* steht für "Out‑Of‑Box Experience"\. 
 > *Bypass* heisst auf deutsch etwa „umgehen“\
 > *NRO* steht für "eNROlment"[^1] zu deutsch „Anmeldung“.
 
