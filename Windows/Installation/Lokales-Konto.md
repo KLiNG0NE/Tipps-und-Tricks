@@ -112,7 +112,7 @@ shutdown /r /t 0
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch drücken der Tasten-Kombination ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
   (Manchmal muss die Tasten-Kombination häufiger gedrückt werden.)
-* In die Konsole folgendes eintippen und mit ``Enter`` bestätigen.
+* In die Konsole folgendes eintippen und mit ``Enter`` bestätigen:
 
 ```
 WinJS.Application.restart("ms-cxh:localonly")
