@@ -52,7 +52,7 @@ ipconfig /renew
 
 ## Methode 2: Eingabeaufforderung und ms-cxh
 
-> Diese Methode funktioniert ab Version 25H2
+> Diese Methode funktioniert bei Version 25H2
 
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch druck auf die Taste ``Shift``+``F10`` kann eine *Eingabeaufforderung* geöffnet werden.
@@ -94,6 +94,22 @@ shutdown /r /t 0
 
 > /r = Fährt den Computer vollständig herunter und startet ihn neu. (restart)  
 > /t = Setzt das Zeitlimit vor dem Herunterfahren auf xxx Sekunden. (time)
+
+---
+
+## Methode 5: Developer-Eingabeaufforderung
+
+> Diese Methode soll bei Versionen nach 25H2 funktionieren.
+
+* Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
+* Durch druck auf die Taste ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
+  (Manchmal muss die Tasten-Kombination häufiger gedrückt werden.)
+
+```
+WinJS.Application.restart("ms-cxh:localonly")
+```
+
+* Mit ``ESC`` kann die Konsole wieder verlassen werden.
 
 ---
 
