@@ -3,20 +3,22 @@
 
 Hier erfährst du wie Windows mit einem lokalen Konto ohne Online-Registrierung installiert werden kann.
 
-* Installation
-  * Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
-  * Methode 2: Eingabeaufforderung und ms-cxh
-  * Methode 3: Windows Pro mit Domäne installieren
+## Übersicht
+* Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
+* Methode 2: Eingabeaufforderung und ms-cxh
+* Methode 3: Windows Pro mit Domäne installieren
+* Methode 4: Registryeintrag hinzufügen (BypassNRO)
+* Methode 5: Developer-Eingabeaufforderung
 
 ---
 
-# Windows mit lokalem Benutzerkonto installieren
+## Windows mit lokalem Benutzerkonto installieren
 
 ![Lokales Konto](local-user.png "Lokales Konto")
 
-Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Windows installiert werden kann, ohne ein Onine-Konto anzulegen.
+Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Windows installiert werden kann, ohne ein Online-Konto anzulegen.
 
-## Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
+### Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
 > Diese Methode soll ab Version 25H2 entfernt werden.
 
@@ -38,7 +40,7 @@ OOBE\BypassNRO
 * Der Rechner startet neu, und der Installationsprozess wird wieder durchlaufen.
 * An dem Punkt, an dem vorher das MS-Konto angegeben werden sollte, kann jetzt mit „eingeschränktem Konto“ fortgefahren werden.
 
-### Internetverbindung trennen
+#### Internetverbindung trennen
 
 Falls die oben genannte Methode nicht funktioniert, kann versucht werden eine Offline-Installation auszuführen:
 
@@ -58,7 +60,7 @@ ipconfig /renew
 
 ---
 
-## Methode 2: Eingabeaufforderung und ms-cxh
+### Methode 2: Eingabeaufforderung und ms-cxh
 
 > Diese Methode funktioniert bei Version 25H2
 
@@ -75,7 +77,7 @@ start ms-cxh:localonly
 
 ---
 
-## Methode 3: Windows Pro mit Domäne installieren
+### Methode 3: Windows Pro mit Domäne installieren
 
 > Diese Methode funktioniert nur bei den Pro-Versionen von Windows.
 
@@ -84,7 +86,7 @@ start ms-cxh:localonly
 
 ---
 
-## Methode 4: Registryeintrag hinzufügen (BypassNRO)
+### Methode 4: Registryeintrag hinzufügen (BypassNRO)
 
 > Diese Methode sollte auch bei Version 25H2 funktionieren.
 
@@ -109,7 +111,7 @@ shutdown /r /t 0
 
 ---
 
-## Methode 5: Developer-Eingabeaufforderung
+### Methode 5: Developer-Eingabeaufforderung
 
 > Diese Methode soll bei Versionen nach 25H2 funktionieren.  
   Getestet mit Version 25H2 (Build 26220.7523)
