@@ -119,6 +119,8 @@ WinJS.Application.restart("ms-cxh:localonly")
 
 * Mit ``ESC`` kann die Konsole wieder verlassen werden.
 
+Quelle: David Bombal @ [YouTube](https://www.youtube.com/watch?v=uElWqzjC1eI "https://www.youtube.com")
+
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
