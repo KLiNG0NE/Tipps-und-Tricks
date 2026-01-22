@@ -18,6 +18,8 @@ Hier erfährst du wie Windows mit einem lokalen Konto ohne Online-Registrierung 
 
 Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Windows installiert werden kann, ohne ein Online-Konto anzulegen.
 
+---
+
 ### Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
 > Diese Methode soll ab Version 25H2 entfernt werden.
