@@ -89,4 +89,4 @@ Windows Registry Editor Version 5.00
 
 ### Einstellungen aktivieren
 
-Die gespeicherte REG-Datei kann einfach per Doppelklick in die Registry importiert werden. Spätestens nach dem nächsten Neustart sollten die neuen Einträge angezeigt worden.
+Die gespeicherte REG-Datei kann einfach per Doppelklick in die Registry importiert werden. Spätestens nach dem nächsten Neustart sollten die neuen Einträge angezeigt werden.
