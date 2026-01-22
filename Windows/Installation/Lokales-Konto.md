@@ -36,7 +36,7 @@ OOBE\BypassNRO
 
 > *OOBE* steht für "Out of the Box Experience"\
 > *Bypass* heisst auf deutsch etwa „umgehen“\
-> *NRO* steht für "eNROlment"[^1].
+> *NRO* steht für "eNROlment"[^1] zu deutsch „Anmeldung“.
 
 [^1]: https://www.reddit.com/r/Windows11/comments/symv3r/microsoft_to_officially_provide_bypass_for/
 
