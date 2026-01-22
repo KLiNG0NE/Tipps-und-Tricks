@@ -10,7 +10,7 @@
 
 # Windows mit lokalem Benutzerkonto installieren
 
-Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Wiundows installiert werden kann, ohne ein Onine-Konto anzulegen.
+Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Windows installiert werden kann, ohne ein Onine-Konto anzulegen.
 
 ## Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
