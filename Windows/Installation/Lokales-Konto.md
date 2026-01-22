@@ -107,7 +107,8 @@ shutdown /r /t 0
 
 ## Methode 5: Developer-Eingabeaufforderung
 
-> Diese Methode soll bei Versionen nach 25H2 funktionieren.
+> Diese Methode soll bei Versionen nach 25H2 funktionieren.  
+  Getestet mit Version 25H2 (Build 26220.7523)
 
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch drücken der Tasten-Kombination ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
