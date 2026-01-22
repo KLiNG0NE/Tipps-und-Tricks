@@ -112,11 +112,13 @@ shutdown /r /t 0
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
 * Durch drücken der Tasten-Kombination ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
   (Manchmal muss die Tasten-Kombination häufiger gedrückt werden.)
+* In die Konsole folgendes eintippen und mit ``Enter`` bestätigen.
 
 ```
 WinJS.Application.restart("ms-cxh:localonly")
 ```
 
+* Im Hintergrund sollte ein Fenster zum Anlegen eines lokalen Accounts erscheinen.
 * Mit ``ESC`` kann die Konsole wieder verlassen werden.
 
 Quelle: David Bombal @ [YouTube](https://www.youtube.com/watch?v=uElWqzjC1eI "https://www.youtube.com")
