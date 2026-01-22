@@ -6,6 +6,8 @@
   * Methode 2: Eingabeaufforderung und ms-cxh
   * Methode 3: Windows Pro mit Domäne installieren
 
+---
+
 # Windows mit lokalem Benutzerkonto installieren
 
 Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ein Benutzerkonto bei dem Anbieter erstellen zu müssen. – Hier werden einige Methoden vorgestellt, wie Wiundows installiert werden kann, ohne ein Onine-Konto anzulegen.
@@ -50,6 +52,8 @@ ipconfig /release
 ipconfig /renew
 ```
 
+---
+
 ## Methode 2: Eingabeaufforderung und ms-cxh
 
 > Diese Methode funktioniert bei Version 25H2
@@ -65,12 +69,16 @@ start ms-cxh:localonly
 
 * In dem nun erscheinenden Fenster kann ein *lokales Konto* und ggf. ein *Passwort* angelegt werden.
 
+---
+
 ## Methode 3: Windows Pro mit Domäne installieren
 
 > Diese Methode funktioniert nur bei den Pro-Versionen von Windows.
 
 * An der Stelle, an der das Installationsprogramm nach dem Gerätenamen des Computers fragt, kann unten auf ``Überspringen`` geklickt werden.
 * Die Frage wie der Computer genutzt wird, wird mit *Bei der Arbeit oder Schule* beantwortet.
+
+---
 
 ## Methode 4: Registryeintrag hinzufügen (BypassNRO)
 
@@ -102,7 +110,7 @@ shutdown /r /t 0
 > Diese Methode soll bei Versionen nach 25H2 funktionieren.
 
 * Installieren bis zu dem Punkt an dem nach dem MS-Konto verlangt wird.
-* Durch druck auf die Taste ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
+* Durch drücken der Tasten-Kombination ``Strg``+``Shift``+``J`` kann eine *Developer-Eingabeaufforderung* geöffnet werden.  
   (Manchmal muss die Tasten-Kombination häufiger gedrückt werden.)
 
 ```
