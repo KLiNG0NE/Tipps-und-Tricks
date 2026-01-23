@@ -1,5 +1,15 @@
 # Tipps-und-Tricks / Live-TV am PC
 
+## Offizielle öffent.-rechtl. Websites
+
+Das Erste
+
+https://www.ardmediathek.de/live/
+
+ZDF
+
+https://www.zdf.de/live-tv
+
 ## Per Internet über Browser
 
 IPTVnator:
