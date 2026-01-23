@@ -10,7 +10,7 @@
   * [Falsche Uhrzeit bei Dualboot](Falsche-Uhrzeit-bei-Dualboot.md)
 
 * Installation
-  * Lokales Konto einrichten (Online-Konto umgehen)
+  * Lokales Konto in Windows einrichten
 
 * Lizenz
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
@@ -38,6 +38,7 @@
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
+
 
 
 
