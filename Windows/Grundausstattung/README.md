@@ -1,4 +1,4 @@
-# Tipps-und-Tricks /Windows / Grundausstattung
+# Tipps-und-Tricks / Windows / Grundausstattung
 
 Hier eine Liste von Programmen, die ich stets auf jedem Windows-Sytem installiere.
 
