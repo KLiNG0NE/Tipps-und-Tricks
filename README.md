@@ -8,22 +8,23 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 
 ## Übersicht
 
-|     | Thema    |
-| :---: | --- |
-| 🤖  | [AI](AI) |
+|       | Thema                                      |
+| :---: | ------------------------------------------ |
+| 🤖  | [AI](AI)                                     |
 | 🎥  | [Audio/Video-Creation](Audio-Video-Creation) |
-| 🌐  | [Browser](Browser) |
-| 📦  | [Docker-Compose](Docker-Compose) |
-| ▶️  | [Fire TV](Fire-TV) |
-| 🖁   | [Funktechnik](Funktechnik) |
-| 🏡  | [Home Assistant](Home-Assistant) |
-| 🎞️  | [KODI](KODI) |
-|  🐧 | [Linux](Linux) |
-| 📺  | [Live-TV am PC](Live-TV-am-PC) |
-| 🖥️  | [Proxmox](Proxmox) |
-| 🛡️  | [VPN](VPN) |
-|  🪟 | [Windows](Windows) |
-|  |  |
+| 🌐  | [Browser](Browser)                           |
+| 📦  | [Docker-Compose](Docker-Compose)             |
+| ▶️  | [Fire TV](Fire-TV)                           |
+| 🖁   | [Funktechnik](Funktechnik)                   |
+| 🛠️  | [Hardware](Hardware)                         |
+| 🏡  | [Home Assistant](Home-Assistant)             |
+| 🎞️  | [KODI](KODI)                                 |
+|  🐧 | [Linux](Linux)                               |
+| 📺  | [Live-TV am PC](Live-TV-am-PC)               |
+| 🖥️  | [Proxmox](Proxmox)                           |
+| 🛡️  | [VPN](VPN)                                   |
+|  🪟 | [Windows](Windows)                           |
+|     |                                              |
 
 Vielleicht ist ja auch etwas Interessantes für Dich dabei.
 
