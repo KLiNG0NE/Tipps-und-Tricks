@@ -14,3 +14,9 @@ Hier werden Programme aufgeführt, die auf eine schnelle Installation eines nutz
 - [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/ "https://www.techpowerup.com/")  
   Wird von vielen anderen Programmen benötigt.
 
+## Daily Tools
+
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/blob/master/README_en-us.md "https://github.com")  
+  TrafficMonitor zeigt die aktuell genutzte Internetgeschwindigkeit an.
+- [Everything](https://www.voidtools.com/ "ttps://www.voidtools.com")  
+  Schnelle Dateisuche
