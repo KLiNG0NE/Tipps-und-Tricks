@@ -24,3 +24,6 @@ Hier werden Programme aufgeführt, die auf eine schnelle Installation eines nutz
   Einfache Bildbearbeitung
 - [Notepad++](https://notepad-plus-plus.org/ "https://notepad-plus-plus.org")  
   Einfacher Text-Editor
+- [LiberKey](https://www.liberkey.com/en.html "https://www.liberkey.com")  
+  Portable Programmsammlung
+- 
