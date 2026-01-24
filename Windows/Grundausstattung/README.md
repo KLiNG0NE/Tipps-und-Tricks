@@ -20,3 +20,7 @@ Hier werden Programme aufgeführt, die auf eine schnelle Installation eines nutz
   TrafficMonitor zeigt die aktuell genutzte Internetgeschwindigkeit an.
 - [Everything](https://www.voidtools.com/ "ttps://www.voidtools.com")  
   Schnelle Dateisuche
+- [paint.net](https://www.getpaint.net/)  
+  Einfache Bildbearbeitung
+- [Notepad++](https://notepad-plus-plus.org/ "https://notepad-plus-plus.org")  
+  Einfacher Text-Editor
