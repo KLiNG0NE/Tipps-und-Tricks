@@ -30,3 +30,21 @@ Hier werden Anwendungen aufgezählt, die den täglichen Umgang mit dem Betriebss
   Portable Programmsammlung
 - [LibreOffice](https://de.libreoffice.org/ "https://de.libreoffice.org")  
   Kostenlose Office Suite
+
+## Informationen / Diagnose
+
+Hier werden Anwendungen aufgezählt, die Informationen bereitstellen.
+
+- [HWiNFO](https://www.hwinfo.com/ "https://www.hwinfo.com")
+
+
+
+
+
+
+
+
+
+
+
+
