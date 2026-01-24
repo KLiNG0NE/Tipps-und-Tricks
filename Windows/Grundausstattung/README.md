@@ -28,4 +28,5 @@ Hier werden Anwendungen aufgezählt, die den täglichen Umgang mit dem Betriebss
   Einfacher Text-Editor
 - [LiberKey](https://www.liberkey.com/en.html "https://www.liberkey.com")  
   Portable Programmsammlung
-- 
+- [LibreOffice](https://de.libreoffice.org/ "https://de.libreoffice.org")  
+  Kostenlose Office Suite
