@@ -39,9 +39,14 @@ Hier werden Anwendungen aufgezählt, die den täglichen Umgang mit dem Betriebss
 
 Hier werden Anwendungen aufgezählt, die Informationen bzw. Diagnose-Tools bereitstellen.
 
-- [HWiNFO](https://www.hwinfo.com/ "https://www.hwinfo.com")
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards "https://www.msi.com")
-
+- [HWiNFO](https://www.hwinfo.com/ "https://www.hwinfo.com")  
+  Hardware-Informationen und -Diagnose
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards "https://www.msi.com")  
+  Sensordaten anzeigen
+- [GPU-Z](https://www.techpowerup.com/gpuz/ "https://www.techpowerup.com")  
+  Informationen zur Grafikkarte
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html "https://www.cpuid.com")  
+  Informationen zu Prozessor, Mainboard und Arbeitsspeicher
 
 
 
