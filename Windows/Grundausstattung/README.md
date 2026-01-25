@@ -13,6 +13,8 @@ Nachfolgend sind Programme aufgelistet, die für eine schnelle Installation eine
   Pakete: Gaming | Büro | Multimedia | System | Leistungsschwache Rechner
 - [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/ "https://www.techpowerup.com/")  
   Wird von vielen anderen Programmen benötigt.
+- [Revo Uninstaller Free](https://www.revouninstaller.com/de/products/revo-uninstaller-free/ "https://www.revouninstaller.com")
+  Deinstalliert Anwendungen ohne Rückstände.
 
 ## Daily Tools
 
