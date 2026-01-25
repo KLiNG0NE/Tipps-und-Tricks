@@ -12,9 +12,9 @@ Nachfolgend sind Programme aufgelistet, die für eine schnelle Installation eine
   Paketmanager für Windows; Programmsuche und -installation; Automatisierte Updates für installierte Programme  
   Pakete: Gaming | Büro | Multimedia | System | Leistungsschwache Rechner
 - [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/ "https://www.techpowerup.com/")  
-  Wird von vielen anderen Programmen benötigt.
-- [Revo Uninstaller Free](https://www.revouninstaller.com/de/products/revo-uninstaller-free/ "https://www.revouninstaller.com")
-  Deinstalliert Anwendungen ohne Rückstände.
+  Wird von vielen anderen Programmen benötigt
+- [Revo Uninstaller Free](https://www.revouninstaller.com/de/products/revo-uninstaller-free/ "https://www.revouninstaller.com")  
+  Deinstalliert Anwendungen ohne Rückstände
 
 ## Daily Tools
 
