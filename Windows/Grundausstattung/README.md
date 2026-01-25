@@ -15,6 +15,8 @@ Nachfolgend sind Programme aufgelistet, die für eine schnelle Installation eine
   Wird von vielen anderen Programmen benötigt
 - [Revo Uninstaller Free](https://www.revouninstaller.com/de/products/revo-uninstaller-free/ "https://www.revouninstaller.com")  
   Deinstalliert Anwendungen ohne Rückstände
+- [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/display-driver-uninstaller-ddu "https://www.wagnardsoft.com")  
+  Entfernt Grafiktreiber komplett vom System
 
 ## Daily Tools
 
