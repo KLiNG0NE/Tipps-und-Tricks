@@ -35,9 +35,10 @@ Hier werden Anwendungen aufgezählt, die den täglichen Umgang mit dem Betriebss
 
 ## Informationen / Diagnose
 
-Hier werden Anwendungen aufgezählt, die Informationen bereitstellen.
+Hier werden Anwendungen aufgezählt, die Informationen bzw. Diagnose-Tools bereitstellen.
 
 - [HWiNFO](https://www.hwinfo.com/ "https://www.hwinfo.com")
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards "https://www.msi.com")
 
 
 
