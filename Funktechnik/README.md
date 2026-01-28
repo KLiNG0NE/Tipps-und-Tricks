@@ -7,6 +7,8 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
 Tatsächlich istk das Komplizierte an der Funktechnik nicht das "Wie geht das?", sondern "Darf ich das?".
 
+Verallgemeinert könnte man sagen: Jeder darf Sendungen empfangen. Möchte man hingegen selbst eine Nachricht versenden, muss man sich an die durchaus komplizierten Regelungen halten.
+
 ## Jedermannfunk (auch Hobbyfunk)
 
 Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder eine Eignungsprüfung. Die Nutzung ist auf zugelassene Geräte beschränkt. Diese Geräte dürfen nicht technisch verändert werden. Es ist nur erlaubt, auf zugewiesenen Kanälen mit den entsprechenden Frequenzen zu senden.
