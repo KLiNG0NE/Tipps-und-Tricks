@@ -3,6 +3,10 @@
 
 Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
+## Senden oder Empfangen?
+
+Tatsächlich istk das Komplizierte an der Funktechnik nicht das "Wie geht das?", sondern "Darf ich das?".
+
 ## Jedermannfunk (auch Hobbyfunk)
 
 Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder eine Eignungsprüfung. Die Nutzung ist auf zugelassene Geräte beschränkt. Diese Geräte dürfen nicht technisch verändert werden. Es ist nur erlaubt, auf zugewiesenen Kanälen mit den entsprechenden Frequenzen zu senden.
