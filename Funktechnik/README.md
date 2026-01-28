@@ -7,15 +7,19 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
 Tatsächlich ist das Komplizierte an der Funktechnik nicht das "Wie geht das?", sondern das "Darf ich das?".
 
-### Stark verallgemeinert könnte man sagen:  
+### *Stark vereinfacht* könnte man sagen:  
 
 #### Der Emfang von Funksendungen ist legal
 
+Niemand wird allamiert, wenn ich mein Radio einschalte, und meinen Lieblingssender höre.
+
 > Jeder darf Funk-Sendungen frei empfangen.
 
-Möchte man hingegen selbst eine Nachricht versenden, muss man sich an die durchaus komplizierten Regelungen halten.
+#### Senden dürfen nur die Profis
 
-> Senden dürfen nur Profis.
+Wer hingegen selbst eine Nachricht versenden möchte, muss sich an die durchaus *komplizierten Regelungen* der jeweiligen Region halten.
+
+> Wer eine Funksendung betreiben möchte, muss sich an vielfältige Regelungen halten.
 
 ## Jedermannfunk (auch Hobbyfunk)
 
