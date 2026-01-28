@@ -9,7 +9,7 @@ Tatsächlich ist das Komplizierte an der Funktechnik nicht das "Wie geht das?", 
 
 ### *Stark vereinfacht* könnte man sagen:  
 
-#### Der Emfang von Funksendungen ist legal
+#### Der Empfang von Funksendungen ist legal
 
 Niemand wird allamiert, wenn ich mein Radio einschalte, und meinen Lieblingssender höre.
 
