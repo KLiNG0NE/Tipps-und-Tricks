@@ -84,7 +84,5 @@ LW    | 1490,624
 
 ###### Quellen:
 
-<small>
 - [www.ukwtv.de](https://www.ukwtv.de/cms/dab-kanaele.html "https://www.ukwtv.de")
 - [de.wikipedia.org](https://de.wikipedia.org/wiki/T-DAB-Frequenz "https://de.wikipedia.org")
-</small>small>
