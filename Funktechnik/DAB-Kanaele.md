@@ -68,3 +68,5 @@ LV    | 1488,912
 LW    | 1490,624
 
 *) Die Kanäle 13C und 13D können wegen des geringen Schutzabstands nicht im selben Gebiet oder in benachbarten Gebieten zugleich verwendet werden.
+
+Quelle: [www.ukwtv.de](https://www.ukwtv.de/cms/dab-kanaele.html "https://www.ukwtv.de")
