@@ -36,10 +36,14 @@ Software Defined Radio bedeutet, dass viele Aufgaben, die früher spezielle Hard
 
 - [SDR++](https://www.sdrpp.org/ "https://www.sdrpp.org")  
   SDR-Empfänger
-- SDR#
+- [SDR#](https://airspy.com/download/ "https://airspy.com") (SDRSharp)  
+  SDR-Empfänger
 - [welle.io](https://www.welle.io/ "https://www.welle.io")  
   DAB/DAB+-Software-Radio
-- GNU Radio
+- [GNU Radio](https://www.gnuradio.org/ "(https://www.gnuradio.org")  
+  Modulares SDR
+- [SDRangel](https://www.sdrangel.org/ "https://www.sdrangel.org")  
+  TX & RX Software Defined Radio
 
 ---
 
