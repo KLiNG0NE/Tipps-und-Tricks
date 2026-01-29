@@ -46,5 +46,4 @@ PMR446  | PMR  | 446 MHz       | 70 cm | 16 FM        | 0,500 W  | 0,5–5 km 
 
 ---
 
-
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Funktechnik](README.md)
