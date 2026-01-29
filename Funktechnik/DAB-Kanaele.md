@@ -1,7 +1,7 @@
 
 ## DAB-Kanäle
 
-### Tabelle
+### Tabelle: Rundfunkband III (VHF-Band III)
 
 Kanal	| Mittenfrequenz in MHz
 |:---:|----------------------:|
@@ -26,23 +26,36 @@ Kanal	| Mittenfrequenz in MHz
 9C    | 206,352
 9D    | 208,064
 10A   | 209,936
+10N   | 210,096
 10B   | 211,648
 10C   | 213,360
 10D   | 215,072
 11A   | 216,928
+11N   | 217,088
 11B   | 218,640
 11C   | 220,352
 11D   | 222,064
 12A   | 223,936
+12N   | 224,096
 12B   | 225,648
 12C   | 227,360
 12D   | 229,072
+
+### Tabelle: Kanal 13
+
+Kanal	| Mittenfrequenz in MHz
+|:---:|----------------------:|
 13A   | 230,784
 13B   | 232,496
 13C*  | 234,208*
 13D*  | 235,776*
 13E   | 237,488
 13F   | 239,200
+
+### Tabelle: 1,5-GHz-Band (L-Band)
+
+Kanal	| Mittenfrequenz in MHz
+|:---:|----------------------:|
 LA    | 1452,960
 LB    | 1454,672
 LC    | 1456,384
@@ -69,4 +82,9 @@ LW    | 1490,624
 
 *) Die Kanäle 13C und 13D können wegen des geringen Schutzabstands nicht im selben Gebiet oder in benachbarten Gebieten zugleich verwendet werden.
 
-Quelle: [www.ukwtv.de](https://www.ukwtv.de/cms/dab-kanaele.html "https://www.ukwtv.de")
+###### Quellen:
+
+<small>
+- [www.ukwtv.de](https://www.ukwtv.de/cms/dab-kanaele.html "https://www.ukwtv.de")
+- [de.wikipedia.org](https://de.wikipedia.org/wiki/T-DAB-Frequenz "https://de.wikipedia.org")
+</small>small>
