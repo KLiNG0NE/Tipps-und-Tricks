@@ -66,3 +66,5 @@ LT    | 1485,488
 LU    | 1487,200
 LV    | 1488,912
 LW    | 1490,624
+
+*) Die Kanäle 13C und 13D können wegen des geringen Schutzabstands nicht im selben Gebiet oder in benachbarten Gebieten zugleich verwendet werden.
