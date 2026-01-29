@@ -32,6 +32,20 @@ Software Defined Radio bedeutet, dass viele Aufgaben, die früher spezielle Hard
 
 ---
 
+### R820T2
+
+Vorteile des R820T2 gegenüber dem Vorgänger R820T:
+
+- R820T2 ist empfindlicher, besonders im Bereich unter 100 MHz und über 1 GHz
+- Der T2 hat ein geringeres Eigenrauschen.
+- Beide decken etwa 24 MHz bis 1,7 GHz ab.
+
+#### Fazit
+
+Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, bessere Empfindlichkeit, stabilerer Empfang. Deshalb verwenden praktisch alle modernen RTL‑SDR‑Sticks (z. B. RTL‑SDR Blog V3/V4) den R820T2.
+
+---
+
 ## Software
 
 - [SDR++](https://www.sdrpp.org/ "https://www.sdrpp.org")  
