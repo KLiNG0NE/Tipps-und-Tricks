@@ -23,7 +23,7 @@ Für den kostengünstigen Einstieg eignen sich USB-Sticks, die ursprünglich fü
 
 Empfehlenswert ist die Kombination aus Demodulator-IC Realtek **RTL2832U** und Tuner-IC Rafael Micro **R820T2**.
 
-Der derzeitige Preis (Jan. 2026) für diesen Stick liegt bei ca. 20,– bis 30,– EUR.
+Der derzeitige (Jan. 2026) Preis für solche Sticks liegt bei ca. 20,– bis 30,– EUR.
 
 > Besonders kostengünstige Modelle nutzen meist einen *leistungsschwächeren* Tuner-IC!
 
