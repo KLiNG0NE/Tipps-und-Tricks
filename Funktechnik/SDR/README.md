@@ -54,6 +54,8 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
   SDR-Empfänger
 - [welle.io](https://www.welle.io/ "https://www.welle.io")  
   DAB/DAB+-Software-Radio
+- [AbracaDABra](https://github.com/KejPi/AbracaDABra "https://github.com")  
+  DAB/DAB+-Software-Radio
 - [GNU Radio](https://www.gnuradio.org/ "(https://www.gnuradio.org")  
   Modulares SDR
 - [SDRangel](https://www.sdrangel.org/ "https://www.sdrangel.org")  
