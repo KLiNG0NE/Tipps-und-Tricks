@@ -26,6 +26,9 @@ Wer nur das öffentlich-rechtliche TV-Program nutzt, kann direkt per Browser der
 
 IPTVnator:
 
+[iptvnator.vercel.app](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
+
+Ohne Playlist:  
 https://iptvnator.vercel.app/
 
 M3U-Senderliste:
