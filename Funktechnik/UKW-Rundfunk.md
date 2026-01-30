@@ -10,3 +10,7 @@ Bandbreite      | 15.0 MHz (20 MHz USA)
 Kanalraster     | 100 kHZ
 Emphasis        | 50 µs (75 µs USA)
 Stereo          | Pilotton-Multiplexverfahren
+
+#### Frequenzlisten:
+
+- [www.bandscan.de](https://www.bandscan.de/ukw.html "https://www.bandscan.de")
