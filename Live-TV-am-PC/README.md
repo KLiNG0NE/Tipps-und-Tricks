@@ -14,7 +14,7 @@ Wer nur das öffentlich-rechtliche TV-Program nutzt, kann direkt per Browser der
 #### Das Erste
 
 - [www.ardmediathek.de](https://www.ardmediathek.de/live/ "https://www.ardmediathek.de")  
-  Das Erste, BR, hr, mdr, NDR, Radio Bremen, rbb, SR, SWR, WDR, one, arte, KiKA, 3sat, alpha, [tagesschau24](https://www.ardmediathek.de/tagesschau24), [phoenix](https://www.phoenix.de/livestream.html), [DW](https://www.dw.com/de/live-tv/channel-english)
+  Das Erste, BR, hr, mdr, NDR, Radio Bremen, rbb, SR, SWR, [WDR](https://www1.wdr.de/fernsehen/livestream/index.html), [one](https://www.ardmediathek.de/one), [arte](https://www.arte.tv/de/live/), [KiKA](https://www.kika.de/), [3sat](https://www.3sat.de/programm), [alpha](https://www.ardmediathek.de/alpha), [tagesschau24](https://www.ardmediathek.de/tagesschau24), [phoenix](https://www.phoenix.de/livestream.html), [DW](https://www.dw.com/de/live-tv/channel-english)
 
 #### ZDF
 
