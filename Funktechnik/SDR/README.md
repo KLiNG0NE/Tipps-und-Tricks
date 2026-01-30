@@ -17,6 +17,16 @@ Software Defined Radio bedeutet, dass viele Aufgaben, die früher spezielle Hard
 
 ## Hardware ##
 
+### Generische RTL2832U/R820T2-DVB-T-Sticks
+
+Für den kostengünstigen Einstieg eignen sich USB-Sticks, die ursprünglich für den Empfang von DVB-T entwickelt wurden.
+
+Empfehlenswert ist die Kombination aus Demodulator-IC Realtek **RTL2832U** und Tuner-IC Rafael Micro **R820T2**.
+
+Der derzeitige Preis (Jan. 2026) für diesen Stick liegt bei ca. 20,– bis 30,– EUR.
+
+> Besonders kostengünstige Modelle nutzen meist einen *leistungsschwächeren* Tuner-IC!
+
 ### Realtek RTL2832U  – DVB-T COFDM Demodulator
 
 - Ursprünglich für TV‑Empfang entwickelt, aber durch einen „Hack“ als universeller SDR‑Empfänger nutzbar.
