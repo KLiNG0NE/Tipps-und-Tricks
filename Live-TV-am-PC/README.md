@@ -13,7 +13,8 @@ Wer nur das öffentlich-rechtliche TV-Program nutzt, kann direkt per Browser der
 
 #### Das Erste
 
-- [www.ardmediathek.de](https://www.ardmediathek.de/live/ "https://www.ardmediathek.de")
+- [www.ardmediathek.de](https://www.ardmediathek.de/live/ "https://www.ardmediathek.de")  
+  Das Erste, BR, hr, mdr, NDR, Radio Bremen, rbb, SR, SWR, WDR, one, arte, KiKA, 3sat, alpha, tagesschau24, phoenix, DW
 
 #### ZDF
 
