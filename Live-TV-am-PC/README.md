@@ -1,14 +1,25 @@
 # Tipps-und-Tricks / Live-TV am PC
 
+## Übersicht
+
+- Offizielle öffent.-rechtl. Websites
+- Per Internet über Browser
+
+---
+
 ## Offizielle öffent.-rechtl. Websites
 
-Das Erste
+Wer nur das öffentlich-rechtliche TV-Program nutzt, kann direkt per Browser deren Websites nutzen:
 
-https://www.ardmediathek.de/live/
+#### Das Erste
 
-ZDF
+- [www.ardmediathek.de](https://www.ardmediathek.de/live/ "https://www.ardmediathek.de")
 
-https://www.zdf.de/live-tv
+#### ZDF
+
+- [www.zdf.de](https://www.zdf.de/live-tv "https://www.zdf.de")
+
+---
 
 ## Per Internet über Browser
 
