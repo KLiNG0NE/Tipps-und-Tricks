@@ -62,7 +62,7 @@ Vorteile des R820T2 gegenüber dem Vorgänger R820T:
 
 #### Fazit
 
-Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, bessere Empfindlichkeit, stabilerer Empfang. Deshalb verwenden praktisch alle modernen RTL‑SDR‑Sticks (z. B. RTL‑SDR Blog V3/V4) den R820T2.
+Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, bessere Empfindlichkeit, stabilerer Empfang. Deshalb verwenden praktisch alle modernen RTL‑SDR‑Sticks den R820T2.
 
 ---
 
