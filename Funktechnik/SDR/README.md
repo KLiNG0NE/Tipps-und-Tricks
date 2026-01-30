@@ -43,9 +43,12 @@ Viele Programme sprechen diesen Chip über den WinUSB-Treiber an. Dieser kann mi
 
 Vorteile des R820T2 gegenüber dem Vorgänger R820T:
 
-- R820T2 ist empfindlicher, besonders im Bereich unter 100 MHz und über 1 GHz
-- Der T2 hat ein geringeres Eigenrauschen.
-- Beide decken etwa 24 MHz bis 1,7 GHz ab.
+- R820T2 ist empfindlicher, besonders im Bereich unter 100 MHz und über 1 GHz  
+  Praktisch bedeutet das: schwächere Signale kommen klarer durch.
+- Der T2 hat ein geringeres Eigenrauschen.  
+  Das verbessert die Signal‑Rausch‑Relation (SNR) und macht den Empfang insgesamt sauberer.
+- Beide decken etwa 24 MHz bis 1,7 GHz ab.  
+  Der T2 hält die Empfindlichkeit über das gesamte Spektrum etwas gleichmäßiger.
 
 #### Fazit
 
