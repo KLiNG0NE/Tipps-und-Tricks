@@ -1,7 +1,7 @@
-# Tipps und Tricks / Funktechnik
+# Tipps und Tricks / Funktechnik / SDR
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
-Hier sind Tipps und Tricks zu *Software Defined Radio* (SDR) auffindbar.
+Hier sind Ratschläge und Kniffe zu *Software Defined Radio* (SDR) zu finden.
 
 ## Übersicht
 
@@ -17,7 +17,7 @@ Software Defined Radio bedeutet, dass viele Aufgaben, die früher spezielle Hard
 
 ## Hardware ##
 
-### RTL2832U
+### Realtek RTL2832U  – DVB-T COFDM Demodulator
 
 - Ursprünglich für TV‑Empfang entwickelt, aber durch einen „Hack“ als universeller SDR‑Empfänger nutzbar.
 - In Kombination mit einem Tunerchip wie R820T oder R820T2 deckt er etwa 24 MHz bis 1,7 GHz ab.
@@ -30,9 +30,16 @@ Software Defined Radio bedeutet, dass viele Aufgaben, die früher spezielle Hard
 - Wird in vielen USB-Sticks genutzt
 - wird mit unterschiedlichen Tuner-Chips angeboten
 
+#### Treiber
+
+Viele Programme sprechen diesen Chip über den WinUSB-Treiber an. Dieser kann mit der Software Zadig installiert werden:
+
+- [Zadig](https://zadig.akeo.ie/ "https://zadig.akeo.ie")  
+  WinUSB-Treiber für Realtek RTL2832U
+
 ---
 
-### R820T2
+### Rafael Micro R820T2 - High Performance Low Power Advanced Digital TV Silicon Tuner
 
 Vorteile des R820T2 gegenüber dem Vorgänger R820T:
 
@@ -53,9 +60,9 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
 - [SDR#](https://airspy.com/download/ "https://airspy.com") (SDRSharp)  
   SDR-Empfänger
 - [welle.io](https://www.welle.io/ "https://www.welle.io")  
-  DAB/DAB+-Software-Radio
+  DAB/DAB+-Software-Radio, einfache Bedienung
 - [AbracaDABra](https://github.com/KejPi/AbracaDABra "https://github.com")  
-  DAB/DAB+-Software-Radio
+  DAB/DAB+-Software-Radio, einfache Bedienung
 - [GNU Radio](https://www.gnuradio.org/ "(https://www.gnuradio.org")  
   Modulares SDR
 - [SDRangel](https://www.sdrangel.org/ "https://www.sdrangel.org")  
