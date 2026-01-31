@@ -68,14 +68,21 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
 
 ## Software
 
+### Digital Audio Broadcasting DAB/DAB+
+
+- [welle.io](https://www.welle.io/ "https://www.welle.io")  
+  Einfaches DAB/DAB+-Software-Radio, einfache Bedienung
+- [AbracaDABra](https://github.com/KejPi/AbracaDABra "https://github.com")  
+  DAB/DAB+-Software-Radio, einfache Bedienung
+- [Qt-DAB](https://github.com/JvanKatwijk/qt-dab "https://github.com")  
+  Software-DAB-Decoder (DAB+) mit einem (leichten) Schwerpunkt auf der Anzeige des Signals
+
+### SDR-Empfänger
+
 - [SDR++](https://www.sdrpp.org/ "https://www.sdrpp.org")  
   SDR-Empfänger
 - [SDR#](https://airspy.com/download/ "https://airspy.com") (SDRSharp)  
-  SDR-Empfänger
-- [welle.io](https://www.welle.io/ "https://www.welle.io")  
-  DAB/DAB+-Software-Radio, einfache Bedienung
-- [AbracaDABra](https://github.com/KejPi/AbracaDABra "https://github.com")  
-  DAB/DAB+-Software-Radio, einfache Bedienung
+  SDR-Empfänger eines Hardware-Herstellers
 - [GNU Radio](https://www.gnuradio.org/ "(https://www.gnuradio.org")  
   Modulares SDR
 - [SDRangel](https://www.sdrangel.org/ "https://www.sdrangel.org")  
