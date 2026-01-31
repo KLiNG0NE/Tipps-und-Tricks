@@ -16,7 +16,7 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 - Jedermannfunk
   - CB
   - Freenet
-  - NPR
+  - PMR446
   - Meshtastic
 
 ## Senden oder Empfangen?
