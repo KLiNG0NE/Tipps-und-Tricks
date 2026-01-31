@@ -3,6 +3,22 @@
 
 Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
+## Übersicht
+
+- Terrestischer Hörfunk
+  - UKW/FM
+  - DAB+
+- Terestrisches Fernsehen
+  - DVB-T2
+- SDR
+  - Hardware
+  - Software
+- Jedermannfunk
+  - CB
+  - Freenet
+  - NPR
+  - Meshtastic
+
 ## Senden oder Empfangen?
 
 Tatsächlich ist das Komplizierte an der Funktechnik nicht das "Wie geht das?", sondern das "Darf ich das?".
