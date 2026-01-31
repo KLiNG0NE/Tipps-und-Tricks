@@ -5,7 +5,7 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 
 ## Übersicht
 
-- Terrestischer Hörfunk
+- Terrestrischer Hörfunk
   - UKW/FM
   - DAB+
 - Terestrisches Fernsehen
