@@ -70,6 +70,8 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
 
 ### Digital Audio Broadcasting DAB/DAB+
 
+Hier sind kostenlose Programme aufgeführt, die hauptsächlich zum Hören des Hörfunkprogramms über DAB/DAB+ geeignet sind:
+
 - [welle.io](https://www.welle.io/ "https://www.welle.io")  
   Einfaches DAB/DAB+-Software-Radio, einfache Bedienung
 - [AbracaDABra](https://github.com/KejPi/AbracaDABra "https://github.com")  
@@ -79,6 +81,8 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
 
 ### SDR-Empfänger
 
+Hier werden Programme vorgestellt, die ein umfangreiches Software Defined Radio anbieten:
+
 - [SDR++](https://www.sdrpp.org/ "https://www.sdrpp.org")  
   SDR-Empfänger
 - [SDR#](https://airspy.com/download/ "https://airspy.com") (SDRSharp)  
@@ -87,6 +91,10 @@ Der R820T2 ist in fast jeder Hinsicht der bessere Tuner: weniger Rauschen, besse
   Modulares SDR
 - [SDRangel](https://www.sdrangel.org/ "https://www.sdrangel.org")  
   TX & RX Software Defined Radio
+- [HDSDR](https://www.hdsdr.de/ "https://www.hdsdr.de")  
+  Software Defined Radio (ExtIO_RTL)
+- [sodiraSDR](https://www.sodirasdr.de/ "https://www.sodirasdr.de")
+  Software Defined Radio (ExtIO_RTL)
 
 ---
 
