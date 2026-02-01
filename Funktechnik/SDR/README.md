@@ -47,6 +47,11 @@ Viele Programme sprechen diesen Chip über den WinUSB-Treiber an. Dieser kann mi
 - [Zadig](https://zadig.akeo.ie/ "https://zadig.akeo.ie")  
   WinUSB-Treiber für Realtek RTL2832U
 
+Programme, die zu WinRad kompatibel sind benutzen den ExtIO_RTL-Treiber:
+
+- [ExtIO_RTL](https://github.com/hayguen/ExtIO_RTL "https://github.com")  
+  ExtIO_RTL-Treiber für Realtek RTL2832U
+
 ---
 
 ### Rafael Micro R820T2 - High Performance Low Power Advanced Digital TV Silicon Tuner
@@ -93,7 +98,7 @@ Hier werden Programme vorgestellt, die ein umfangreiches Software Defined Radio 
   TX & RX Software Defined Radio
 - [HDSDR](https://www.hdsdr.de/ "https://www.hdsdr.de")  
   Software Defined Radio (ExtIO_RTL)
-- [sodiraSDR](https://www.sodirasdr.de/ "https://www.sodirasdr.de")
+- [sodiraSDR](https://www.sodirasdr.de/ "https://www.sodirasdr.de")  
   Software Defined Radio (ExtIO_RTL)
 
 ---
