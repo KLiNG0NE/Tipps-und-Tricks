@@ -16,7 +16,7 @@ In Deutschland wird hauptsächlich das Rundfunkband III (VHF-Band III) für DAB+
 
 ### Tabelle: Rundfunkband III (VHF-Band III)
 
-Wellenlänge zwischen etwa 1,3 m und 1,7 m.
+Wellenlänge: zwischen etwa 1,3 m und 1,7 m.
 
 Kanal	| Mittenfrequenz in MHz
 |:---:|----------------------:|
@@ -58,6 +58,10 @@ Kanal	| Mittenfrequenz in MHz
 
 ### Tabelle: Kanal 13
 
+Wellenlänge: etwa 1,25 m bis 1,30 m
+
+Kanal 13 ist in einigen CEPT‑Ländern für T‑DAB vorgesehen, wird jedoch in anderen Staaten – darunter Deutschland, Österreich und die Schweiz – für andere Zwecke genutzt. Er liegt direkt oberhalb von Kanal 12 und ist 10 MHz breit, sodass insgesamt sechs DAB‑Blöcke darin untergebracht werden können. Zwischen den Blöcken 13C und 13D ist der normalerweise übliche Frequenzabstand jedoch kleiner. In deutschen Kabelnetzen wird Kanal 13 als S11 und S12 bezeichnet.
+
 Kanal	| Mittenfrequenz in MHz
 |:---:|----------------------:|
 13A   | 230,784
@@ -68,6 +72,10 @@ Kanal	| Mittenfrequenz in MHz
 13F   | 239,200
 
 ### Tabelle: 1,5-GHz-Band (L-Band)
+
+Wellenlänge: etwa 18–21 cm.
+
+Durch die *Digitale Dividende 2* wurde das Frequenzspektrum von 1452 bis 1492 MHz in Deutschland an Mobilfunkunternehmen vergeben. Es ist nun offiziell für Mobilfunkanwendungen – vor allem LTE – vorgesehen. Damit steht dieser Bereich nicht mehr für DVB‑T(2), DAB(+) oder ähnliche Rundfunkdienste zur Verfügung, mit Ausnahme von Cell Broadcast und MBMS.
 
 Kanal	| Mittenfrequenz in MHz
 |:---:|----------------------:|
