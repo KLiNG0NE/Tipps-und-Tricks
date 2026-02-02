@@ -1,5 +1,5 @@
 
-## DAB-Kanäle
+## Tipps-und-Tricks / Funktechnik / DAB-Kanäle
 
 ### Übersicht
 
