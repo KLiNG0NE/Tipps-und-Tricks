@@ -1,5 +1,7 @@
 # Tipps-und-Tricks / Freeware #
 
+![](logo-freeware.png)
+
 ## Übersicht ##
 
 - Funktechnik
