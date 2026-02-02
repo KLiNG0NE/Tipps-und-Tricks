@@ -6,8 +6,8 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
 ## Übersicht
 
 - Terrestrischer Hörfunk
-  - UKW/FM
-  - DAB+
+  - UKW/FM (analog)
+  - DAB+ (digital)
 - Terestrisches Fernsehen
   - DVB-T2
 - SDR
