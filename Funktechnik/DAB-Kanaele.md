@@ -16,6 +16,8 @@ In Deutschland wird hauptsächlich das Rundfunkband III (VHF-Band III) für DAB+
 
 ### Tabelle: Rundfunkband III (VHF-Band III)
 
+Wellenlänge zwischen etwa 1,3 m und 1,7 m.
+
 Kanal	| Mittenfrequenz in MHz
 |:---:|----------------------:|
 5A    | 174,928
