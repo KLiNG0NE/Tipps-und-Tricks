@@ -18,6 +18,11 @@ Hier sind Tipps und Tricks zur Funktechnik auffindbar.
   - Freenet
   - PMR446
   - Meshtastic
+- Hardware
+  - Handfunkgeräte
+  - Software Defined Radio (SDR)
+
+---
 
 ## Senden oder Empfangen?
 
@@ -37,6 +42,8 @@ Wer hingegen selbst eine Nachricht versenden möchte, muss sich an die durchaus 
 
 > Wer eine Funksendung betreiben möchte, muss sich an vielfältige Regelungen halten.
 
+---
+
 ## Jedermannfunk (auch Hobbyfunk)
 
 Wer sich am Hobbyfunk beteiligen möchte, benötigt keinen Bedarfsnachweis oder eine Eignungsprüfung. Die Nutzung ist auf zugelassene Geräte beschränkt. Diese Geräte dürfen nicht technisch verändert werden. Es ist nur erlaubt, auf zugewiesenen Kanälen mit den entsprechenden Frequenzen zu senden.
@@ -52,6 +59,8 @@ CB-Funk | CBF  |  27 MHz       | 11 m  | 80 FM, 12 AM | 4,000 W  | 1–10 km   
 Freenet | FRE  | 149 MHz       | 2 m   | 6 FM         | 1,000 W  | 0,5–5 km   | DEU
 SRD     | SRD  | 433/434 MHz   | 70 cm | 69 FM        | 0,010 W  | 0,5–2 km   | DEU, AUT, NLD
 PMR446  | PMR  | 446 MHz       | 70 cm | 16 FM        | 0,500 W  | 0,5–5 km   | EUR
+
+---
 
 ## Funktechnik
 
