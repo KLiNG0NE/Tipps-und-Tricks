@@ -1,6 +1,10 @@
 
 ## DAB-Kanäle
 
+Eine T‑DAB‑Frequenz ist ein Funkkanal, über den digitales Radio (DAB/DAB+) über Antenne ausgestrahlt wird. Jeder dieser Kanäle ist 1,536 MHz breit. Damit diese Signale in die früher für analoges Fernsehen genutzten Kanäle passen – besonders in das 7‑MHz‑Raster des VHF‑Bandes III – wurde jeder Kanal in vier Blöcke (A bis D) aufgeteilt. Eine Besonderheit bilden die Kanäle 10, 11 und 12, die zusätzlich einen Block N besitzen, sowie der breitere Kanal 13 (10 MHz), der die Blöcke 13E und 13F umfasst, die jedoch teilweise nicht genutzt werden.
+
+In Deutschland wird hauptsächlich das Rundfunkband III (VHF-Band III) für DAB+ genutzt. Das ältere DAB wird von DAB+ zunehmend verdrängt.
+
 ### Tabelle: Rundfunkband III (VHF-Band III)
 
 Kanal	| Mittenfrequenz in MHz
