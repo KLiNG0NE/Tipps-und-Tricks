@@ -26,6 +26,7 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
   - Benchmark
   - Info/Diagnose
   - Runtimes
+  - Softwareverwaltung
   - Treiber
 
 ---
