@@ -18,9 +18,15 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
   - Instant Messenger (IM)
 - Multimedia
   - Audioediting
+  - Bildbearbeitung
   - Digital Audio Workstaition (DAW)
   - Streaming
   - Videoschnitt
+- System
+  - Benchmark
+  - Info/Diagnose
+  - Runtimes
+  - Treiber
 
 ---
 
