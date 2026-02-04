@@ -18,3 +18,7 @@
   - Digital Audio Workstaition (DAW)
   - Streaming
   - Videoschnitt
+
+---
+
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/)
