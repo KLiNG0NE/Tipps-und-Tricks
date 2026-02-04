@@ -15,6 +15,7 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
 - Internet
   - Browser
   - E-Mail
+  - Fernwartung
   - Instant Messenger (IM)
 - Multimedia
   - Audioediting
