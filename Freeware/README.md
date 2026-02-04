@@ -3,6 +3,8 @@
 
 ![](logo-freeware.png)
 
+An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen vorgestellt.
+
 ## Übersicht ##
 
 - Funktechnik
