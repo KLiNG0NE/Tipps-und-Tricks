@@ -6,8 +6,13 @@
 
 ## UniGetUI ##
 
-Name     | Preis     | Website              | Anbieter
----------|:---------:|:--------------------:|:-------------:
-UniGetUI | kostenlos | www.marticliment.com | Martí Climent
+Name     | Preis     | Website                                | Anbieter      | OS      | Sprache
+---------|:---------:|:--------------------------------------:|:-------------:|:-------:|:---------:
+UniGetUI | kostenlos | [www.marticliment.com][uniget] (engl.) | Martí Climent | Windows | multi/deu
 
-https://www.marticliment.com/unigetui/
+
+
+[Link][url]
+
+[uniget]: https://www.marticliment.com/unigetui/ "https://www.marticliment.com"
+[url]: https://inf-schule.de
