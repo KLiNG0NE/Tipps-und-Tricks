@@ -1,4 +1,4 @@
-# Tipps-und-Tricks / Freeware /System / Info-Diagnose #
+# Tipps-und-Tricks / Freeware / System / Info-Diagnose #
 
 ## Übersicht
 
