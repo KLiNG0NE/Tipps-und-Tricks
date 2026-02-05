@@ -6,6 +6,8 @@
   - Screenshot
   - Tipps
 
+---
+
 ## UniGetUI ##
 
 Name     | Preis     | Website                                | Anbieter      | OS      | Sprache
@@ -22,9 +24,15 @@ Doch das Programm kann noch mehr: UniGetUI bietet praktische Funktionen für for
 
 UniGetUI kann Programme auch **automatisch aktuell halten**. Wenn dies nicht gewünscht ist, informiert es stattdessen über verfügbare Updates.
 
+---
+
 ### Screenshot ###
 
 ![Screenshot: UniGetUI](screenshot-unigetui-2026-02.png "Screenshot: UniGetUI")
+
+*Der Menüpunkt „Software-Updates“ in UniGetUI*
+
+---
 
 ### Tipps ###
 
