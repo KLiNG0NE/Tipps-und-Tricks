@@ -25,7 +25,7 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
   - Videoschnitt
 - [System](System)
   - Benchmark
-  - Info/Diagnose
+  - [Info/Diagnose](System/Info-Diagnose)
   - Runtimes
   - [Softwareverwaltung](System/Softwareverwaltung)
   - Treiber
