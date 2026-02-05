@@ -6,7 +6,7 @@
 - Benchmark
 - [Info/Diagnose](System/Info-Diagnose)
 - Runtimes
-- [Softwareverwaltung](System/Softwareverwaltung)
+- [Softwareverwaltung](Softwareverwaltung)
 - Treiber
 
 ---
