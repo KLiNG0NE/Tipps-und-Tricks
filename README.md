@@ -15,6 +15,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 | 🌐  | [Browser](Browser)                           |
 | 📦  | [Docker-Compose](Docker-Compose)             |
 | ▶️  | [Fire TV](Fire-TV)                           |
+| 🆓  | [Freeware](Freeware)                         |
 | 🖁   | [Funktechnik](Funktechnik)                   |
 | 🛠️  | [Hardware](Hardware)                         |
 | 🏡  | [Home Assistant](Home-Assistant)             |
