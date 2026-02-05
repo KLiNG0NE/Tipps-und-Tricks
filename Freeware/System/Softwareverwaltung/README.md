@@ -3,8 +3,8 @@
 ## Übersicht ##
 
 - UniGetUI
-- Screenshot
-- Tipps
+  - Screenshot
+  - Tipps
 
 ## UniGetUI ##
 
@@ -30,6 +30,7 @@ UniGetUI kann Programme auch **automatisch aktuell halten**. Wenn dies nicht gew
 
 - Nur notwendige Paketmanager wie Winget aktivieren und installieren.
 - Die Einstellungen lassen sich recht individuell Anpassen.
+- Es können eigene Softwaresammlungen, genannt Paketbündel, angelegt werden. 
 
 ---
 
