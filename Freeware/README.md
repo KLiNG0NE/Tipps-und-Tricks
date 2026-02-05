@@ -23,11 +23,11 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
   - Digital Audio Workstaition (DAW)
   - Streaming
   - Videoschnitt
-- System
+- [System](System)
   - Benchmark
   - Info/Diagnose
   - Runtimes
-  - Softwareverwaltung
+  - [Softwareverwaltung](System/Softwareverwaltung)
   - Treiber
 
 ---
