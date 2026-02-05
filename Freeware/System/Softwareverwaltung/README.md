@@ -3,6 +3,8 @@
 ## Übersicht ##
 
 - UniGetUI
+- Screenshot
+- Tipps
 
 ## UniGetUI ##
 
@@ -24,4 +26,11 @@ UniGetUI kann Programme auch **automatisch aktuell halten**. Wenn dies nicht gew
 
 ![Screenshot: UniGetUI](screenshot-unigetui-2026-02.png "Screenshot: UniGetUI")
 
+### Tipps ###
+
+- Nur notwendige Paketmanager wie Winget aktivieren und installieren.
+- Die Einstellungen lassen sich recht individuell Anpassen.
+
 ---
+
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Freeware](../..) / [System](..)
