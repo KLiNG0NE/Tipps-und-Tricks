@@ -8,6 +8,9 @@
 
 ---
 
+![](logo-unigetui.png "Screenshot: UniGetUI")
+
+
 ## UniGetUI ##
 
 Name     | Preis     | Website                                | Anbieter      | OS      | Sprache
