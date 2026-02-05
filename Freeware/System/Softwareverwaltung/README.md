@@ -28,9 +28,11 @@ UniGetUI kann Programme auch **automatisch aktuell halten**. Wenn dies nicht gew
 
 ### Tipps ###
 
-- Nur notwendige Paketmanager wie Winget aktivieren und installieren.
-- Die Einstellungen lassen sich recht individuell Anpassen.
-- Es können eigene Softwaresammlungen, genannt Paketbündel, angelegt werden. 
+- Nur notwendige Paketmanager wie *Winget* aktivieren und installieren.
+- Die Einstellungen lassen sich recht individuell Anpassen.  
+  Mit den richtigen Einstellungen werden Updates automatisch ausgeführt.
+- Es können eigene Softwaresammlungen, genannt *Paketbündel,* angelegt werden.  
+  So kann eine Liste z. B. von häufig genutzten Programmen angelegt werden, um diese schnell auf einem neuen System zu installieren.
 
 ---
 
