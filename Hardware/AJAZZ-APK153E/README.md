@@ -6,6 +6,6 @@ Der Boot Screen dieses Pads hat eine Auflösung von 854×480 Pixel
 
 ### Beispiel ###
 
-![](boot-screen-ajaz-dark.png)
+![](boot-screen-ajaz-dark-2026.png)
 
 *Boot Screen AJAZZ APK153E*
