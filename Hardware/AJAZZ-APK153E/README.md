@@ -6,6 +6,8 @@ Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Beze
 
 ### Tabelle von Anbietern/Modellbezeichnungen ###
 
+Diese Tabelle ist nicht vollständig, zeigt aber einen kleinen Überblick über Anbieter und Bezeichnungen:
+
 Anbieter    | Modell           | Hinweise
 :----------:|:----------------:|:-----------:
 AJAZZ       | APK153E          |
@@ -25,7 +27,7 @@ Der Boot Screen dieses Pads hat eine Auflösung von 854×480 Pixel und kann in d
 
 ## Alternative Software ##
 
-Mit dieser Software soll dieses Makro-Keypad auch unter Linux lauffähig sein. Dieses Gerät wird allerdings nicht offiziell sondern per Plugin unterstützt.
+Mit dieser Software soll dieses Makro-Keypad auch unter Linux lauffähig sein. Dieses Gerät wird allerdings nicht offiziell sondern per Plugin unterstützt:
 
 - [OpenDeck](https://github.com/nekename/OpenDeck "https://github.com")  
   Linux/Windows/macOS
