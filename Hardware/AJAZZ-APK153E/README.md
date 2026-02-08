@@ -4,6 +4,8 @@ AJAZZ APK153E
 
 Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen angeboten. Die Preise können durchaus stark variieren.
 
+### Tabelle von Anbietern/Modellbezeichnungen ###
+
 Anbieter    | Modell           | Hinweise
 :----------:|:----------------:|:-----------:
 AJAZZ       | APK153E          |
