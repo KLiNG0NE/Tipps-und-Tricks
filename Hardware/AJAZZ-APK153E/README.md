@@ -11,7 +11,9 @@ Diese Tabelle ist nicht vollständig, zeigt aber einen kleinen Überblick über 
 Anbieter    | Modell           | Hinweise
 :----------:|:----------------:|:-----------:
 AJAZZ       | APK153E          |
+FHOUU       |                  |
 Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß
+MiraBox     | 293S             |
 soomfon     | XF-CN001         |
 XYSTEC      | ZX-5540/ZX-5541  | schwarz/weiß
 
