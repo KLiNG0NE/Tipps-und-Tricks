@@ -2,20 +2,20 @@ AJAZZ APK153E
 
 ## Kompatible Produkte ##
 
-Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen angeboten. Die Preise können durchaus stark variieren.
+Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen verkauft. Das bekannteste Gerät ist wahrscheinlich das *MiraBox 293S*. Die Preise können durchaus stark variieren.
 
 ### Tabelle von Anbietern/Modellbezeichnungen ###
 
 Diese Tabelle ist nicht vollständig, zeigt aber einen kleinen Überblick über Anbieter und Bezeichnungen:
 
-Anbieter    | Modell           | Hinweise
-:----------:|:----------------:|:-----------:
-AJAZZ       | APK153E          |
-FHOUU       |                  |
-Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß
-MiraBox     | 293S             |
-soomfon     | XF-CN001         |
-XYSTEC      | ZX-5540/ZX-5541  | schwarz/weiß
+Anbieter    | Modell           | Hinweise     | Software Win
+:----------:|:----------------:|:------------:|:-------------:
+AJAZZ       | APK153E          |              | [ajazz.key123.vip](https://ajazz.key123.vip/win)
+FHOUU       |                  |              | [key123.vip](https://key123.vip/win)
+Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß |
+MiraBox     | 293S             |              |
+soomfon     | XF-CN001         |              |
+XYSTEC      | ZX-5540/ZX-5541  | schwarz/weiß | [xystec.key123.vip](https://xystec.key123.vip/win)
 
 ## Boot Screen ##
 
