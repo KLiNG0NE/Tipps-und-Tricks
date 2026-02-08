@@ -2,13 +2,14 @@ AJAZZ APK153E
 
 ## Kompatible Produkte ##
 
-Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen verkauft.
+Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen angeboten. Die Preise können durchaus stark variieren.
 
 Anbieter    | Modell           | Hinweise
 :----------:|:----------------:|:-----------:
 AJAZZ       | APK153E          |
 Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß
 soomfon     | XF-CN001         |
+XYSTEC      | ZX-5540/ZX-5541  | schwarz/weiß
 
 ## Boot Screen ##
 
