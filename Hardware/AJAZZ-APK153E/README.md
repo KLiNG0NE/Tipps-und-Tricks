@@ -1,5 +1,15 @@
 AJAZZ APK153E
 
+## Kompatible Produkte ##
+
+Dieses Gerät wird von vielen verschiedenen Anbietern mit unterschiedlichen Bezeichnungen verkauft.
+
+Anbieter    | Modell           | Hinweise
+:----------:|:----------------:|:-----------:
+AJAZZ       | APK153E          |
+Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß
+soomfon     | XF-CN001         |
+
 ## Boot Screen ##
 
 Der Boot Screen dieses Pads hat eine Auflösung von 854×480 Pixel
