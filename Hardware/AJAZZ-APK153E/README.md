@@ -14,7 +14,7 @@ AJAZZ       | APK153E          |              | [ajazz.key123.vip](https://ajazz
 FHOUU       |                  |              | [key123.vip](https://key123.vip/win)
 Mars Gaming | MSD-ONE/MSD-ONEW | schwarz/weiß |
 MiraBox     | 293S             |              |
-soomfon     | XF-CN001         |              |
+soomfon     | XF-CN001         |              | [sm.key123.vip](https://sm.key123.vip/win)
 XYSTEC      | ZX-5540/ZX-5541  | schwarz/weiß | [xystec.key123.vip](https://xystec.key123.vip/win)
 
 ## Boot Screen ##
