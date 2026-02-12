@@ -1,5 +1,6 @@
 # Tipps-und-Tricks / Freeware #
-<small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
+
+TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 
 ![](logo-freeware.png)
 
