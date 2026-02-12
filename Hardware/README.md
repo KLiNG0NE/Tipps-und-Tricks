@@ -8,10 +8,12 @@ An dieser Stelle wird Hardware zu verschiedenen Bereichen vorgestellt.
 ## Übersicht ##
 
 - Makro-Keypad
-  - AJAZZ APK153E
+  - AJAZZ – APK153E
 - Video-Capture-Device
-  - MacroSilicon MS2109S
-  - MacroSilicon MS2131
+  - MacroSilicon – MS2109S
+  - MacroSilicon – MS2131
+- WiFi/Bluetooth-Stick
+  - AIC Semiconductor – AIC8800D80
 
 ---
 
