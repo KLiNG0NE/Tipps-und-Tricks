@@ -100,6 +100,7 @@ Hier werden Programme vorgestellt, die ein umfangreiches Software Defined Radio 
   Software Defined Radio (ExtIO_RTL)
 - [sodiraSDR](https://www.sodirasdr.de/ "https://www.sodirasdr.de")  
   Software Defined Radio (ExtIO_RTL)
+- [SDR Console](https://www.sdr-radio.com/console)
 
 ---
 
