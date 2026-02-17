@@ -84,7 +84,7 @@ Hier sind kostenlose Programme aufgeführt, die hauptsächlich zum Hören des H�
 - [Qt-DAB](https://github.com/JvanKatwijk/qt-dab "https://github.com")  
   Software-DAB-Decoder (DAB+) mit einem (leichten) Schwerpunkt auf der Anzeige des Signals
 
-### SDR-Empfänger
+### SDR-Software
 
 Hier werden Programme vorgestellt, die ein umfangreiches Software Defined Radio anbieten:
 
