@@ -20,6 +20,29 @@ Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ei
 
 ---
 
+### Methode 6: Eingabeaufforderung manuelles Anlegen eines lokalen Kontos
+
+- Installieren bis zu dem Punkt, an dem man sich anmelden soll
+- Mit Shift + F10 kann eine Eingabeaufforderung geöffnet werden.
+- Folgende Befehle eingeben:
+
+Neuen Benutzer anlegen:
+
+```
+net user "Benutzername" * /add
+```
+
+Benutzer zu der Gruppe "administrators" hinzufügen:
+
+```
+net localgroup administrators "Benutzername" /add
+```
+
+
+
+
+---
+
 ### Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
 > Diese Methode soll ab Version 25H2 entfernt werden.
