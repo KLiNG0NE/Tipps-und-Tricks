@@ -20,29 +20,6 @@ Viele Windows-Nutzer fühlen sich genötigt, bei der Installation von Windows ei
 
 ---
 
-### Methode 6: Eingabeaufforderung manuelles Anlegen eines lokalen Kontos
-
-- Installieren bis zu dem Punkt, an dem man sich anmelden soll
-- Mit Shift + F10 kann eine Eingabeaufforderung geöffnet werden.
-- Folgende Befehle eingeben:
-
-Neuen Benutzer anlegen:
-
-```
-net user "Benutzername" * /add
-```
-
-Benutzer zu der Gruppe "administrators" hinzufügen:
-
-```
-net localgroup administrators "Benutzername" /add
-```
-
-
-
-
----
-
 ### Methode 1: Eingabeaufforderung und OOBE-Script (BypassNRO)
 
 > Diese Methode soll ab Version 25H2 entfernt werden.
@@ -156,6 +133,84 @@ WinJS.Application.restart("ms-cxh:localonly")
 * Mit ``ESC`` kann die Konsole wieder verlassen werden.
 
 Quelle: David Bombal @ [YouTube](https://www.youtube.com/watch?v=uElWqzjC1eI "https://www.youtube.com")
+
+---
+
+### Methode 6: Manuelles Anlegen eines lokalen Kontos
+
+- Installieren bis zu dem Punkt, an dem man sich anmelden soll
+- Mit Shift + F10 kann eine Eingabeaufforderung geöffnet werden.
+- Folgende Befehle eingeben:
+
+Neuen Benutzer anlegen:
+
+```
+net user "Benutzername" * /add
+```
+
+Benutzer zu der Gruppe "administrators" hinzufügen:
+
+```
+net localgroup administrators "Benutzername" /add
+```
+
+Benutzer-Account aktivieren:
+
+```
+net user "Benutzername" /active:yes
+```
+
+Verhindern, dass das Passwort verfällt:
+
+```
+net user "Benutzername" /expires:never
+```
+
+Vorgegebenen Administrator-Account deaktivieren:
+
+```
+net user "Administrator" /active:no
+```
+
+Setup-Account löschen:
+
+```
+net user "defaultUser0" /delete
+```
+
+Kontrollieren, ob alles korrekt ist:
+
+```
+net user
+```
+
+Registry öffnen:
+
+```
+regedit
+```
+
+Folgenden Eintrag suchen:
+
+```
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE
+```
+
+Folgende Werte löschen: ``DefaultAccountAction, DefaultAccountSAMName, DefaultAccountSID``
+
+Den verbleibenen Wert ``LaunchUserOOBE`` umbenennen in ``SkipMachineOOBE``
+
+Sicherstellen, dass der Wert ``1`` eingestellt ist.
+
+Registry-Editor beenden.
+
+Windows neu starten:
+
+```
+shutdown /r /t 0
+```
+
+Quelle: https://youtu.be/8A-hjlJHz64
 
 ---
 
