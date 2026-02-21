@@ -9,6 +9,7 @@ Hier erfährst du wie Windows mit einem lokalen Konto ohne Online-Registrierung 
 * Methode 3: Windows Pro mit Domäne installieren [<25H2]
 * Methode 4: Registryeintrag hinzufügen (BypassNRO)
 * Methode 5: Developer-Eingabeaufforderung [25H2+]
+* Methode 6: Manuelles Anlegen eines lokalen Kontos [25H2+]
 
 ---
 
@@ -140,7 +141,8 @@ Quelle: David Bombal @ [YouTube](https://www.youtube.com/watch?v=uElWqzjC1eI "ht
 
 - Installieren bis zu dem Punkt, an dem man sich anmelden soll
 - Mit Shift + F10 kann eine Eingabeaufforderung geöffnet werden.
-- Folgende Befehle eingeben:
+- Folgende Befehle eingeben:  
+  Nach erfolgreich ausgeführtem Befehl sollte die Meldung ``Der Befehl wurde erfolgreich ausgeführt.`` erscheinen.
 
 Neuen Benutzer anlegen:
 
