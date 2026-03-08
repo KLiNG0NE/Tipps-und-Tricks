@@ -11,6 +11,7 @@
 
 * Installation
   * Lokales Konto in Windows einrichten
+  * Secure Boot-Zertifikat prüfen
 
 * Lizenz
   * [Anzeigen von Lizenzinformationen](Anzeigen-von-Lizenzinformationen.md)
@@ -38,6 +39,7 @@
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks) / [Windows](README.md)
+
 
 
 
