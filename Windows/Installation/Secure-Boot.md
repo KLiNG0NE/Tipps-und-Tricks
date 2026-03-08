@@ -11,4 +11,4 @@ PowerShell mit Administrator-Rechten starten und folgendes eingeben:
 
 Wenn das zugehörige Zertifikat vorhanden ist, sollte ``True`` als Antwort erscheinen, und es ist alles Ok.
 
-Falls eine andere Antwort erscheint, sollte möglichst ein BIOS-Update installiert werden.
+Falls eine andere Antwort erscheint, sollte möglichst ein *BIOS-Update* installiert werden.
