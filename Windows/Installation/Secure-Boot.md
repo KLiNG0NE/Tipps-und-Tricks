@@ -15,4 +15,28 @@ Damit *Secure Boot* korrekt funktioniert muss ein aktuelles Zertifikat von Micro
 
 - Falls ``False`` erscheint, sollte möglichst ein *BIOS-Update* installiert werden.
 
+---
+
+## Zertifikat in Windows aktualisieren ##
+
+Falls automatische Updates in Windows deaktiviert sind, sollte das Update manuell ausgelöst werden:
+
+- Registryeintrag hinzufügen
+- PowerShell mit Administrator-Rechten starten und folgendes eingeben:
+
+```
+reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Secureboot /v AvailableUpdates /t REG_DWORD /d 0x5944 /f
+```
+
+- Update anstoßen:
+
+```
+Start-ScheduledTask -TaskName "\Microsoft\Windows\PI\Secure-Boot-Update"
+```
+
+- Anschließend den Rechner zwei Mal neu starten
+
+
 Quelle: [Britec09 @ YouTube](https://youtu.be/sqwEA6_hq6M)
+
+---
