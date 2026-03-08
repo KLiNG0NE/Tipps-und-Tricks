@@ -14,3 +14,5 @@ Damit *Secure Boot* korrekt funktioniert muss ein aktuelles Zertifikat von Micro
 - Wenn das zugehörige Zertifikat vorhanden ist, sollte ``True`` als Antwort erscheinen, und es ist alles Ok.
 
 - Falls ``False`` erscheint, sollte möglichst ein *BIOS-Update* installiert werden.
+
+Quelle: [Britec09 @ YouTube](https://youtu.be/sqwEA6_hq6M)
