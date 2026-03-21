@@ -13,3 +13,7 @@ WsaClient /restart 0
 ```
 WsaClient /shutdown
 ```
+
+Quelle: [github.com/LSPosed](https://github.com/LSPosed/MagiskOnWSALocal/wiki/Commands-to-start-or-stop-WSA)
+
+---
