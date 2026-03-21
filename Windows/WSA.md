@@ -1,6 +1,6 @@
-#WSA – Windows Subsystem for Android
+# WSA – Windows Subsystem for Android #
 
-## Befehle zum Starte/Stoppen von WSA
+## Befehle zum Starten/Stoppen von WSA ##
 
 - Start
 
