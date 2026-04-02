@@ -1,5 +1,19 @@
 # FNIRSI DSO-510 #
 
+## Produkt-Parameter ##
+
+| Eigenschaft               | Wert                |
+|:-------------------------:|---------------------|
+| Abtastrate                | 48 MS/s             |
+| Bandbreite                | 10 M                |
+| Vertikale Empfindlichkeit | 10mV/Div-10V/Div    |
+| Zeitbasisbereich          | 50 ns - 20 S        |
+| Spannungsbereich ×1       | ± 40 V（Vpp: 80 V)  |
+| Spannungsbereich ×10      | ± 400 V（Vpp: 800 V |
+
+
+---
+
 ## Bedeutung der Anschlussbezeichnungen ##
 
 | Anschluss | Bedeutung                    | Funktion                              |
