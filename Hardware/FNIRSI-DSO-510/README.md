@@ -5,7 +5,7 @@
 | Eigenschaft               | Wert                       |
 |:-------------------------:|----------------------------|
 | Abtastrate                | 48 MS/s                    |
-| Bandbreite                | 10 M                       |
+| Bandbreite                | 10 MHz                     |
 | Vertikale Empfindlichkeit | 10 mV/Div – 10 V/Div       |
 | Zeitbasisbereich          | 50 ns - 20 S               |
 | Spannungsbereich ×1       | ± 40 V（Vpp: 80 V)         |
