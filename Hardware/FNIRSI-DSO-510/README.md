@@ -6,8 +6,8 @@
 |-------------------------|:---------------------------:|---------------------------------------------------------|
 | Sample rate             | Abtastrate                  | 48 MS/s                                                 |
 | Bandwith                | Bandbreite                  | 10 MHz                                                  |
-| Vertical sensitivity    | Vertikale Empfindlichkeit   | 10 mV/Div – 10 V/Div                                    |
-| Time Base Range         | Zeitbasisbereich            | 50 ns - 20 S                                            |
+| Vertical sensitivity    | Vertikale Empfindlichkeit   | 10 mV/div – 10 V/div                                    |
+| Time Base Range         | Zeitbasisbereich            | 50 ns - 20 s                                            |
 | Voltage range           | Spannungsbereich ×1         | ± 40 V（Vpp: 80 V)                                      |
 | Voltage range           | Spannungsbereich ×10        | ± 400 V（Vpp: 800 V)                                    |
 | Trigger Mode            | Auslöse-Modus               | Automatisch/Normal/Einzeln                              |
