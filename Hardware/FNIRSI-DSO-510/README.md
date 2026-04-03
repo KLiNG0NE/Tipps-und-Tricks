@@ -2,18 +2,18 @@
 
 ## Produkt-Parameter ##
 
-| Engl. Bezeichnung    | Eigenschaft                 | Wert                                                    |
-|----------------------|:---------------------------:|---------------------------------------------------------|
-| Sample rate          | Abtastrate                  | 48 MS/s                                                 |
-| Bandwith             | Bandbreite                  | 10 MHz                                                  |
-| Vertical sensitivity | Vertikale Empfindlichkeit   | 10 mV/Div – 10 V/Div                                    |
-|| Zeitbasisbereich            | 50 ns - 20 S                                            |
-|| Spannungsbereich ×1         | ± 40 V（Vpp: 80 V)                                      |
-|| Spannungsbereich ×10        | ± 400 V（Vpp: 800 V)                                    |
-|| Auslöse-Modus               | Automatisch/Normal/Einzeln                              |
-|| Auslösekante                | Ansteigende Flanke / Abfallende Flanke                  |
-|| Anbindung                   | Gleichstrom/Wechselstrom                                |
-|| Rechteckwellen-Kalibrierung | Frequenz: 1 kHz; Tastverhältnis: 50 %; Amplitude: 3,3 V |
+| Engl. Bezeichnung       | Eigenschaft                 | Wert                                                    |
+|-------------------------|:---------------------------:|---------------------------------------------------------|
+| Sample rate             | Abtastrate                  | 48 MS/s                                                 |
+| Bandwith                | Bandbreite                  | 10 MHz                                                  |
+| Vertical sensitivity    | Vertikale Empfindlichkeit   | 10 mV/Div – 10 V/Div                                    |
+| Time Base Range         | Zeitbasisbereich            | 50 ns - 20 S                                            |
+| Voltage range           | Spannungsbereich ×1         | ± 40 V（Vpp: 80 V)                                      |
+| Voltage range           | Spannungsbereich ×10        | ± 400 V（Vpp: 800 V)                                    |
+| Trigger Mode            | Auslöse-Modus               | Automatisch/Normal/Einzeln                              |
+| Trigger Edge            | Auslösekante                | Ansteigende Flanke / Abfallende Flanke                  |
+| Coupling                | Anbindung                   | Gleichstrom/Wechselstrom                                |
+| Square wave calibration | Rechteckwellen-Kalibrierung | Frequenz: 1 kHz; Tastverhältnis: 50 %; Amplitude: 3,3 V |
 
 
 ---
