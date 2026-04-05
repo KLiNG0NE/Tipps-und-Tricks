@@ -2,7 +2,7 @@
 
 Digital Storage Oscilloscope
 
-![FNIRSI DSO-510 – About](FNIRSI-DSO-510-About.jpg)
+<img src="FNIRSI-DSO-510-About.jpg" alt="FNIRSI DSO-510 – About" width="640">
 
 ## Produkt-Parameter ##
 
