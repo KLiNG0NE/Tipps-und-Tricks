@@ -45,7 +45,7 @@ DDS bezeichnet ein Verfahren, bei dem Wellenformen digital erzeugt und dann ausg
 
 ## Kalibrierung des Tastkopfes ##
 
-Neben den Anschlüssen für Ein- und Ausgang befindet sich ein Kontakt, mit dem der Tastkopf justiert werden kann. Das dargestellte Signal soll möglichst rechtwinklig erscheinen. Hierzu die kleine Schraube an dem dem BNC-Stecker des Tastkopfes mit einem geeigneten Schraubendreher verstellen.
+Neben den Anschlüssen für Ein- und Ausgang befindet sich ein Kontakt, mit dem der *Tastkopf* justiert werden kann. Das dargestellte Signal soll möglichst *rechtwinklig* erscheinen. Hierzu die kleine Schraube an dem dem BNC-Stecker des Tastkopfes mit einem geeigneten Schraubendreher verstellen.
 
 <img src="Calibration.jpg" alt="FNIRSI DSO-510 – Kalibrierung" width="640">
 
