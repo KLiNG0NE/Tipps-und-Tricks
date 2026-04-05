@@ -1,5 +1,9 @@
 # FNIRSI DSO-510 #
 
+Digital Storage Oscilloscope
+
+![FNIRSI DSO-510 – About](FNIRSI-DSO-510-About.jpg)
+
 ## Produkt-Parameter ##
 
 | Engl. Bezeichnung       | Eigenschaft                 | Wert                                                    |
