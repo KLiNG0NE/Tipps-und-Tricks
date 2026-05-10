@@ -10,12 +10,12 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ### Arch ###
 
-| Distribution  | Hinweise      |
-| ------------- | ------------- |
-| Cachy OS      | Gaming        |
-| Endeavour OS  |               |
-| Garuda Linux  |               |
-| Manjaro       |               |
+| Distribution  | Website                  | Hinweise                |
+| ------------- | ------------------------ | ----------------------- |
+| Cachy OS      | https://cachyos.org/     | Gaming, KDE Plasma      |
+| EndeavourOS   | https://endeavouros.com/ |
+| Garuda Linux  | https://garudalinux.org/ |
+| Manjaro       | https://manjaro.org/     | KDE Plasma, Xfce, GNOME |
 
 ### Debian ###
 
