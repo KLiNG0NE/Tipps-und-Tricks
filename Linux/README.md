@@ -6,6 +6,38 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ---
 
+## Bekannte Distributionen ##
+
+### Arch ###
+
+| Distribution  | Hinweise      |
+| ------------- | ------------- |
+| Cachy OS      | Gaming        |
+| Endeavour OS  |               |
+| Garuda Linux  |               |
+| Manjaro       |               |
+
+### Debian ###
+
+| Distribution  | Hinweise      |
+| ------------- | ------------- |
+| Ubuntu        |               |
+| Siduction     | RR            |
+
+### Ubuntu ###
+
+| Distribution  | Hinweise      |
+| ------------- | ------------- |
+| Linux Mint    | Cinnamon      |
+
+### Fedora ###
+
+| Distribution  | Hinweise      |
+| ------------- | ------------- |
+| Nobara        | Gaming        |
+
+---
+
 ## GNU/Linux
 
 ### 🖥️ Was ist Linux?
