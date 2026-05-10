@@ -12,7 +12,7 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 | Distribution  | Website                  | Hinweise                |
 | ------------- | ------------------------ | ----------------------- |
-| Cachy OS      | https://cachyos.org/     | Gaming, KDE Plasma      |
+| CachyOS       | https://cachyos.org/     | Gaming, KDE Plasma      |
 | EndeavourOS   | https://endeavouros.com/ |
 | Garuda Linux  | https://garudalinux.org/ |
 | Manjaro       | https://manjaro.org/     | KDE Plasma, Xfce, GNOME |
