@@ -13,3 +13,6 @@ Falls nur bestimmte Einträge (hier z. B. "audacity") angezeigt werden sollen:
 ```
 apt list --installed | grep audacity
 ```
+
+Quelle:  
+https://www.giga.de/tipp/ubuntu-debian-list-installed-packages-mit-apt-befehl/
