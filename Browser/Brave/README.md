@@ -31,6 +31,8 @@ In dem Schlüssel können folgende DWORD-Werte gesetzt werden:
 | SafeBrowsingExtendedReportingEnabled    | 0     |
 | MetricsReportingEnabled                 | 0     |
 
+Quelle:  
+[winutil.christitus.com](https://winutil.christitus.com/dev/tweaks/z--advanced-tweaks---caution/bravedebloat/)
 ---
 
 ## Flackern in Brave beseitigen
