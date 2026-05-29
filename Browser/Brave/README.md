@@ -10,6 +10,7 @@ Website: [brave.com](https://brave.com/de/ "https://brave.com")
 ## Debloat Brave ##
 
 Folgenden Registry-Schlüssel anlegen:
+
 ```
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave
 ```
@@ -33,6 +34,7 @@ In dem Schlüssel können folgende DWORD-Werte gesetzt werden:
 
 Quelle:  
 [winutil.christitus.com](https://winutil.christitus.com/dev/tweaks/z--advanced-tweaks---caution/bravedebloat/)
+
 ---
 
 ## Flackern in Brave beseitigen
