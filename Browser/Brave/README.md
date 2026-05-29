@@ -2,7 +2,34 @@
 
 Website: [brave.com](https://brave.com/de/ "https://brave.com")
 
+* [Debloat Brave](#Debloat-Brave)
 * [Flackern in Brave beseitigen](#flackern-in-brave-beseitigen)
+
+---
+
+## Debloat Brave ##
+
+Folgenden Registry-Schlüssel anlegen:
+```
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\BraveSoftware\Brave
+```
+
+In dem Schlüssel können folgende DWORD-Werte gesetzt werden:
+
+| DWORD-Wertname                          | Wert  |
+| --------------------------------------- | :---: |
+| BraveRewardsDisabled                    | 1     |
+| BraveWalletDisabled                     | 1     |
+| BraveVPNDisabled                        | 1     |
+| BraveAIChatEnabled                      | 0     |
+| BraveStatsPingEnabled                   | 0     |
+| BraveNewsDisabled                       | 1     |
+| BraveTalkDisabled                       | 1     |
+| TorDisabled                             | 1     |
+| BraveP3AEnabled                         | 0     |
+| UrlKeyedAnonymizedDataCollectionEnabled | 0     |
+| SafeBrowsingExtendedReportingEnabled    | 0     |
+| MetricsReportingEnabled                 | 0     |
 
 ---
 
