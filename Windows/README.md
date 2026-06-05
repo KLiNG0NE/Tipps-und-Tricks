@@ -35,6 +35,7 @@
 
 * Virtualisierung
   * [VirtualBox](VirtualBox.md) – Kostenlose Virtualisierung
+  * Hyper-V in Windows-Home-Edition aktivieren
 
 ---
 
