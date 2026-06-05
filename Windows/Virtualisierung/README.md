@@ -2,7 +2,7 @@
 
 ## Hyper-V in Windows-Home-Edition aktivieren ##
 
-Folgendes Script als Batch-Datei z. B. ``hyper-v.bat`` speichern:
+Folgendes Skript als Batch-Datei z. B. ``hyper-v.bat`` speichern:
 
 ```
 pushd "%~dp0"
