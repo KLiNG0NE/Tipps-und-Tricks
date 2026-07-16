@@ -3,6 +3,31 @@
 
 ---
 
+### Grösse der Vorschaubilder in der Taskleiste ändern ###
+
+Wenn mit der Maus über das Programm-Symbol in der Taskbar gehoverd wird, erscheint ein kleines Vorschaufenster des laufenden Programmes. Die Größe des Vorschaufensters kann mit folgenden Einträgen angegeben werden:
+
+```
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband
+```
+
+- DWORD-Wert (32 Bit) anlegen oder verändern.
+- Wenn die Eingabe auf dezimal gestellt wird, entspricht die Zahl den Pixeln.
+
+```
+MaxThumbSizePx
+```
+
+verändert die maximale Größe des Vorschaufensters.
+
+```
+MinThumbSizePx
+```
+
+verändert die minimale Größe des Vorschaufensters.
+
+---
+
 ### Ausführlichere Informationen beim Booten und Herunterfahren
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
