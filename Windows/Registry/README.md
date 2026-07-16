@@ -3,7 +3,7 @@
 
 ---
 
-### Grösse der Vorschaubilder in der Taskleiste ändern ###
+### Größe der Vorschaubilder in der Taskleiste ändern ###
 
 Wenn mit der Maus über das Programm-Symbol in der Taskbar gehoverd wird, erscheint ein kleines Vorschaufenster des laufenden Programmes. Die Größe des Vorschaufensters kann mit folgenden Einträgen angegeben werden:
 
