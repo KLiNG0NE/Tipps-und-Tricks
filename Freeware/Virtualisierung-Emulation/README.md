@@ -4,8 +4,8 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 
 ---
 
-- [VirtualBox](https://www.virtualbox.org/)
-- [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+- [VirtualBox](https://www.virtualbox.org/) - Virtualisierungs-Software für x86_64-Hardware
+- [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - Desktop-Hypervisor (kostenl. nach Anmeldung)
 
 ---
 
