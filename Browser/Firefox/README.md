@@ -29,6 +29,15 @@ Ggf. muss ein Warnhinweis bestätigt werden. Auf keinen Fall sollten hier unacht
 
 > ⚠️ Das Ändern von erweiterten Konfigurationseinstellungen kann sich auf die Leistung und Sicherheit von Firefox auswirken.
 
+### Telemetrie  ###
+
+| Einstellung                                | Wert  | Auswirkung                                         |
+|--------------------------------------------|-------|----------------------------------------------------|
+| datareporting.healthreport.uploadEnabled   | false | Übermittlung allgemeiner Browserdaten deaktivieren |
+| datareporting.policy.dataSubmissionEnabled | false | Richtlinie zur Datenübermittlung deaktivieren      |
+| toolkit.telemetry.enabled                  | false | Telemetriewerkzeuge deaktivieren                   |
+
+
 Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
 ---
