@@ -14,7 +14,7 @@ Download: [www.firefox.com](https://www.firefox.com/de/download/all/ "https://ww
 
 ## Firefox abhärten (2026) ##
 
-Firefox bietet einige verborgenen Einstellmöglichkeiten, mit den die Datenerfassung vermindert werden kann.
+Firefox bietet einige verborgenen Einstellmöglichkeiten, mit denen die Datenerfassung per Telemetrie vermindert werden kann.
 
 ---
 
