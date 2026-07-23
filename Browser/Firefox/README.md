@@ -9,12 +9,21 @@ Download: [www.firefox.com](https://www.firefox.com/de/download/all/ "https://ww
 ## Übersicht ##
 
 * [Firefox abhärten (2026)](#firefox-abhärten-2026)
+  * about:config
 
 ---
 
 ## Firefox abhärten (2026) ##
 
 Firefox bietet einige verborgenen Einstellmöglichkeiten, mit denen die Datenerfassung per Telemetrie vermindert werden kann.
+
+### about:config ###
+
+zunächst in die Adresszeile des Browsers folgendes eingeben, um an die versteckten Einstellungen zu gelangen:
+
+```
+about:config
+```
 
 Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
