@@ -8,7 +8,7 @@ Download: [www.firefox.com](https://www.firefox.com/de/download/all/ "https://ww
 
 ## Übersicht ##
 
-* [Firefox abhärten (2026)](#firefox-abhärten-(2026))
+* [Firefox abhärten (2026)](#firefox-abhärten-2026)
 
 ---
 
