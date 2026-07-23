@@ -36,7 +36,7 @@ Ggf. muss ein Warnhinweis bestätigt werden. Auf keinen Fall sollten hier unacht
 | datareporting.healthreport.uploadEnabled   | false | Übermittlung allgemeiner Browserdaten deaktivieren |
 | datareporting.policy.dataSubmissionEnabled | false | Richtlinie zur Datenübermittlung deaktivieren      |
 | toolkit.telemetry.enabled                  | false | Telemetriewerkzeuge deaktivieren                   |
-
+| toolkit.telemetry.unified                  | false | Zusammengefasste Telemetriewerkzeuge deaktivieren  |
 
 Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
