@@ -31,12 +31,18 @@ Ggf. muss ein Warnhinweis bestätigt werden. Auf keinen Fall sollten hier unacht
 
 ### Telemetrie  ###
 
-| Einstellung                                | Wert  | Auswirkung                                         |
-|--------------------------------------------|-------|----------------------------------------------------|
-| datareporting.healthreport.uploadEnabled   | false | Übermittlung allgemeiner Browserdaten deaktivieren |
-| datareporting.policy.dataSubmissionEnabled | false | Richtlinie zur Datenübermittlung deaktivieren      |
-| toolkit.telemetry.enabled                  | false | Telemetriewerkzeuge deaktivieren                   |
-| toolkit.telemetry.unified                  | false | Zusammengefasste Telemetriewerkzeuge deaktivieren  |
+| Einstellung                                  | Wert  | Auswirkung                                         |
+|----------------------------------------------|:-----:|----------------------------------------------------|
+| datareporting.healthreport.uploadEnabled     | false | Übermittlung allgemeiner Browserdaten deaktivieren |
+| datareporting.policy.dataSubmissionEnabled   | false | Richtlinie zur Datenübermittlung deaktivieren      |
+| toolkit.telemetry.enabled                    | false | Telemetriewerkzeuge deaktivieren                   |
+| toolkit.telemetry.unified                    | false | Zusammengefasste Telemetriewerkzeuge deaktivieren  |
+| toolkit.telemetry.newProfilePing.enabled     | false | Ping bei neuem Profil deaktivieren                 |
+| toolkit.telemetry.updatePing.enabled         | false | Ping bei Update deaktivieren                       |
+| toolkit.telemetry.bhrPing.enabled            | false | Ping deaktivieren                                  |
+| toolkit.telemetry.firstShutdownPing.enabled  | false | Ping bei erstem Herunterfahren deaktivieren        |
+| toolkit.telemetry.shutdownPingSender.enabled | false | Ping bei Herunterfahren deaktivieren               |
+
 
 Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
