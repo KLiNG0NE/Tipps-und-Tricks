@@ -27,6 +27,6 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
 ## Online-Chatbots
 
 - [ChatGPT](https://chatgpt.com/ "https://chatgpt.com") – OpenAI (USA)
-- https://deepai.org/chat – Deep AI, Inc. (USA)
+- DeepAI [deepai.org](https://deepai.org/chat "https://deepai.org") – Deep AI, Inc. (USA)
 - https://chat.z.ai/ – Beijing Zhipu Huazhang Technology Co., Ltd. (China)
 
