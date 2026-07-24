@@ -33,4 +33,4 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
 
 ---
 
-[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [AI](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/AI/)
