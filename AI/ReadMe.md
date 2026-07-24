@@ -30,6 +30,7 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
 - DeepAI: [deepai.org](https://deepai.org/chat "https://deepai.org") – Deep AI, Inc. (USA)
 - Z.ai: [chat.z.ai](https://chat.z.ai/ "https://chat.z.ai") – Beijing Zhipu Huazhang Technology Co., Ltd. (China)
 - Perplexity AI: [www.perplexity.ai](https://www.perplexity.ai/ "https://www.perplexity.ai") – Perplexity AI, Inc (USA)
+- Quillbot: [quillbot.com](https://quillbot.com/de/ "https://quillbot.com") – 
 
 ---
 
