@@ -288,11 +288,17 @@ Website: [returnyoutubedislike.com](https://returnyoutubedislike.com/ "returnyou
 
 ## Links
 
-* BrowserAudit: [browseraudit.com](https://browseraudit.com/)
+### Welchen Browser habe ich? ###
+
 * WhatIsMyBrowser.com: [www.whatismybrowser.com](https://www.whatismybrowser.com/de/)
 * What's My Browser: [www.whatsmybrowser.org](https://www.whatsmybrowser.org/)
 * whichbrowser: [whichbrowser.net](https://whichbrowser.net/) (engl.)
 
+### Sicherheits-/Privacy-Test ###
+* BrowserAudit: [browseraudit.com](https://browseraudit.com/)
+* Cover Your Tracks: [coveryourtracks.eff.org](https://coveryourtracks.eff.org/)
+
+https://browserleaks.com/webrtc
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
