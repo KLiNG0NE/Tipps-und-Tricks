@@ -26,7 +26,11 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
 
 ## Online-Chatbots
 
-- [ChatGPT](https://chatgpt.com/ "https://chatgpt.com") – OpenAI (USA)
-- DeepAI [deepai.org](https://deepai.org/chat "https://deepai.org") – Deep AI, Inc. (USA)
-- https://chat.z.ai/ – Beijing Zhipu Huazhang Technology Co., Ltd. (China)
+- ChatGPT: [chatgpt.com](https://chatgpt.com/ "https://chatgpt.com") – OpenAI (USA)
+- DeepAI: [deepai.org](https://deepai.org/chat "https://deepai.org") – Deep AI, Inc. (USA)
+- Z.ai: [chat.z.ai](https://chat.z.ai/ "https://chat.z.ai") – Beijing Zhipu Huazhang Technology Co., Ltd. (China)
+- Perplexity AI: [www.perplexity.ai](https://www.perplexity.ai/ "https://www.perplexity.ai") – Perplexity AI, Inc (USA)
 
+---
+
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
