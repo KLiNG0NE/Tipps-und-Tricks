@@ -33,4 +33,4 @@ Mit dieser Software soll dieses Makro-Keypad auch unter Linux lauffähig sein. D
 
 - [OpenDeck](https://github.com/nekename/OpenDeck "https://github.com")  
   Linux/Windows/macOS
-
+- [OpenDeck AJAZZ APK153E Plugin](https://github.com/4ndv/opendeck-akp153 "https://github.com")
