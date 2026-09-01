@@ -21,6 +21,8 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
   Oberfläche zum Installieren verschiedener Bildgeneratoren.
 * [Pinokio](https://pinokio.computer/)  
   Mit dieser Oberfläche können verschidene AI-Systeme sehr einfach installiert werden.
+* [AnythingLLM](https://anythingllm.com/)  
+  Lokaler Agent
 * [FreeToken](https://github.com/FlashML-org/FreeToken)  
   Schnelle Engine für größere Models
 
