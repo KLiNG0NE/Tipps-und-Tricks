@@ -25,6 +25,8 @@ Mit diesen Programmen ist es besonder einfach, den Einstig in die Welt der AI zu
   Lokaler Agent
 * [FreeToken](https://github.com/FlashML-org/FreeToken)  
   Schnelle Engine für größere Models
+* [Voicebox](https://voicebox.sh/)  
+  Sprachsynthese bzw. Text-to-Speech (TTS), Voice cloning, Diktate, Storyline, MCP, API
 
 ## Models
 
