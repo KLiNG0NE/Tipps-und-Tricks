@@ -17,7 +17,7 @@ Hier sind die wichtigsten Vor- und Nachteile von lokaler KI (also KI-Modellen, d
 
 ### Vorteile
 
-1. **Maximale Datenschutz & Privatsphäre:**  
+1. **Maximaler Datenschutz & Privatsphäre:**  
 Deine Daten verlassen das Gerät niemals. Das ist ideal für sensible Geschäftsdaten, persönliche Tagebücher oder medizinische Informationen, da kein Drittanbieter (wie OpenAI oder Google) Zugriff auf deine Prompts hat.
 2. **Kosten (nach der Anschaffung):**  
 Einmal installiert, ist die Nutzung in der Regel kostenlos. Es gibt keine Abos und keine Kosten pro generiertem Wort oder Bild ("Token-Gebühren"), egal wie viel du die KI nutzt.
@@ -28,7 +28,8 @@ Du bist nicht von den Servern großer Tech-Konzerne abhängig (keine Ausfälle d
 5. **Schnelle Reaktion (bei guter Hardware):**  
 Da die Daten nicht erst zum Server und zurück gesendet werden müssen, entfällt die Netzwerk-Latenz. Die Antwort beginnt oft sofort zu fließen.
 
-## Nachteile##
+## Nachteile ##
+
 1. **Hohe Hardware-Anforderungen:*  
 Um gute Modelle flüssig laufen zu lassen, benötigst du meist leistungsstarke Hardware. Für Sprachmodelle (LLMs) ist viel Arbeitsspeicher (RAM/VRAM) nötig, für Bildgenerierung eine starke Grafikkarte (GPU). Ohne diese ist die KI extrem langsam.
 2. **Geringere Intelligenz/Leistungsfähigkeit:**  
