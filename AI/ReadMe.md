@@ -30,7 +30,7 @@ Da die Daten nicht erst zum Server und zurück gesendet werden müssen, entfäll
 
 ### Nachteile ###
 
-1. **Hohe Hardware-Anforderungen:*  
+1. **Hohe Hardware-Anforderungen:**  
 Um gute Modelle flüssig laufen zu lassen, benötigst du meist leistungsstarke Hardware. Für Sprachmodelle (LLMs) ist viel Arbeitsspeicher (RAM/VRAM) nötig, für Bildgenerierung eine starke Grafikkarte (GPU). Ohne diese ist die KI extrem langsam.
 2. **Geringere Intelligenz/Leistungsfähigkeit:**  
 Die allerbesten und "schlauesten" Modelle (wie GPT-4 oder Claude 3 Opus) sind so groß, dass sie momentan kaum auf Consumer-Hardware laufen. Lokale Modelle sind oft etwas kleiner und können bei komplexen logischen Aufgaben an ihre Grenzen stoßen.
