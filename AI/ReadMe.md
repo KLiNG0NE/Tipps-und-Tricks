@@ -58,6 +58,16 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 * [Voicebox](https://voicebox.sh/)  
   Sprachsynthese bzw. Text-to-Speech (TTS), Voice cloning, Diktate, Storyline, MCP, API
 
+---
+
+## Agents/Harness ##
+
+- [DeepSeek Harness](https://deepseek.com/harness/en/)
+- [OpenCode](https://opencode.ai/)
+
+
+---
+
 ## Models
 
 * https://www.canirun.ai/
