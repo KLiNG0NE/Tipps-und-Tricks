@@ -28,6 +28,8 @@ Du bist nicht von den Servern großer Tech-Konzerne abhängig (keine Ausfälle d
 5. **Schnelle Reaktion** (bei guter Hardware):  
 Da die Daten nicht erst zum Server und zurück gesendet werden müssen, entfällt die Netzwerk-Latenz. Die Antwort beginnt oft sofort zu fließen.
 
+---
+
 ### Nachteile ###
 
 1. **Hohe Hardware-Anforderungen:**  
