@@ -9,6 +9,7 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 - [VirtualBox](https://www.virtualbox.org/) – Virtualisierungs-Software für x86_64-Hardware
 - [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) – Desktop-Hypervisor (kostenl. nach Anmeldung)
 - [Bochs](https://bochs.sourceforge.io/) – Bochs ist ein äußerst portabler Open-Source-IA-32-(x86-)PC-Emulator, der in C++ geschrieben ist.
+- [DOSBox](https://www.dosbox.com/) – DOSBox ist ein DOS-emulator
 
 ---
 
