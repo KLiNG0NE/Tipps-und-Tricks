@@ -13,11 +13,13 @@
 
 ## UniGetUI ##
 
+![Static Badge](https://img.shields.io/badge/FREE-WARE-green?style=plastic)
+
 Name     | Preis     | Website                                | Anbieter      | OS      | Sprache
 ---------|:---------:|:--------------------------------------:|:-------------:|:-------:|:---------:
-UniGetUI | kostenlos | [www.marticliment.com][uniget] (engl.) | Martí Climent | Windows | multi/deu
+UniGetUI | kostenlos | [devolutions.net][uniget] (engl.)      | Devolutions   | Windows | multi/deu
 
-[uniget]: https://www.marticliment.com/unigetui/ "https://www.marticliment.com"
+[uniget]: https://devolutions.net/unigetui/ "https://devolutions.net"
 
 **UniGetUI ist eine übersichtliche und schnelle Benutzeroberfläche für viele bekannte Paketmanager unter Windows 10 und 11 – darunter Winget, Scoop, Chocolatey, Pip, NPM, .NET Tool und die PowerShell Gallery.**
 
