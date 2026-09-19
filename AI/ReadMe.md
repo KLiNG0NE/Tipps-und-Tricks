@@ -59,14 +59,16 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
   Schnelle Engine für größere Models
 * [Voicebox](https://voicebox.sh/)  
   Sprachsynthese bzw. Text-to-Speech (TTS), Voice cloning, Diktate, Storyline, MCP, API
-
+* [KoboldCpp](https://github.com/LostRuins/koboldcpp/)  
+  Engine, um GGML- und GGUF-Models zu betreiben, viele Features.
+  
 ---
 
 ## Agents/Harness ##
 
 - [DeepSeek Harness](https://deepseek.com/harness/en/)
 - [OpenCode](https://opencode.ai/)
-
+- [Cline](https://cline.bot/)
 
 ---
 
