@@ -17,4 +17,4 @@ Die Bildgenerierung mittels AI ist in der Lage aus Textbeschreibungen KI-Kunst z
 Hier findest du Seiten, die sich speziell der KI-Kunst widmen:
 
 * [CIVITAI](https://civitai.com/)
-* 
+* [perchance.org](https://perchance.org/ai-text-to-image-generator)
