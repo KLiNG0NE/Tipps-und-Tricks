@@ -2,6 +2,7 @@
 <small>TIPPS UND TRICKS FÜR COMPUTER UND INTERNET</small>
 
 - [System mit Windows-Tools reparieren: SFC – System File Checker](System-File-Checker.md)
+- Umgebungsvariablen
 
 ---
 
