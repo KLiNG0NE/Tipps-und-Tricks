@@ -19,24 +19,23 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ### Debian ###
 
-| Distribution  | Website                                    | Hinweise                        |
-| ------------- | ------------------------------------------ | --------------------------------|
-| Ubuntu        | [ubuntu.com](https://ubuntu.com/)          | Stark verbreitet                |
-| Siduction     | [siduction.org](https://siduction.org/de/) | Debian testing, Rolling Release |
-
-
+| Distribution  | Website                                                  | Hinweise                        |
+| ------------- | -------------------------------------------------------- | --------------------------------|
+| Ubuntu        | [ubuntu.com](https://ubuntu.com/)                        | Stark verbreitet                |
+| Siduction     | [siduction.org](https://siduction.org/de/)               | Debian testing, Rolling Release |
+| LMDE          | [linuxmint.com](https://linuxmint.com/download_lmde.php) | Linux Mint Debian Edition       |
 
 ### Ubuntu ###
 
-| Distribution  | Hinweise      |
-| ------------- | ------------- |
-| Linux Mint    | Cinnamon      |
+| Distribution  | Website                                                  | Hinweise                        |
+| ------------- | -------------------------------------------------------- | --------------------------------|
+| Linux Mint    | [linuxmint.com](https://linuxmint.com/) | Cinnamon
 
 ### Fedora ###
 
-| Distribution  | Hinweise      |
-| ------------- | ------------- |
-| Nobara        | Gaming        |
+| Distribution  | Website                                                  | Hinweise                        |
+| ------------- | -------------------------------------------------------- | --------------------------------|
+| Nobara        |                                                          | Gaming |
 
 ---
 
