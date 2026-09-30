@@ -19,10 +19,12 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 ### Debian ###
 
-| Distribution  | Hinweise      |
-| ------------- | ------------- |
-| Ubuntu        |               |
-| Siduction     | RR            |
+| Distribution  | Website                                    | Hinweise                        |
+| ------------- | ------------------------------------------ | --------------------------------|
+| Ubuntu        | [ubuntu.com](https://ubuntu.com/)          | Stark verbreitet                |
+| Siduction     | [siduction.org](https://siduction.org/de/) | Debian testing, Rolling Release |
+
+
 
 ### Ubuntu ###
 
