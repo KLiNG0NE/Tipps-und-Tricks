@@ -35,7 +35,7 @@ Hier sind Tipps und Tricks zu **Linux** auffindbar.
 
 | Distribution  | Website                                                  | Hinweise                        |
 | ------------- | -------------------------------------------------------- | --------------------------------|
-| Nobara        |                                                          | Gaming |
+| Nobara        | [nobaraproject.org](https://nobaraproject.org/)          | Gaming |
 
 ---
 
