@@ -8,6 +8,8 @@ An dieser Stelle werden kostenlose Softwareprodukte zu verschiedenen Bereichen v
 
 ## Übersicht ##
 
+- Büro
+  - Office-Suite
 - Funktechnik
   - DAB/DAB+
   - Software Defined Radio (SDR)
