@@ -1,6 +1,8 @@
 
 # Office-Suite #
 
+Ein Office-Paket ist eine Sammlung von Programmen für typische Büroarbeiten – zum Beispiel Texte schreiben, mit Tabellen rechnen oder Präsentationen erstellen. Im Gegensatz zu einem Online-Office werden die Programme dabei direkt auf dem eigenen Computer installiert. Das bekannteste Office-Paket ist Microsoft Office, gefolgt von den kostenlosen Alternativen LibreOffice und OpenOffice.
+
 | Name        | Website                                             | OS            |
 |-------------|:---------------------------------------------------:|---------------|
 | LibreOffice | [libreoffice.org](https://de.libreoffice.org/)      | Win, Mac, Lin |
