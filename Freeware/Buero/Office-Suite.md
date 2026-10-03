@@ -5,8 +5,8 @@ Ein Office-Paket (auch _Office-Suite_) ist eine Sammlung von Programmen für typ
 
 ## Kostenlose Office-Pakete ##
 
-| Name        | Website                                             | OS            |
-|-------------|:---------------------------------------------------:|---------------|
-| LibreOffice | [libreoffice.org](https://de.libreoffice.org/)      | Win, Mac, Lin |
-| ONLYOFFICE  | [www.onlyoffice.com](https://www.onlyoffice.com/de) | Win, Mac, Lin |
-| WPS Office  | [wps.com](https://de.wps.com/)                      | Win, Mac, Lin |
+| Name        | Website                                             | OS            | Hinweise                                    |
+|-------------|:---------------------------------------------------:|---------------|---------------------------------------------|
+| LibreOffice | [libreoffice.org](https://de.libreoffice.org/)      | Win, Mac, Lin |                                             |
+| ONLYOFFICE  | [www.onlyoffice.com](https://www.onlyoffice.com/de) | Win, Mac, Lin | hohe Kompatibilität zu MS-Office-Dokumenten |
+| WPS Office  | [wps.com](https://de.wps.com/)                      | Win, Mac, Lin |                                             |
