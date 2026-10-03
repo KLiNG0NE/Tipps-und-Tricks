@@ -34,7 +34,7 @@ Hier werden Anwendungen aufgezählt, die den täglichen Umgang mit dem Betriebss
   Portable Programmsammlung
 - [LibreOffice](https://de.libreoffice.org/ "https://de.libreoffice.org")  
   Kostenlose Office Suite
-- [HashCheck Shell Extension](https://github.com/idrassi/HashCheck)
+- [HashCheck Shell Extension](https://github.com/idrassi/HashCheck)  
   Dateiintegrität prüfen.
 
 ## Informationen / Diagnose
