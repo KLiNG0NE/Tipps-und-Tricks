@@ -1,6 +1,8 @@
 
 ## KoboldCpp ##
 
+<img src="img/Logo-KoboldCpp.png" alt="Logo" width="128"/>
+
 Website: https://koboldcpp.net/  
 GitHub: https://github.com/lostruins/koboldcpp
 
