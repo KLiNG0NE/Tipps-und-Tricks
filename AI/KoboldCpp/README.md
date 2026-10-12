@@ -45,6 +45,8 @@ Die Einträge müssen bei **Image Gen** angegeben werden.
 
 Die Videos können mit dem WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert werden.
 
+> _Hinweis:_ Die Generierung von Videos ist _rechenintensiv_ und benötigt relativ viel RAM/VRAM.
+
 ## Musikgenerierung ##
 
 Mit KoboldCpp kann Musik via **ACE-Step 1.5** generiert werden.
