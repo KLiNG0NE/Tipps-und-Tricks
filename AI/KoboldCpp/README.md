@@ -43,7 +43,7 @@ Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
 | Image LLM   | umt5-xxl-encoder-Q3_K_S.gguf              | 2,66 GB        |
 | Image VAE   | wan_2.1_vae.safetensors                   | 242 MB         |
 
-Die Videos werden im WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert.
+Die Videos können mit dem WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert werden.
 
 ## Musikgenerierung ##
 
