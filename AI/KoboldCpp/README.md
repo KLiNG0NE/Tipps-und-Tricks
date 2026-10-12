@@ -36,10 +36,10 @@ Wan-Website: https://wan.video/
 Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
 
 | Bezeichnung | Datei                                     | Speicherbedarf |
-|-------------|-------------------------------------------|:--------------:|
+|-------------|-------------------------------------------|---------------:|
 | Image Model | wan2.2-rapid-mega-nsfw-aio-v3.1-Q2_K.gguf | 6,23 GB        |
-| Image LLM   | umt5-xxl-encoder-Q3_K_S.gguf              | 2,66 GB        |
-| Image VAE   | wan_2.1_vae.safetensors                   | 242 MB         |
+| Image LLM   | umt5-xxl-encoder-Q4_K_M.gguf              | 3,40 GB        |
+| Image VAE   | wan21-vae.safetensors                     | 0,24 GB        |
 
 Die Einträge müssen bei **Image Gen** angegeben werden.
 
