@@ -43,7 +43,13 @@ Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
 
 Die Einträge müssen in dem GUI-Launcher bei **Image Gen** angegeben werden.
 
-Die Videos können mit dem WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert werden. Bei Videos wird FPS (Frames per Second; Bilder pro Sekunde) beachtet.
+Die Videos können mit dem WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert werden. Bei Videos wird _Video Frames_ (Anzahl der Bilder) sowie _FPS_ (Frames per Second; Bilder pro Sekunde) beachtet.
+
+Video Frames / FPS = Videolänge in Sek. bzw.
+
+Videolänge in Sek × FPS = Video Frames z. B.
+
+5 s × 20 fps = 100 Frames
 
 > _Hinweis:_ Die Generierung von Videos ist _rechenintensiv_ und benötigt relativ viel RAM/VRAM.
 
