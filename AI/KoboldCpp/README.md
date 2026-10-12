@@ -18,9 +18,39 @@ Eine einzige ausführbare Datei, keine Installation erforderlich. Sofort einsatz
 
 Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
-| Bezeichnung  | URL                           | Hinweise                  |
-|--------------|-------------------------------|---------------------------|
-| KoboldAI Lie | http://localhost:5001/        | Chat                      |
-| Stable UI    | http://localhost:5001/sdui    | Bild-/Videogenerierung    |
-| MusicUI      | http://localhost:5001/musicui | Musik-/Stimmengenerierung |
-| lama cpp UI  | http://localhost:5001/lcpp/   | Agent                     |
+| Bezeichnung   | URL                           | Hinweise                  |
+|---------------|-------------------------------|---------------------------|
+| KoboldAI Lite | http://localhost:5001/        | Chat                      |
+| Stable UI     | http://localhost:5001/sdui    | Bild-/Videogenerierung    |
+| MusicUI       | http://localhost:5001/musicui | Musik-/Stimmengenerierung |
+| lama cpp UI   | http://localhost:5001/lcpp/   | Agent                     |
+
+## Videogenerierung ##
+
+Mit _KoboldCpp_ können Videos via **Wan** (Alibaba) generiert werden.
+
+Wan-Website: https://wan.video/
+
+### Models/Weights ###
+
+Die Einträge müssen bei **Image Gen** eingetragen werden.
+
+Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
+
+| Bezeichnung | Datei                                     | Speicherbedarf |
+|-------------|-------------------------------------------|----------------|
+| Image Model | wan2.2-rapid-mega-nsfw-aio-v3.1-Q2_K.gguf | 6,23 GB        |
+| Image LLM   | umt5-xxl-encoder-Q3_K_S.gguf              | 2,66 GB        |
+| Image VAE   | wan_2.1_vae.safetensors                   | 242 MB         |
+
+Die Videos werden im WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert.
+
+## Musikgenerierung ##
+
+Mit KoboldCpp kann Musik via **ACE-Step 1.5** generiert werden.
+
+ACE-Step 1.5 Website: https://github.com/ace-step/ACE-Step-1.5
+
+### Models/Weights ###
+
+Es werden min. vier verschiedene Dateien benötigt:
