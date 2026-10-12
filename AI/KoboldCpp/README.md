@@ -56,3 +56,5 @@ ACE-Step 1.5 Website: https://github.com/ace-step/ACE-Step-1.5
 ### Models/Weights ###
 
 Es werden min. vier verschiedene Dateien benötigt:
+
+https://huggingface.co/koboldcpp/music
