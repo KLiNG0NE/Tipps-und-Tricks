@@ -33,8 +33,6 @@ Wan-Website: https://wan.video/
 
 ### Models/Weights ###
 
-Die Einträge müssen bei **Image Gen** eingetragen werden.
-
 Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
 
 | Bezeichnung | Datei                                     | Speicherbedarf |
@@ -42,6 +40,8 @@ Es werden min. drei Dateien benötigt. Hier eine Beispiel-Konfiguration:
 | Image Model | wan2.2-rapid-mega-nsfw-aio-v3.1-Q2_K.gguf | 6,23 GB        |
 | Image LLM   | umt5-xxl-encoder-Q3_K_S.gguf              | 2,66 GB        |
 | Image VAE   | wan_2.1_vae.safetensors                   | 242 MB         |
+
+Die Einträge müssen bei **Image Gen** angegeben werden.
 
 Die Videos können mit dem WebUI _Stable UI_ ``http://localhost:5001/sdui`` generiert werden.
 
