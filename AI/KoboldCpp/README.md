@@ -27,7 +27,7 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
 ## Videogenerierung ##
 
-Mit _KoboldCpp_ können Videos via **Wan** (Alibaba) generiert werden.
+Mit _KoboldCpp_ können Videos via **Wan2.2** (Alibaba) generiert werden. Es werden die Eingabemodalitäten Text-to-Video (T2V), Image-to-Video (I2V) unterstützt.
 
 Wan-Website: https://wan.video/
 
