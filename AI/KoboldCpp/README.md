@@ -61,14 +61,14 @@ ACE-Step 1.5 Website: https://github.com/ace-step/ACE-Step-1.5
 
 ### Models/Weights ###
 
-Es werden min. vier verschiedene Dateien benötigt:
+Es werden min. vier verschiedene Dateien benötigt. Hier eine Beispielkonfiguration bei max. Qualität:
 
 | Bezeichnung   | Datei                                     | Speicherbedarf |
 |---------------|-------------------------------------------|---------------:|
-| MusicLLM      | acestep-5Hz-lm-4B-BF16.gguf               |                |
-| MusicEmbeds   | Ace-Qwen3-Embedding-0.6B-BF16.gguf        |                |
-| MusicDiffuser | acestep-v15-sftturbo50-BF16.gguf          |                |
-| MusicVAE      | ace-vae-BF16.gguf                         |                |
+| MusicLLM      | acestep-5Hz-lm-4B-BF16.gguf               | 8,38 GB        |
+| MusicEmbeds   | Ace-Qwen3-Embedding-0.6B-BF16.gguf        | 1,20 GB        |
+| MusicDiffuser | acestep-v15-sftturbo50-BF16.gguf          | 4,79 GB        |
+| MusicVAE      | ace-vae-BF16.gguf                         | 0,34 GB        |
 
 https://huggingface.co/koboldcpp/music
 
