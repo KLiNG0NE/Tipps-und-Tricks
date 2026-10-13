@@ -61,7 +61,7 @@ ACE-Step 1.5 Website: https://github.com/ace-step/ACE-Step-1.5
 
 ### Models/Weights ###
 
-Es werden min. vier verschiedene Dateien benötigt. Hier eine Beispielkonfiguration bei max. Qualität:
+Es werden min. vier verschiedene Dateien benötigt. Hier eine Beispielkonfiguration bei guter Qualität:
 
 | Bezeichnung   | Datei                                     | Speicherbedarf |
 |---------------|-------------------------------------------|---------------:|
