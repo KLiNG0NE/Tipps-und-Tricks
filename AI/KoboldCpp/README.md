@@ -63,4 +63,13 @@ ACE-Step 1.5 Website: https://github.com/ace-step/ACE-Step-1.5
 
 Es werden min. vier verschiedene Dateien benötigt:
 
+| Bezeichnung   | Datei                                     | Speicherbedarf |
+|---------------|-------------------------------------------|---------------:|
+| MusicLLM      | acestep-5Hz-lm-4B-BF16.gguf               |                |
+| MusicEmbeds   | Ace-Qwen3-Embedding-0.6B-BF16.gguf        |                |
+| MusicDiffuser | acestep-v15-sftturbo50-BF16.gguf          |                |
+| MusicVAE      | ace-vae-BF16.gguf                         |                |
+
 https://huggingface.co/koboldcpp/music
+
+![Musik-Generierung](img/Music-Gen.png)
