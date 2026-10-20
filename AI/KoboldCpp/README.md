@@ -41,6 +41,14 @@ Diese _Open Weights_ haben besondere Eigenschaften, welche auf der Website nähe
 
 Qwen Image 2.1-Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
 
+### Bildbearbeitung ###
+
+Die Bildbearbeitung findet nicht mit den gesonderten Bereichen von _Stability UI statt,_ sondern werden direkt im Prompt benannt.
+
+```
+Change the color of the hair.
+```
+
 ---
 
 ## Videogenerierung ##
