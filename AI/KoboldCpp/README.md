@@ -14,6 +14,8 @@ Inspiriert von **KoboldAI** und basierend auf **llama.cpp**
 
 Eine einzige ausführbare Datei, keine Installation erforderlich. Sofort einsatzbereite Downloads sind für Windows, Linux und macOS verfügbar.
 
+---
+
 ## Benutzeroberflächen (Web-GUI) ##
 
 Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
@@ -24,6 +26,22 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 | Stable UI     | http://localhost:5001/sdui    | Bild-/Videogenerierung    |
 | MusicUI       | http://localhost:5001/musicui | Musik-/Stimmengenerierung |
 | lama cpp UI   | http://localhost:5001/lcpp/   | Agent                     |
+
+---
+
+## Bildgenerierung ##
+
+Mit _KoboldCpp_ können Bilder generiert werden.
+
+### Qwen Image 2.1 ###
+
+Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispielkonfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt)
+
+Dieses Open Weight hat besondere Eigenschaften, welche auf der Website näher vorgestellt werden.
+
+Qwen Image 2.1-Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
+
+---
 
 ## Videogenerierung ##
 
@@ -53,6 +71,8 @@ Videolänge in Sek × FPS = Video Frames z. B.
 
 > _Hinweis:_ Die Generierung von Videos ist _rechenintensiv_ und benötigt relativ viel RAM/VRAM.
 
+---
+
 ## Musikgenerierung ##
 
 Mit KoboldCpp kann Musik via **ACE-Step 1.5** generiert werden.
@@ -73,3 +93,5 @@ Es werden min. vier verschiedene Dateien benötigt. Hier eine Beispielkonfigurat
 https://huggingface.co/koboldcpp/music
 
 ![Musik-Generierung](img/Music-Gen.png)
+
+---
