@@ -31,7 +31,7 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
 ## Bildgenerierung ##
 
-Mit _KoboldCpp_ können Bilder generiert werden.
+Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basiert auf [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp/tree/master).
 
 ### Qwen Image 2.1 ###
 
@@ -47,6 +47,14 @@ Die Bildbearbeitung findet nicht mit den gesonderten Bereichen von _Stability UI
 
 ```
 Change the color of the hair.
+```
+
+#### Transparenz ####
+
+_Qwen Image 2.1_ unterstützt transparente Bilder. – Hier ein Beispiel-Prompt:
+
+```
+This is an RGBA image with transparency. <your description>. The image has alpha channel and the background is transparent.
 ```
 
 ---
