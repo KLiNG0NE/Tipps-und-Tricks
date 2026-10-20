@@ -37,6 +37,8 @@ Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basier
 
 Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispielkonfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt)
 
+![Beispiel-Konfiguration Qwen Image 2.1](img/Image-Gen-Qwen-Image-2.1.png)
+
 Diese _Open Weights_ haben besondere Eigenschaften, welche auf der Website näher vorgestellt werden.
 
 Qwen Image 2.1-Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
