@@ -60,17 +60,39 @@ Hier schauen wir zunächst in dem Ordner „sources“, ob eine Datei ``install.
 Der korrekte Pfad zu dieser Datei wird für den nächsten Befehl benötigt.
 
 ```
-DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D:\sources\install.esd
 ```
 Der Bereich hinter ``/Source:`` muss an die eigene ISO-Datei angepasst werden.
 
 In diesem Fall werden die Dateien mit dem Inhalt ISO-Datei abgeglichen. DISM nutzt allerdings auch „Windows Update“, um die Dateien auf dem aktuellen Stand zu halten. – Soll auch dies verhindert werden, kann der eben genutzte Befehl folgendermaßen erweitert werden:
 
 ```
-DISM /Online /Cleanup-Image /RestoreHealth /Source:D\sources\install.esd /LimitAccess
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D:\sources\install.esd /LimitAccess
 ```
 
 Nun wird nur der Inhalt der ISO-Datei genutzt, und „Windows Update“ wird ignoriert. – Dies ist z. B. nützlich, sofern keine Internetverbindung besteht.
+
+##### install.wim #####
+
+Mit ``winver`` können wir die installierte Windows-Edition und -version anzeigen lassen.
+
+Die Datei ``install.wim`` kann mehrere Windows-Editionen enthalten, daher ermitteln wir zunächst den Index der passenden Windows-Edition:
+
+```
+DISM /Get-WimInfo /WimFile:D:\sources\install.wim
+```
+
+Die ermittelte Zahl für den Index (hier z. B. 5) wird im folgenden Befehl nach ``install.wim`` angegeben:
+
+```
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D:\sources\install.wim:5
+```
+
+Windows nutzt mit diesem Befehl die Iso-Datei und auch Quellen von Windows-Update. Soll nur die Iso-Datei genutzt werden wird der Befehl folgendermaßen ergänzt:
+
+```
+DISM /Online /Cleanup-Image /RestoreHealth /Source:D:\sources\install.wim:5 /LimitAccess
+```
 
 Anschließend sollte der Befehl ``SFC /ScanNow`` ohne Probleme die korrupten Dateien ersetzen können.
 
