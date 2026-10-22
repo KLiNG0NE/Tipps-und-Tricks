@@ -88,7 +88,7 @@ Die ermittelte Zahl für den Index (hier z. B. 5) wird im folgenden Befehl nach
 DISM /Online /Cleanup-Image /RestoreHealth /Source:wim:D:\sources\install.wim:5
 ```
 
-Windows nutzt mit diesem Befehl die Iso-Datei und auch Quellen von Windows-Update. Soll nur die Iso-Datei genutzt werden wird der Befehl folgendermaßen ergänzt:
+Windows nutzt mit diesem Befehl die ISO-Datei und auch Quellen von Windows-Update. Soll nur die ISO-Datei genutzt werden wird der Befehl folgendermaßen ergänzt:
 
 ```
 DISM /Online /Cleanup-Image /RestoreHealth /Source:wim:D:\sources\install.wim:5 /LimitAccess
