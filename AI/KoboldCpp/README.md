@@ -6,7 +6,7 @@
 Website: https://koboldcpp.net/  
 GitHub: https://github.com/lostruins/koboldcpp
 
-- [Benutzeroberflächen](#benutzeroberflächen)
+- [Benutzeroberflächen](##benutzeroberfl%C3%A4chen-web-gui)
 - 
 
 ### KoboldCpp: Lokale KI-Modelle mit integrierter Web-Benutzeroberfläche ausführen ###
