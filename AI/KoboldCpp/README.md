@@ -9,9 +9,9 @@ GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://g
 ## Übersicht ##
 
 - [Benutzeroberflächen](##benutzeroberfl%C3%A4chen-web-gui)
-- [Bildgenerierung](#bildgenerierung) – Text2Img, Img2Img
-- [Bildbearbeitung](#bildbearbeitung) – Text2Img, Img2Img
-- [Videogenerierung](#videogenerierung) – Text2Video
+- [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
+- [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
+- [Videogenerierung](#videogenerierung) – Text-zu-Video
 
 ---
 
