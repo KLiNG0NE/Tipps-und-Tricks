@@ -3,7 +3,7 @@
 
 <img src="img/Logo-KoboldCpp-bl-ge.png" alt="Logo" width="128"/>
 
-Website: https://koboldcpp.net/  
+Website: [koboldcpp.net](https://koboldcpp.net/ "https://koboldcpp.net")  
 GitHub: https://github.com/lostruins/koboldcpp
 
 ## Übersicht ##
