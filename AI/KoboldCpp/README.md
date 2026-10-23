@@ -4,7 +4,7 @@
 <img src="img/Logo-KoboldCpp-bl-ge.png" alt="Logo" width="128"/>
 
 Website: [koboldcpp.net](https://koboldcpp.net/ "https://koboldcpp.net")  
-GitHub: https://github.com/lostruins/koboldcpp
+GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://github.com")
 
 ## Übersicht ##
 
