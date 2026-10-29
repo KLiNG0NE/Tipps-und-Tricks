@@ -129,7 +129,7 @@ Ich höre Tiefen**Bass**Sound.
 
 ###### Markdown
 
-```
+```md
 Dieser Link führt zur [Übersicht](#übersicht).
 ```
 
@@ -145,7 +145,7 @@ Dieser Link führt zur [Übersicht](#übersicht).
 
 ###### Markdown
 
-```
+```md
 Dieser Link führt zur Übersicht der [Tipps-und-Tricks](../README.md).
 ```
 
@@ -161,7 +161,7 @@ Dieser Link führt zur Übersicht der [Tipps-und-Tricks](../README.md).
 
 ###### Markdown
 
-```
+```md
 Dieser Link führt zur externen Website [example.com](https://example.com/).
 ```
 
@@ -201,7 +201,7 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 ###### Markdown
 
-```
+```md
 ![Beispielbild](img/beispieldatei.png)
 ```
 
@@ -217,7 +217,7 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 ###### Markdown
 
-```
+```md
 ![Beispieldatei](https://placehold.co/128?text=Beispieldatei)
 
 ```
