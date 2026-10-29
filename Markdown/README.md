@@ -197,6 +197,8 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 - Bilder werden ähnlich wie Links jedoch mit Ausrufezeichen ``!`` davor erstellt.
 
+### Projektinterne Bilddateien
+
 ###### Markdown
 
 ```
@@ -206,6 +208,23 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 ###### Ergebnis
 
 ![Beispielbild](img/beispieldatei.png)
+
+---
+
+### Externe Bilder
+
+- Externe Bilder werden mit kompletter URL angegeben.
+
+###### Markdown
+
+```
+![Beispieldatei](https://placehold.co/128?text=Beispieldatei)
+
+```
+
+###### Ergebnis
+
+![Beispieldatei](https://placehold.co/128?text=Beispieldatei)
 
 ## Tabellen ##
 
