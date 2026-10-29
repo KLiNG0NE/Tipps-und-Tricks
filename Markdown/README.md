@@ -171,6 +171,28 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 ---
 
+#### Link-Listen
+
+- Um die Übersichtlichkeit zu erhöhen können Link-Listen erstellt werden
+
+###### Markdown
+
+```md
+[example.com][1]  
+[www.example.com][2]
+
+[1]: <https://example.com/> "https://example.com"
+[1]: <https://www.example.com/> "https://www.example.com"
+```
+
+###### Ergebnis
+
+[example.com][1]  
+[www.example.com][2]
+
+[1]: <https://example.com/> "https://example.com"
+[1]: <https://www.example.com/> "https://www.example.com"
+
 ## Bilder
 
 - Bilder werden ähnlich wie Links jedoch mit Ausrufezeichen ``!`` davor erstellt.
