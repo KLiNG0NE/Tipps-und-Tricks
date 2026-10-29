@@ -3,7 +3,7 @@
 *Markdown* ist eine leichte Auszeichnungssprache (Markup-Sprache), die 2004 von John Gruber (zusammen mit Aaron Swartz) entwickelt wurde. Sie erlaubt es, Texte mit einer sehr einfachen, gut lesbaren Syntax zu formatieren – direkt im Klartext, ohne spezielle Software.
 
 Die Grundidee  
-Markdown-Dateien sind normale Textdateien (``.md``), die auch ohne Konvertierung gut lesbar bleiben. Ein Programm (Parser) kann sie später in HTML, PDF oder andere Formate umwandeln.
+Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung gut lesbar bleiben. Ein Programm (Parser) kann sie später in HTML, PDF oder andere Formate umwandeln.
 
 ## Übersicht
 
