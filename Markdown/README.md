@@ -178,12 +178,12 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 ###### Markdown
 
 ```
-![Beispielbild](img/beispielbild.png)
+![Beispielbild](img/beispieldatei.png)
 ```
 
 ###### Ergebnis
 
-![Beispielbild](img/beispielbild.png)
+![Beispielbild](img/beispieldatei.png)
 
 ## Tabellen ##
 
