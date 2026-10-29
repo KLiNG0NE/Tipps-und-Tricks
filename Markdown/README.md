@@ -13,6 +13,7 @@ Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung g
   - [Fettdruck](#fettdruck)
   - [Zitate](#zitate)
   - [Links](#links)
+- [Bilder](#bilder)
 - [Tabellen](#tabellen)
   - [Grundaufbau](#grundaufbau)
   - [Textausrichtung](#textausrichtung)
@@ -167,6 +168,22 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 ###### Ergebnis
 
 Dieser Link führt zur externen Website [example.com](https://example.com/).
+
+---
+
+## Bilder
+
+- Bilder werden ähnlich wie Links jedoch mit Ausrufezeichen ``!`` davor erstellt.
+
+###### Markdown
+
+```
+![Beispielbild](img/beispielbild.png)
+```
+
+###### Ergebnis
+
+![Beispielbild](img/beispielbild.png)
 
 ## Tabellen ##
 
