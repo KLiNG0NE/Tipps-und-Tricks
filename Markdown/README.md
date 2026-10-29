@@ -16,8 +16,8 @@ Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung g
 - [Tabellen](#tabellen)
   - [Grundaufbau](#grundaufbau)
   - [Textausrichtung](#textausrichtung)
-- Freeware
-  - Desktop-Editor 
+- [Freeware](#freeware)
+  - [Desktop-Editoren](#desktop-editoren)
 
 ## Text ##
 
@@ -186,7 +186,7 @@ linksbündig|zentriert|rechtsbündig
 
 ## Freeware
 
-### Desktop-Editor 
+### Desktop-Editoren
 
 | Name    | Website                             | Hinweise      |
 |:--------|:-----------------------------------:|---------------|
