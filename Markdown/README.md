@@ -118,7 +118,13 @@ Ich höre Tiefen**Bass**Sound.
 
 ### Links ###
 
-Der Link-Text wird von eckigen Klammern umschlossen, die Website-Adresse von runden Klammern.
+- Der Link-Text wird von eckigen Klammern umschlossen, die Website-Adresse von runden Klammern.
+
+---
+
+#### Links innerhalb eines Dokuments
+
+- Überschriften können als interne Link-Ziele genutzt werden. Der Text der Überschrift wird mit dem Rautezeichen ``#`` davor als Adresse angegeben.
 
 ###### Markdown
 
@@ -126,9 +132,41 @@ Der Link-Text wird von eckigen Klammern umschlossen, die Website-Adresse von run
 Dieser Link führt zur [Übersicht](#übersicht).
 ```
 
-###### Ergebnis 
+###### Ergebnis
 
 Dieser Link führt zur [Übersicht](#übersicht).
+
+---
+
+#### Links innerhalb eines Projektes
+
+- innerhalb eines Projektes können Dateien als Links angegeben werden.
+
+###### Markdown
+
+```
+Dieser Link führt zur Übersicht der [Tipps-und-Tricks](../README.md).
+```
+
+###### Ergebnis
+
+Dieser Link führt zur Übersicht der [Tipps-und-Tricks](../README.md).
+
+---
+
+#### Externe Links
+
+- Bei externen Links wird die Webadresse innerhalb der runden Klammer angegeben.
+
+###### Markdown
+
+```
+Dieser Link führt zur externen Website [example.com](https://example.com/).
+```
+
+###### Ergebnis
+
+Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 ## Tabellen ##
 
