@@ -16,6 +16,8 @@ Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung g
 - [Tabellen](#tabellen)
   - [Grundaufbau](#grundaufbau)
   - [Textausrichtung](#textausrichtung)
+- Freeware
+  - Desktop-Editor 
 
 ## Text ##
 
@@ -158,6 +160,8 @@ Wert A|Wert B
 ---|---
 Wert A|Wert B
 
+---
+
 ### Textausrichtung ###
 
 Mit Doppelpunkten ``:`` in der zweiten Tabellen-Zeile, wird die Textausrichtung der darunterliegenden Spalten angegeben.
@@ -179,6 +183,19 @@ linksbündig|zentriert|rechtsbündig
 Überschrift Spalte 1|Überschrift Spalte 2|Überschrift Spalte 3
 :---|:---:|---:
 linksbündig|zentriert|rechtsbündig
+
+## Freeware
+
+### Desktop-Editor 
+
+| Name    | Website                             | Hinweise      |
+|:--------|:-----------------------------------:|---------------|
+| Markpad | [markpad.dev](https://markpad.dev/) | Win, Mac, Lin |
+
+
+
+
+
 
 
 
