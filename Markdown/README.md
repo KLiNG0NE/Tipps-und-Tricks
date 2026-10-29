@@ -179,19 +179,19 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 
 ```md
 [example.com][1]  
-[www.example.com][2]
+[example.net][2]
 
 [1]: <https://example.com/> "https://example.com"
-[1]: <https://www.example.com/> "https://www.example.com"
+[2]: <https://example.net/> "https://example.net"
 ```
 
 ###### Ergebnis
 
 [example.com][1]  
-[www.example.com][2]
+[example.net][2]
 
 [1]: <https://example.com/> "https://example.com"
-[1]: <https://www.example.com/> "https://www.example.com"
+[2]: <https://example.net/> "https://example.net"
 
 ## Bilder
 
