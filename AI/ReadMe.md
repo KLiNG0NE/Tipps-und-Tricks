@@ -67,7 +67,7 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 ## Agents/Harness ##
 
 - [DeepSeek Harness](https://deepseek.com/harness/en/)
-- [OpenCode](https://opencode.ai/)
+- [OpenCode](https://opencode.ai/de)
 - [Cline](https://cline.bot/)
 - [smolcoder](https://smolcoder.dev/)
 
