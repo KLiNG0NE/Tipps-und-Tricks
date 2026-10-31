@@ -1,4 +1,4 @@
-[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / Markdown
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Markdown](https://github.com/KLiNG0NE/Tipps-und-Tricks/tree/main/Markdown)
 
 # Markdown #
 
@@ -310,4 +310,4 @@ linksbündig|zentriert|rechtsbündig
 
 
 
-KLiNG0NE / Tipps-und-Tricks / Markdown
+[KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Markdown](https://github.com/KLiNG0NE/Tipps-und-Tricks/tree/main/Markdown)
