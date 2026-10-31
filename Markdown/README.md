@@ -15,6 +15,7 @@ Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung g
   - [Überschriften](#überschriften)
   - [Kursiv-Schrift](#kursiv-schrift)
   - [Fettdruck](#fettdruck)
+  - [Fett-und-kursiv](#fett-und-kursiv)
   - [Zitate](#zitate)
   - [Links](#links)
   - [Code](#code)
@@ -103,6 +104,27 @@ Ich höre Tiefen**Bass**Sound.
 Ich mag **fett formatieren** Text.  
 Ich mag __fett formatieren__ Text.  
 Ich höre Tiefen**Bass**Sound.
+
+---
+
+### Fett-und-kursiv ###
+
+- Um Text fett und kursiv zu formatieren, werden vor und nach einem Wort oder einer Wortgruppe drei ``***`` Sternchen oder Unterstriche ``___`` eingefügt.
+- Um die Mitte eines Wortes zur Hervorhebung fett zu formatieren, werden zwei Sternchen ohne Leerzeichen um die Buchstaben herum eingefügt.
+
+###### Markdown:
+
+```md
+Ich mag ***fett und kursiv*** formatieren Text.  
+Ich mag ___fett und kursiv___ formatieren Text.  
+Ich höre Tiefen***Bass***Sound.
+```
+
+###### Ergebnis:
+
+Ich mag ***fett und kursiv*** formatieren Text.  
+Ich mag ___fett und kursiv___ formatieren Text.  
+Ich höre Tiefen***Bass***Sound.
 
 ---
 
