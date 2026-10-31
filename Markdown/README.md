@@ -2,6 +2,8 @@
 
 # Markdown #
 
+![Logo](img/markdown-128.png)
+
 *Markdown* ist eine leichte Auszeichnungssprache (Markup-Sprache), die 2004 von John Gruber (zusammen mit Aaron Swartz) entwickelt wurde. Sie erlaubt es, Texte mit einer sehr einfachen, gut lesbaren Syntax zu formatieren – direkt im Klartext, ohne spezielle Software.
 
 Die Grundidee  
