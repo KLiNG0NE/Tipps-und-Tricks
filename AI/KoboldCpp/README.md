@@ -42,7 +42,7 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
 Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basiert auf [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp/tree/master).
 
-### MMOSS-Image ###
+### MOSS-Image ###
 
 - Website: [openmoss.ai](https://openmoss.ai/MOSS-Image/)
 
