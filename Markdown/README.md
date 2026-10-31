@@ -15,6 +15,7 @@ Markdown-Dateien sind normale Textdateien ``.md``, die auch ohne Konvertierung g
   - [Fettdruck](#fettdruck)
   - [Zitate](#zitate)
   - [Links](#links)
+  - [Code](#code)
 - [Bilder](#bilder)
 - [Tabellen](#tabellen)
   - [Grundaufbau](#grundaufbau)
@@ -195,6 +196,49 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 [1]: <https://example.com/> "https://example.com"
 [2]: <https://example.net/> "https://example.net"
 
+---
+
+### Code
+
+- Code wie z. B. in Programmiersprachen, wird in Markdown mit ``proportionaler`` Schrift dargestellt.
+- Das Zeichen Gravis `` \` `` wird auch *Grave-Akzent* oder *Backtick* genannt.
+
+#### Innerhalb des Fließtextes
+
+- Innerhalb von Texten wird Code mit zwei Gravis `` \`\` `` hervorgehoben.
+
+###### Markdown
+
+```md
+Tippe ``RUN`` ein, um das Program zu starten.
+```
+
+###### Ergebnis
+
+Tippe ``RUN`` ein, um das Program zu starten.
+
+---
+
+#### Codeblöcke
+
+- Codeblöcke werden von drei Gravis `` ``` `` umschlossen.
+
+###### Markdown
+
+    ```
+    10 FOR i = 1 TO 10
+    20 PRINT i
+    30 GOTO 10
+    ```
+
+###### Ergebnis
+
+```
+10 FOR i = 1 TO 10
+20 PRINT i
+30 GOTO 10
+```
+
 ## Bilder
 
 - Bilder werden ähnlich wie Links jedoch mit Ausrufezeichen ``!`` davor erstellt.
@@ -289,13 +333,6 @@ linksbündig|zentriert|rechtsbündig
 | Name    | Website                             | Hinweise      |
 |:--------|:-----------------------------------:|---------------|
 | Markpad | [markpad.dev](https://markpad.dev/) | Win, Mac, Lin |
-
-
-
-
-
-
-
 
 
 
