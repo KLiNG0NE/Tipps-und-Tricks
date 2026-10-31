@@ -201,11 +201,11 @@ Dieser Link führt zur externen Website [example.com](https://example.com/).
 ### Code
 
 - Code wie z. B. in Programmiersprachen, wird in Markdown mit ``proportionaler`` Schrift dargestellt.
-- Das Zeichen Gravis `` \` `` wird auch *Grave-Akzent* oder *Backtick* genannt.
+- Das Zeichen Gravis `` ` `` wird auch *Grave-Akzent* oder *Backtick* genannt.
 
 #### Innerhalb des Fließtextes
 
-- Innerhalb von Texten wird Code mit zwei Gravis `` \`\` `` hervorgehoben.
+- Innerhalb von Texten wird Code mit zwei Gravis `` hervorgehoben.
 
 ###### Markdown
 
@@ -234,6 +234,26 @@ Tippe ``RUN`` ein, um das Program zu starten.
 ###### Ergebnis
 
 ```
+10 FOR i = 1 TO 10
+20 PRINT i
+30 GOTO 10
+```
+
+#### Code-Highlighting
+
+Durch Angabe des Formats nach den ersten drei Gravis wird bei best. Render-Programmen das Syntax-Highlighting aktiviert.
+
+###### Markdown
+
+    ```basic
+    10 FOR i = 1 TO 10
+    20 PRINT i
+    30 GOTO 10
+    ```
+
+###### Ergebnis
+
+```basic
 10 FOR i = 1 TO 10
 20 PRINT i
 30 GOTO 10
