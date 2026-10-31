@@ -109,7 +109,7 @@ Ich höre Tiefen**Bass**Sound.
 
 ### Fett-und-kursiv ###
 
-- Um Text fett und kursiv zu formatieren, werden vor und nach einem Wort oder einer Wortgruppe drei ``***`` Sternchen oder Unterstriche ``___`` eingefügt.
+- Um Text fett und kursiv zu formatieren, werden vor und nach einem Wort oder einer Wortgruppe drei Sternche ``***``n oder Unterstriche ``___`` eingefügt.
 - Um die Mitte eines Wortes zur Hervorhebung fett zu formatieren, werden zwei Sternchen ohne Leerzeichen um die Buchstaben herum eingefügt.
 
 ###### Markdown:
