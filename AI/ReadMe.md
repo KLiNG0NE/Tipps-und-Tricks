@@ -61,6 +61,8 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
   Sprachsynthese bzw. Text-to-Speech (TTS), Voice cloning, Diktate, Storyline, MCP, API
 * [KoboldCpp](https://github.com/LostRuins/koboldcpp/)  
   Engine, um GGML- und GGUF-Models zu betreiben, viele Features.
+* [Unsloth](https://unsloth.ai/)  
+  LLMs, Diffusionsmodelle für Bilder und Videos, MLX-, GGUF- und Audiomodelle ausführen, trainieren und bereitstellen.
   
 ---
 
