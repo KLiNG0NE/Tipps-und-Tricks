@@ -22,6 +22,7 @@ Hier sind verschiedene Tipps und Tricks zu verschiedenen Themen auffindbar. –
 | 🎞️  | [KODI](KODI)                                 |
 |  🐧 | [Linux](Linux)                               |
 | 📺  | [Live-TV am PC](Live-TV-am-PC)               |
+| 📄  | [Markdown](Markdown)                         |
 | 🖥️  | [Proxmox](Proxmox)                           |
 | 🛡️  | [VPN](VPN)                                   |
 |  🪟 | [Windows](Windows)                           |
