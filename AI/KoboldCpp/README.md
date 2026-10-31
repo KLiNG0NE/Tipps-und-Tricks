@@ -42,15 +42,19 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
 Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basiert auf [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp/tree/master).
 
-### MOSS Image ###
+### MMOSS-Image ###
 
-Seit Version 1.124.1 wird **MOSS Image** unterstützt. Eine Beispielkonfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt)
+- Website: [openmoss.ai](https://openmoss.ai/MOSS-Image/)
 
-![Screenshot](img/Image-Gen-MOSS-Image.png "Beispiel-Konfiguration: MOSS Image")
+Seit Version 1.124.1 wird **MOSS-Image** unterstützt. Eine Beispielkonfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt)
+
+![Screenshot](img/Image-Gen-MOSS-Image.png "Beispiel-Konfiguration: MOSS-Image")
 
 ---
 
 ### Qwen Image 2.1 ###
+
+- Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
 
 Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispielkonfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt)
 
