@@ -46,7 +46,7 @@ Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basier
 
 - Website: [openmoss.ai](https://openmoss.ai/MOSS-Image/)
 
-Seit Version 1.124.1 wird **MOSS-Image** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co/")
+Seit Version 1.124 wird **MOSS-Image** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co/")
 
 ![Screenshot](img/Image-Gen-MOSS-Image.png "Beispiel-Konfiguration: MOSS-Image")
 
