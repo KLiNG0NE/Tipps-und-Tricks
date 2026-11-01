@@ -52,6 +52,10 @@ Seit Version 1.124 wird **MOSS-Image** unterstützt. Eine Beispiel-Konfiguration
 
 *Beispiel-Konfiguration mit optionalem Upscaler.*
 
+Es existieren zwei Versionen: Base und SFT (Supervised Fine-Tuned). Das Base-Modell dient als Grundlage für eigenes Training (wie LoRAs oder Fine-Tuning). Das SFT-Modell kann direkt zum Generieren von Bildern aus Prompts genutzt werden.
+
+Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesisch), verarbeiten Tags und unterstützen experimentelle JSON-Layouts, um Text und Objekte gezielt im Bild zu platzieren.
+
 ---
 
 ### Qwen Image 2.1 ###
