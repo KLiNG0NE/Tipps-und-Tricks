@@ -1,5 +1,5 @@
 
-## Begriffe-Abkürzungen
+## Begriffe und Abkürzungen
 
 
 - **AI** – Artificial intelligence (engl.)  
