@@ -4,6 +4,8 @@
 
 - **AI** – Artificial intelligence (engl.)  
   Künstliche Intelligenz (KI)
+- **LLM** – Large Language Model (engl.)  
+  Großes Sprachmodell; die Software-Umsetzung eines mathematischen Sprachmodells, dessen Hauptstärke im Erstellen von Texten liegt.
 - **LoRA** – Low-Rank Adaptation (engl.)  
   Methode zur effizienten Feinabstimmung maschineller Lernmodelle. (Fine-Tuning)
 - **Prompt** (engl.) – (zu deutsch u. a. Anweisung)  
