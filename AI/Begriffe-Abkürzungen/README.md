@@ -6,6 +6,8 @@
   Künstliche Intelligenz (KI)
 - **DiT** – Diffusion Transformer (engl.)  
   Architektur, die Diffusionsmodelle mit Transformer-Netzwerken kombiniert
+- **Inferenz** –  
+  KI-Inferenz bedeutet, dass ein trainiertes Modell die aus seinen Trainingsdaten gelernten Muster anwendet, um die korrekte Ausgabe für eine gegebene Eingabe abzuleiten.
 - **LLM** – Large Language Model (engl.)  
   Großes Sprachmodell; die Software-Umsetzung eines mathematischen Sprachmodells, dessen Hauptstärke im Erstellen von Texten liegt
 - **LoRA** – Low-Rank Adaptation (engl.)  
