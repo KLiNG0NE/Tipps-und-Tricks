@@ -16,5 +16,3 @@
   Startwert für einen Pseudozufallszahlenalgorithmus
 - **VAE** – Variational Autoencoder (engl.)  
   Variational Autoencoder können neue Daten erzeugen, weil sie nicht starr Daten auswendig lernen, sondern verstehen, nach welchen statistischen Wahrscheinlichkeiten diese aufgebaut sind.
-
-DiT steht für „Diffusion Transformer
