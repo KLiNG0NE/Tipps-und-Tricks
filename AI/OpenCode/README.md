@@ -10,7 +10,7 @@
 
 ### Syntax
 
-```
+```shell
 DESCRIPTION
   OpenCode command line interface
 
