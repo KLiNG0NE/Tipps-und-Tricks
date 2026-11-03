@@ -1,7 +1,8 @@
 
 ## OpenCode
 
-**OpenCode** ist ein kostenloses Open-Source-Programm, das KI beim Programmieren nutzt – man kann es sich wie einen „KI-Programmierkollegen" vorstellen, der direkt im Terminal (bzw. der Eingabeaufforderung) arbeitet. Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
+**OpenCode** ist ein kostenloses Open-Source-Programm, das KI beim Programmieren nutzt – man kann es sich wie einen „KI-Programmierkollegen" vorstellen, der direkt im Terminal (bzw. der Eingabeaufforderung) arbeitet.  
+Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
 
 - Website: [opencode.ai](https://opencode.ai/ "https://opencode.ai")
 - GitHub: [github.com/anomalyco](https://github.com/anomalyco/opencode "https://github.com")
