@@ -47,19 +47,21 @@ Läuft die KI auf dem Laptop, entleert sich der Akku sehr schnell, und das Gerä
 
 Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI zu finden.
 
-* [LM Studio](https://github.com/lmstudio-ai)  
-  Einfache Möglichkeit einen Chat-Bot lokal zu betreiben.
+* [LM Studio](https://lmstudio.ai/download)  
+  LLMs auf dem Computer ausprobieren. Chat-Oberfläche und programmierbare API.
+* [LM Studio Bionic](https://lmstudio.ai/download)  
+  Ein Agent, der für offene Modelle entwickelt wurde. Von Grund auf lokal. Entwickelt für Kreativität, Arbeit und Programmierung.
 * [Stability Matrix](https://github.com/LykosAI/StabilityMatrix)  
   Oberfläche zum Installieren verschiedener Bildgeneratoren.
 * [Pinokio](https://pinokio.computer/)  
   Mit dieser Oberfläche können verschiedene AI-Systeme sehr einfach installiert werden.
 * [AnythingLLM](https://anythingllm.com/)  
-  Lokaler Agent
-* [FreeToken](https://github.com/FlashML-org/FreeToken)  
+  Ein privater KI-Assistent, der vollständig auf dem eigenen Computer läuft. Keine Konten, keine API-Schlüssel, keine Token-Beschränkungen.
+* [FreeToken](https://www.flashml.ai/)  
   Schnelle Engine für größere Models
 * [Voicebox](https://voicebox.sh/)  
   Sprachsynthese bzw. Text-to-Speech (TTS), Voice cloning, Diktate, Storyline, MCP, API
-* [KoboldCpp](https://github.com/LostRuins/koboldcpp/)  
+* [KoboldCpp](https://koboldcpp.net/)  
   Engine, um GGML- und GGUF-Models zu betreiben, viele Features.
 * [Unsloth](https://unsloth.ai/)  
   LLMs, Diffusionsmodelle für Bilder und Videos, MLX-, GGUF- und Audiomodelle ausführen, trainieren und bereitstellen.
