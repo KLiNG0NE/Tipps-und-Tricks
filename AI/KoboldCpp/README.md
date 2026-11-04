@@ -17,7 +17,7 @@ GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://g
 
 ### KoboldCpp: Lokale KI-Modelle mit integrierter Web-Benutzeroberfläche ausführen ###
 
-_KoboldCpp_ ist eine kostenlose Open-Source-Software, mit der Sie große Sprachmodelle (LLMs) von GGUF auf Ihrem eigenen Computer ausführen können. Chatten Sie mit einem KI-Assistenten, schreiben Sie Geschichten, spielen Sie Rollenspiele oder verbinden Sie andere Apps mit einer lokalen API. KoboldCpp läuft auf CPU oder GPU und umfasst zudem die Generierung von Text, Bildern, Videos, Sprache und Musik mit kompatiblen Modellen, einen integrierten Agenten, eine mitgelieferte _KoboldAI Lite_-Web-UI sowie viele weitere leistungsstarke Funktionen.
+_KoboldCpp_ ist eine kostenlose Open-Source-Software, mit der große Sprachmodelle (LLMs) von GGUF auf dem eigenen Computer ausgeführt werden können. Mit einem KI-Assistenten chatten, Geschichten schreiben, Rollenspiele spielen oder andere Apps mit einer lokalen API verbinden. KoboldCpp läuft auf CPU oder GPU und umfasst zudem die Generierung von Text, Bildern, Videos, Sprache und Musik mit kompatiblen Modellen, einen integrierten Agenten, eine mitgelieferte _KoboldAI Lite_-Web-UI sowie viele weitere leistungsstarke Funktionen.
 
 Inspiriert von **KoboldAI** und basierend auf **llama.cpp**
 
