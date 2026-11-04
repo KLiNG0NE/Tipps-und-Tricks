@@ -67,8 +67,17 @@ Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App h
 opencode pair
 ```
 
+### Den Hintergrundserver beenden
 
+```
+opencode service stop
+```
 
+### Status des Servers anzeigen
+
+```
+opencode service stat
+```
 
 
 
