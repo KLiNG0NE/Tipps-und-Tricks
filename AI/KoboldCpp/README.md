@@ -11,7 +11,7 @@ GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://g
 - [Benutzeroberflächen](##benutzeroberfl%C3%A4chen-web-gui)
 - [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
   - [MOSS-Image](#moss-image)
-  - [Qwen Image 2.1](qwen-image-21)
+  - [Qwen Image 2.1](#qwen-image-21)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
 - [Videogenerierung](#videogenerierung) – Text-zu-Video
 
