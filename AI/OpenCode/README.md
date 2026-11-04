@@ -6,6 +6,8 @@
 
 ---
 
+![Logo](opencode.png)
+
 **OpenCode** ist ein kostenloses Open-Source-Programm, das KI beim Programmieren nutzt – man kann es sich wie einen „KI-Programmierkollegen" vorstellen, der direkt im Terminal (bzw. der Eingabeaufforderung) arbeitet.  
 Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
 
