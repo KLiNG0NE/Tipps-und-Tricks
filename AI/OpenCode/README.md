@@ -1,15 +1,50 @@
 
 ## OpenCode
 
-**OpenCode** ist ein kostenloses Open-Source-Programm, das KI beim Programmieren nutzt – man kann es sich wie einen „KI-Programmierkollegen" vorstellen, der direkt im Terminal (bzw. der Eingabeaufforderung) arbeitet.  
-Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
-
 - Website: [opencode.ai](https://opencode.ai/ "https://opencode.ai")
 - GitHub: [github.com/anomalyco](https://github.com/anomalyco/opencode "https://github.com")
 
+---
+
+**OpenCode** ist ein kostenloses Open-Source-Programm, das KI beim Programmieren nutzt – man kann es sich wie einen „KI-Programmierkollegen" vorstellen, der direkt im Terminal (bzw. der Eingabeaufforderung) arbeitet.  
+Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
+
+---
+
 ### Übersicht
 
+- [Browser-Oberfläche starten](#browser-oberfläche-starten)
+- [Status des Servers anzeigen](#status-des-servers-anzeigen)
+- [Hintergrund-Server beenden](#hintergrund-server-beenden)
 - [Syntax](#syntax)
+
+---
+
+### Browser-Oberfläche starten
+
+Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App herzustellen
+
+```
+opencode pair
+```
+
+---
+
+### Status des Servers anzeigen
+
+```
+opencode service stat
+```
+
+---
+
+### Hintergrund-Server beenden
+
+```
+opencode service stop
+```
+
+---
 
 ### Syntax
 
@@ -59,25 +94,10 @@ SUBCOMMANDS
   serve              Start the v2 API and web server
 ```
 
-### Browser-Oberfläche starten
+---
 
-Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App herzustellen
 
-```
-opencode pair
-```
 
-### Den Hintergrundserver beenden
-
-```
-opencode service stop
-```
-
-### Status des Servers anzeigen
-
-```
-opencode service stat
-```
 
 
 
