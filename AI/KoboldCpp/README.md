@@ -27,7 +27,7 @@ Eine einzige ausführbare Datei, keine Installation erforderlich. Sofort einsatz
 
 ---
 
-## Benutzeroberflächen (Web-GUI) ##
+## Benutzeroberflächen (Web-UI) ##
 
 Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 
@@ -43,6 +43,18 @@ Hier ist der Standardport ``5001`` angegeben. Ggf. anpassen.
 ## Bildgenerierung ##
 
 Mit _KoboldCpp_ können Bilder generiert werden. – Die Bildgenerierung basiert auf [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp/tree/master).
+
+### Stable UI
+
+Die Benutzeroberfläche zur Bildgenerierung wird per Standard über folgende Adresse im Browser aufgerufen:
+
+URI: http://localhost:5001/sdui
+
+![Screenshot Stable UI](img/Screenshot-Stable-UI.png)
+
+*Screenshot der Benutzeroberfläche Stable UI*
+
+---
 
 ### MOSS-Image ###
 
