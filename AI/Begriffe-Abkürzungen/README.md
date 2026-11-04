@@ -18,7 +18,21 @@
   Offener Standard, der dafür sorgt, dass Sprachmodelle auf einheitliche Weise auf externe Tools, Daten und Dienste zugreifen können
 - **Prompt** (engl.) – (zu deutsch u. a. Anweisung)  
   Der Prompt fungiert bei generativen KI-Modellen als zentrale Handlungsaufforderung, die festlegt, was das Modell erstellen soll.
+- **Quantisierung** –  
+  Bei KI-Modellen werden die Zahlenwerte des Modells, vor allem seine Gewichte und teils die Aktivierungen, mit weniger Bits gespeichert und gerechnet.
 - **Seed** (engl.) – (zu deutsch Saat oder [pflanzlicher] Samen)  
   Startwert für einen Pseudozufallszahlenalgorithmus
 - **VAE** – Variational Autoencoder (engl.)  
   Variational Autoencoder können neue Daten erzeugen, weil sie nicht starr Daten auswendig lernen, sondern verstehen, nach welchen statistischen Wahrscheinlichkeiten diese aufgebaut sind.
+
+
+
+
+
+
+
+
+
+
+
+
