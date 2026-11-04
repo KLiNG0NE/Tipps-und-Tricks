@@ -58,3 +58,32 @@ SUBCOMMANDS
   pair               Print one-time links to connect a browser or app
   serve              Start the v2 API and web server
 ```
+
+### Browser-Oberfläche starten
+
+Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App herzustellen
+
+```
+opencode pair
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
