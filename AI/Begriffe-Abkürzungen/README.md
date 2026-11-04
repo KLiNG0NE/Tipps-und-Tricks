@@ -23,7 +23,7 @@
 - **Seed** (engl.) – (zu deutsch Saat oder [pflanzlicher] Samen)  
   Startwert für einen Pseudozufallszahlenalgorithmus
 - **TTS** – Text to Speach (engl.) (zu deutsch Text-zu-Sprache)  
-  Künstliche Erzeugung der menschlichen Sprechstimme anhand von Text (Sprachsynthese)
+  Künstliche Erzeugung der menschlichen Sprechstimme (Sprachsynthese) anhand von Text
 - **VAE** – Variational Autoencoder (engl.)  
   Variational Autoencoder können neue Daten erzeugen, weil sie nicht starr Daten auswendig lernen, sondern verstehen, nach welchen statistischen Wahrscheinlichkeiten diese aufgebaut sind.
 
