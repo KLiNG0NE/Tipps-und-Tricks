@@ -55,7 +55,7 @@ Chromiumbasierte Browser nutzen die freie Browser-Engine *WebKit*.
 | Ungoogled Chromium | [github.com/ungoogled-software](https://github.com/ungoogled-software/ungoogled-chromium "https://github.com/") (engl.) |                                                                 |
 | Opera              | [www.opera.com](https://www.opera.com/de "https://www.opera.com")                                                       | undurchsichtige Besitzverhältnisse                              |
 | Arc                | [arc.net](https://arc.net/ "https://arc.net") (engl.)                                                                   | Eingestellt (2026-12-22) Tableiste an der Seite         |
-| NAVER Whale        | [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.)                                        | südkoreanischer Anbieter, kein deu. UI, eigener Extension Store |
+| NAVER Whale        | [whale.naver.com](https://whale.naver.com/en/ "https://whale.naver.com") (engl.)                                        | südkoreanischer Anbieter,  eigener Extension Store |
 | Sleipnir           | [www.fenrir-inc.com](https://www.fenrir-inc.com/jp/sleipnir/ "https://www.fenrir-inc.com") (jap.)                       | japanischer Anbieter, UI in deutscher Sprache                 |
 | Helium             | [helium.computer](https://helium.computer/ "https://helium.computer/") (engl.)                                          | Open-Source, inkl. Adblocker                                    |
 
