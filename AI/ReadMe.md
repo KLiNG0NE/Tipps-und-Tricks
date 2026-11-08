@@ -74,6 +74,7 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 - [OpenCode](https://opencode.ai/de)
 - [Cline](https://cline.bot/)
 - [smolcoder](https://smolcoder.dev/)
+- [Pi Coding Agent](https://pi.dev/)
 
 ---
 
