@@ -80,6 +80,8 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 
 ## Models
 
+- [Teuken 7B](https://www.iais.fraunhofer.de/de/branchen-themen/themen/generative-ki/opengpt-x.html)
+
 * https://www.canirun.ai/
 
 ---
