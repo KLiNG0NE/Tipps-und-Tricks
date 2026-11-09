@@ -80,7 +80,8 @@ Es können auch weitere ``AGENTS.md`` in Unterverzeichnissen abgelegt werden (z.
 - Mit der Umgebungsvariable ``OPENCODE_CONFIG_DIR`` kann das Config-Verzeichnis umgelenkt werden; mit ``OPENCODE_DISABLE_PROJECT_CONFIG=1`` werden die projektbezogenen Dateien deaktiviert.
 - Zum Prüfen, was geladen wird: ``opencode debug config`` im Projektordner ausführen.
 
-Falls die Datei nicht erkannt wird: Prüfen, dass sie wirklich im Ordner liegt, aus dem heraus OpenCode gestartet wird, und dass sie nicht versehentlich ``AGENTS.md.txt`` heißt (passiert bei Windows schnell, wenn die Dateiendungen ausgeblendet sind).
+Falls die Datei nicht erkannt wird:  
+Prüfen, dass sie wirklich im Ordner liegt, aus dem heraus OpenCode gestartet wird, und dass sie nicht versehentlich ``AGENTS.md.txt`` heißt (passiert bei Windows schnell, wenn die Dateiendungen ausgeblendet sind).
 
 ---
 
