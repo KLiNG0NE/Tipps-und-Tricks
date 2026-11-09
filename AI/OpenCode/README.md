@@ -18,6 +18,7 @@ Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
 - [Browser-Oberfläche starten](#browser-oberfläche-starten)
 - [Status des Servers anzeigen](#status-des-servers-anzeigen)
 - [Hintergrund-Server beenden](#hintergrund-server-beenden)
+- [AGENTS.md](#agentsmd)
 - [Syntax](#syntax)
 
 ---
