@@ -24,7 +24,7 @@ Es existiert zusätzlich eine Desktop-App (Beta) für Windows, macOS und Linux.
 
 ### Browser-Oberfläche starten
 
-Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App herzustellen
+Einmaligen Link anzeigen, um eine Verbindung über einen Browser oder eine App herzustellen. (Gültigkeit 5 Minuten)
 
 ```
 opencode pair
@@ -45,6 +45,41 @@ opencode service stat
 ```
 opencode service stop
 ```
+
+---
+
+### AGENTS.md
+
+Die möglichen Speicherorte
+
+#### 1. Projektbezogen (Standardfall):
+
+```
+C:\Users\<DeinName>\Pfad\zum\Projekt\AGENTS.md
+```
+
+Diese Datei gilt für dieses eine Projekt. Sie sollte ins Repo committet werden, damit alle im Team dieselben Anweisungen haben.
+
+#### 2. Global (für alle Projekte):
+
+```
+C:\Users\<DeinName>\.config\opencode\AGENTS.md
+```
+
+Dort gehören nur Regeln hinein, die überall gelten sollen (z. B. allgemeine Stilvorgaben oder „Antworte auf Deutsch").
+
+#### 3. In Unterordnern (optional):
+
+Es können auch weitere ``AGENTS.md`` in Unterverzeichnissen abgelegt werden (z. B. ``packages\web\AGENTS.md``). OpenCode lädt sie, wenn es in diesem Bereich arbeitet – die spezifischeren Dateien gelten zusätzlich zu denen der übergeordneten Ordner.
+
+#### Wichtig zu wissen:
+- OpenCode 2.0 erkennt nur ``AGENTS.md`` – anders als früher gibt es keinen ``CLAUDE.md``-Fallback mehr. Eine bestehende ``CLAUDE.md`` muss also umbenannt oder der Inhalt übertragen werden.
+- Die Dateien werden kombiniert (nicht überschrieben): zuerst die globale, dann die vom Arbeitsverzeichnis aufwärts bis zum Projektroot.
+- Falls OpenCode unter **WSL** betrieben wird (bei Windows üblich), liegt die globale Datei im Linux-Home: ``~/.config/opencode/AGENTS.md``, also z. B. ``\\wsl$\<Distro>\home\<user>\.config\opencode\AGENTS.md``.
+- Mit der Umgebungsvariable ``OPENCODE_CONFIG_DIR`` kann das Config-Verzeichnis umgelenkt werden; mit ``OPENCODE_DISABLE_PROJECT_CONFIG=1`` werden die projektbezogenen Dateien deaktiviert.
+- Zum Prüfen, was geladen wird: ``opencode debug config`` im Projektordner ausführen.
+
+Falls die Datei nicht erkannt wird: Prüfen, dass sie wirklich im Ordner liegt, aus dem heraus OpenCode gestartet wird, und dass sie nicht versehentlich ``AGENTS.md.txt`` heißt (passiert bei Windows schnell, wenn die Dateiendungen ausgeblendet sind).
 
 ---
 
