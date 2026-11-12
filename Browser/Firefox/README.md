@@ -49,7 +49,7 @@ Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
 ## Erweiterungen
 
-- [Anpassende Tableistenfarbe](https://addons.mozilla.org/de/firefox/addon/adaptive-tab-bar-colour/) (Adaptive Tab Bar Colour)
+- [Anpassende Tableistenfarbe](https://addons.mozilla.org/de/firefox/addon/adaptive-tab-bar-colour/) (Adaptive Tab Bar Colour)  
   Passt die Farben an das Aussehen der betrachteten Website an.
 
 ---
