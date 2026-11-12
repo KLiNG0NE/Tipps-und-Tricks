@@ -12,7 +12,8 @@ GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://g
 - [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
   - [MOSS-Image](#moss-image)
   - [Qwen Image 2.1](#qwen-image-21)
-  - [Z-Image/Z-Image-Turbo](#z-image)
+  - [Z-Image](#z-image)
+  - [Z-Image-Turbo](#z-image-turbo)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
 - [Videogenerierung](#videogenerierung) – Text-zu-Video
 
