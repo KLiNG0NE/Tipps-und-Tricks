@@ -58,7 +58,7 @@ URI: http://localhost:5001/sdui
 
 ### MOSS-Image ###
 
-| Parameter | Wert                                                                                                                | Hinweise     |
+|           |                                                                                                                     | Hinweise     |
 |-----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
 | Website   | [openmoss.ai](https://openmoss.ai/MOSS-Image/)                                                                      | China        |
 | GitHub    | [github.com/OpenMOSS](https://github.com/OpenMOSS/MOSS-Image "https://github.com")                                  |              |
