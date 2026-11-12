@@ -12,6 +12,7 @@ GitHub: [github.com/lostruins](https://github.com/lostruins/koboldcpp "https://g
 - [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
   - [MOSS-Image](#moss-image)
   - [Qwen Image 2.1](#qwen-image-21)
+  - [Z-Image/Z-Image-Turbo](#z-image)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
 - [Videogenerierung](#videogenerierung) – Text-zu-Video
 
@@ -118,6 +119,36 @@ _Qwen Image 2.1_ unterstützt transparente Bilder. – Hier ein Beispiel-Prompt
 ```
 This is an RGBA image with transparency. <your description>. The image has alpha channel and the background is transparent.
 ```
+
+### Z-Image
+
+|                       |                                                                                                                     | Hinweise     |
+|-----------------------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
+| Website Z-Image       | [z-image.net](https://z-image.net/de "https://z-image.net")                                                         | China        |
+| GitHub                | []()                                  |              |
+| Weights               | [Z-Image-GGUF(https://huggingface.co/unsloth/Z-Image-GGUF/tree/main "https://huggingface.co")                       | 2,31–12,3 GB |
+| Template              | []()   | Hugging Face |
+
+## Inference-Parameter
+
+| Parameter | Wert    | Hinweise |
+|-----------|:-------:|----------|
+| Sampler   | Euler   ||
+| Scheduler | default  ||
+| Steps     | 28      | 20–40 |
+| CFG Scale | 1       |    |
+| Auflösung | 1024×1024 | Vielfache von 16  |
+
+---
+
+### Z-Image-Turbo
+
+|          |                                                                                                                     | Hinweise     |
+|----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
+| Website  | [zimageturbo.com](https://zimageturbo.com/de "https://zimageturbo.com")                                             | China        |
+| GitHub   | [github.com/OpenMOSS](https://github.com/OpenMOSS/MOSS-Image "https://github.com")                                  |              |
+| Weights  | [MOSS-Image-SFT-GGUF](https://huggingface.co/leejet/MOSS-Image-SFT-GGUF/tree/main "https://huggingface.co")         | 2,21–5,71 GB |
+| Template | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co")   | Hugging Face |
 
 ---
 
