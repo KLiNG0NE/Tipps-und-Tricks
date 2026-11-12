@@ -81,8 +81,7 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 | Scheduler | Simple  ||
 | Steps     | 28      | 20–40 |
 | CFG Scale | 3       | 3–6   |
-||||
-||||
+| Auflösung | 1024×1024 | Vielfache von 16  |
 
 ---
 
