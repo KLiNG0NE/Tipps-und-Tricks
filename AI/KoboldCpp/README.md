@@ -70,6 +70,17 @@ Es existieren zwei Versionen: Base und SFT (Supervised Fine-Tuned). Das Base-Mod
 
 Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesisch), verarbeiten Tags und unterstützen experimentelle JSON-Layouts, um Text und Objekte gezielt im Bild zu platzieren.
 
+## Inference-Parameter
+
+| Parameter | Wert    | Hinweise |
+|-----------|---------|---|
+| Sampler   | Euler   ||
+| Scheduler | Simple  ||
+| Steps     | 28      | 20–40 |
+| CFG Scale | 3       | 3–6   |
+||||
+||||
+
 ---
 
 ### Qwen Image 2.1 ###
