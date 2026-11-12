@@ -61,7 +61,10 @@ URI: http://localhost:5001/sdui
 | Parameter | Wert                                                                                                                | Hinweise     |
 |-----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
 | Website   | [openmoss.ai](https://openmoss.ai/MOSS-Image/)                                                                      | China        |
-| Template  | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co/")  | Hugging Face |
+| GitHub    | [github.com/OpenMOSS](https://github.com/OpenMOSS/MOSS-Image "https://github.com")                                  |              |
+| Template  | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co")   | Hugging Face |
+
+
 
 Seit Version 1.124 wird **MOSS-Image** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co/")
 
