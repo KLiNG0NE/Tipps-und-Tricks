@@ -122,12 +122,12 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 ### Z-Image
 
-|                       |                                                                                                                     | Hinweise     |
-|-----------------------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
-| Website Z-Image       | [z-image.net](https://z-image.net/de "https://z-image.net")                                                         | China        |
-| GitHub                | []()                                  |              |
-| Weights               | [Z-Image-GGUF](https://huggingface.co/unsloth/Z-Image-GGUF/tree/main "https://huggingface.co")                      | 2,31–12,3 GB |
-| Template              | []()   | Hugging Face |
+|          |                                                                                                                     | Hinweise     |
+|----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
+| Website  | [z-image.net](https://z-image.net/de "https://z-image.net")                                                         | China        |
+| GitHub   | [github.com/Tongyi-MAI](https://github.com/Tongyi-MAI/Z-Image "https://github.com")                                 |              |
+| Weights  | [Z-Image-GGUF](https://huggingface.co/unsloth/Z-Image-GGUF/tree/main "https://huggingface.co")                      | 2,31–12,3 GB |
+| Template | []()   | Hugging Face |
 
 ## Inference-Parameter
 
@@ -146,9 +146,9 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 |          |                                                                                                                     | Hinweise     |
 |----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
 | Website  | [zimageturbo.com](https://zimageturbo.com/de "https://zimageturbo.com")                                             | China        |
-| GitHub   | [github.com/OpenMOSS](https://github.com/OpenMOSS/MOSS-Image "https://github.com")                                  |              |
-| Weights  | [MOSS-Image-SFT-GGUF](https://huggingface.co/leejet/MOSS-Image-SFT-GGUF/tree/main "https://huggingface.co")         | 2,21–5,71 GB |
-| Template | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co")   | Hugging Face |
+| GitHub   | [github.com/Tongyi-MAI](https://github.com/Tongyi-MAI/Z-Image "https://github.com")                                 |              |
+| Weights  | [Z-Image-Turbo-GGUF](https://huggingface.co/leejet/Z-Image-Turbo-GGUF/tree/main "https://huggingface.co")           | 2,59–6,58 GB |
+| Template | []()   | Hugging Face |
 
 ---
 
