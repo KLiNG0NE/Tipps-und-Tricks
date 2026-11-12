@@ -49,10 +49,17 @@ Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
 
 ## Erweiterungen
 
+### Aussehen
+
 - [Anpassende Tableistenfarbe](https://addons.mozilla.org/de/firefox/addon/adaptive-tab-bar-colour/) (Adaptive Tab Bar Colour)  
   Passt die Farben an das Aussehen der betrachteten Website an.
 - [Firefox Color](https://color.firefox.com/)  
   Hiermit lassen sich die Farben und die Benutzeroberfläche (Theme) anpassen.
+
+### Lesezeichenverwaltung
+
+- [Floccus](https://addons.mozilla.org/de/firefox/addon/floccus/)  
+  Synchronisiert Lesezeichen vertraulich zwischen Browsern und Geräten
 
 ---
 
