@@ -10,6 +10,8 @@ Download: [www.firefox.com](https://www.firefox.com/de/download/all/ "https://ww
 
 * [Firefox abhärten (2026)](#firefox-abhärten-2026)
   * about:config
+* Erweiterungen
+
 
 ---
 
@@ -43,9 +45,28 @@ Ggf. muss ein Warnhinweis bestätigt werden. Auf keinen Fall sollten hier unacht
 | toolkit.telemetry.firstShutdownPing.enabled  | false | Ping bei erstem Herunterfahren deaktivieren        |
 | toolkit.telemetry.shutdownPingSender.enabled | false | Ping bei Herunterfahren deaktivieren               |
 
-
 Quelle: https://www.youtube.com/watch?v=G0SBF2HdPqE
+
+## Erweiterungen
+
+- [Anpassende Tableistenfarbe](https://addons.mozilla.org/de/firefox/addon/adaptive-tab-bar-colour/) (Adaptive Tab Bar Colour)
+  Passt die Farben an das Aussehen der betrachteten Website an.
 
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Browser](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/Browser/ReadMe.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
