@@ -130,14 +130,14 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 | Weights  | [Z-Image-GGUF](https://huggingface.co/unsloth/Z-Image-GGUF/tree/main "https://huggingface.co")                      | 2,31–12,3 GB |
 | Template | []()   | Hugging Face |
 
-## Inference-Parameter
+#### Inference-Parameter
 
-| Parameter | Wert    | Hinweise |
-|-----------|:-------:|----------|
-| Sampler   | Euler   ||
-| Scheduler | default  ||
-| Steps     | 28      | 20–40 |
-| CFG Scale | 1       |    |
+| Parameter | Wert      | Hinweise          |
+|-----------|:---------:|-------------------|
+| Sampler   | Euler     |                   |
+| Scheduler | default   |                   |
+| Steps     | 28        | 28~50             |
+| CFG Scale | 1         |                   |
 | Auflösung | 1024×1024 | Vielfache von 16  |
 
 ---
@@ -150,6 +150,16 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 | GitHub   | [github.com/Tongyi-MAI](https://github.com/Tongyi-MAI/Z-Image "https://github.com")                                 |              |
 | Weights  | [Z-Image-Turbo-GGUF](https://huggingface.co/leejet/Z-Image-Turbo-GGUF/tree/main "https://huggingface.co")           | 2,59–6,58 GB |
 | Template | []()   | Hugging Face |
+
+#### Inference-Parameter
+
+| Parameter | Wert      | Hinweise          |
+|-----------|:---------:|-------------------|
+| Sampler   | Euler     |                   |
+| Scheduler | default   |                   |
+| Steps     | 8         |                   |
+| CFG Scale | 1         | fest              |
+| Auflösung | 1024×1024 | Vielfache von 16  |
 
 ---
 
