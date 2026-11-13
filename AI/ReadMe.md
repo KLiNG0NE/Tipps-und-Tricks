@@ -96,7 +96,8 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 - Z.ai: [chat.z.ai](https://chat.z.ai/ "https://chat.z.ai") – Beijing Zhipu Huazhang Technology Co., Ltd. (China)
 - Perplexity AI: [www.perplexity.ai](https://www.perplexity.ai/ "https://www.perplexity.ai") – Perplexity AI, Inc (USA)
 - Quillbot: [quillbot.com](https://quillbot.com/de/ "https://quillbot.com") – Learneo, Inc.(USA)
-- DuckDuckGo AI: [duck.ai](https://duck.ai/) – Duck Duck Go, Inc. (USA)
+- DuckDuckGo AI: [duck.ai](https://duck.ai/ "https://duck.ai") – Duck Duck Go, Inc. (USA); Modelle von OpenAI und Anthropic
+- Claude: [claude.ai](https://claude.ai/ "https://claude.ai") – Anthropic PBC (USA), (Anmeldung erforderlich)
 
 ---
 
