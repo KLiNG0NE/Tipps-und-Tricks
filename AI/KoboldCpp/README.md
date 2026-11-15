@@ -238,6 +238,11 @@ https://huggingface.co/koboldcpp/music
 
 ## Upscaling ##
 
+
+| upscalers-sdcpp-gguf | URL                                                                         |
+|----------------------|-----------------------------------------------------------------------------|
+| Model card           | [huggingface.co/wbruna](https://huggingface.co/wbruna/upscalers-sdcpp-gguf) |
+
 Für KoboldCpp würde ich die **GGUF-Dateien aus diesem Hugging-Face-Repo** nehmen: Sie wurden für `stable-diffusion.cpp` konvertiert, dessen Bildgenerierungs-Backend KoboldCpp verwendet. Das ist verlässlicher als beliebige ESRGAN-`.pth`-Dateien, die teils erst konvertiert werden müssen. <citation src="28,31,32"></citation>
 
 | Modell | Geeignet für | Download |
@@ -251,7 +256,7 @@ Das [gesamte Repo mit Dateiliste und Lizenzhinweisen](https://huggingface.co/wbr
 
 In KoboldCpp kannst du den Pfad im Image-Generation-Tab als Upscaler angeben; per Kommandozeile lautet die Option `--sdupscaler /pfad/zum/upscaler.gguf`. 
 
-
+---
 
 
 
