@@ -156,13 +156,13 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 #### Inference-Parameter
 
-| Parameter | Wert                  | Hinweise                                        |
-|-----------|:---------------------:|-------------------------------------------------|
-| Sampler   | Euler                 |                                                 |
-| Scheduler | default               |                                                 |
-| Steps     | 28 – 50               |                                                 |
-| CFG Scale | 3.0 – 5.0             |                                                 |
-| Auflösung | 512×512 bis 2048×2048 | Gesamtpixelanzahl,\\beliebiges Seitenverhältnis |
+| Parameter | Wert                  | Hinweise                                          |
+|-----------|:---------------------:|---------------------------------------------------|
+| Sampler   | Euler                 |                                                   |
+| Scheduler | default               |                                                   |
+| Steps     | 28 – 50               |                                                   |
+| CFG Scale | 3.0 – 5.0             |                                                   |
+| Auflösung | 512×512 bis 2048×2048 | Gesamtpixelanzahl,<br>beliebiges Seitenverhältnis |
 
 ---
 
