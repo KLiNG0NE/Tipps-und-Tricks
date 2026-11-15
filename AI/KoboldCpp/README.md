@@ -96,6 +96,18 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 
 - Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
 
+#### Inference-Parameter
+
+| Parameter      | Wert      | Hinweise                                          |
+|----------------|:---------:|---------------------------------------------------|
+| Sampler        | Euler     |                                                   |
+| Scheduler      | default   |                                                   |
+| Steps          | 20        |                                                   |
+| CFG Scale      | 6.0       |                                                   |
+| Auflösung      | 1024×1024 |                                                   |
+| Negativ-Prompt |           | leer lassen                                       |
+
+
 Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/")
 
 ![Screenshot](img/Image-Gen-Qwen-Image-2.1.png "Beispiel-Konfiguration: Qwen Image 2.1")
