@@ -70,8 +70,6 @@ URI: http://localhost:5001/sdui
 | Weights   | [MOSS-Image-SFT-GGUF](https://huggingface.co/leejet/MOSS-Image-SFT-GGUF/tree/main "https://huggingface.co")         | 2,21–5,71 GB |
 | Template  | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co")   | Hugging Face |
 
-https://huggingface.co/leejet/MOSS-Image-SFT-GGUF/tree/main
-
 Seit Version 1.124 wird **MOSS-Image** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co/")
 
 ![Screenshot](img/Image-Gen-MOSS-Image.png "Beispiel-Konfiguration: MOSS-Image")
@@ -124,6 +122,8 @@ _Qwen Image 2.1_ unterstützt transparente Bilder. – Hier ein Beispiel-Prompt
 This is an RGBA image with transparency. <your description>. The image has alpha channel and the background is transparent.
 ```
 
+---
+
 ### Z-Image
 
 |          |                                                                                                                     | Hinweise     |
@@ -156,13 +156,13 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 #### Inference-Parameter
 
-| Parameter | Wert      | Hinweise          |
-|-----------|:---------:|-------------------|
-| Sampler   | Euler     |                   |
-| Scheduler | default   |                   |
-| Steps     | 8         |                   |
-| CFG Scale | 1         | fest              |
-| Auflösung | 1024×1024 | Vielfache von 16  |
+| Parameter | Wert                  | Hinweise                                        |
+|-----------|:---------------------:|-------------------------------------------------|
+| Sampler   | Euler                 |                                                 |
+| Scheduler | default               |                                                 |
+| Steps     | 28 – 50               |                                                 |
+| CFG Scale | 3.0 – 5.0             |                                                 |
+| Auflösung | 512×512 bis 2048×2048 | Gesamtpixelanzahl,\\beliebiges Seitenverhältnis |
 
 ---
 
