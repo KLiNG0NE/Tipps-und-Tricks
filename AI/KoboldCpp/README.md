@@ -11,11 +11,11 @@
 
 ## Übersicht ##
 
-- [Benutzeroberflächen](##benutzeroberfl%C3%A4chen-web-gui)
+- [Benutzeroberflächen](##benutzeroberfl%C3%A4chen-web-ui)
 - [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
   - [MOSS-Image](#moss-image)
   - [Qwen Image 2.1](#qwen-image-21)
-  - [Z-Image](#z-image)
+  - [Z-Image (Base)](#z-image-base)
   - [Z-Image-Turbo](#z-image-turbo)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
 - [Videogenerierung](#videogenerierung) – Text-zu-Video
@@ -124,7 +124,7 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 ---
 
-### Z-Image
+### Z-Image (Base)
 
 |          |                                                                                                                     | Hinweise     |
 |----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
@@ -165,6 +165,8 @@ Für Z-Image Base (nicht Turbo) ist Euler + Simple ein guter Startpunkt. In der 
 | Steps     | 8                     | 8 – 9                                             |
 | CFG Scale | 1                     | fest vorgegeben                                   |
 | Auflösung | 512×512 bis 2048×2048 | Gesamtpixelanzahl,<br>beliebiges Seitenverhältnis |
+
+![Screenshot](img/Image-Gen-Z-Image-Turbo.png)
 
 ---
 
