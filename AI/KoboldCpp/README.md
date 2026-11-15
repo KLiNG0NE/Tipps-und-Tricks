@@ -19,6 +19,7 @@
   - [Z-Image-Turbo](#z-image-turbo)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
 - [Videogenerierung](#videogenerierung) – Text-zu-Video
+- [Upscaling](#upscaling)
 
 ---
 
@@ -234,3 +235,36 @@ https://huggingface.co/koboldcpp/music
 ![Musik-Generierung](img/Music-Gen.png)
 
 ---
+
+## Upscaling ##
+
+Für KoboldCpp würde ich die **GGUF-Dateien aus diesem Hugging-Face-Repo** nehmen: Sie wurden für `stable-diffusion.cpp` konvertiert, dessen Bildgenerierungs-Backend KoboldCpp verwendet. Das ist verlässlicher als beliebige ESRGAN-`.pth`-Dateien, die teils erst konvertiert werden müssen. <citation src="28,31,32"></citation>
+
+| Modell | Geeignet für | Download |
+|---|---|---|
+| **RealESRGAN_x4plus** | Allrounder, Fotos und gemischte Motive | [GGUF herunterladen](https://huggingface.co/wbruna/upscalers-sdcpp-gguf/resolve/main/RealESRGAN_x4plus.gguf?download=true) |
+| **RealESRGAN_x4plus_anime_6B** | Anime, Cartoons und Illustrationen | [GGUF herunterladen](https://huggingface.co/wbruna/upscalers-sdcpp-gguf/resolve/main/RealESRGAN_x4plus_anime_6B.gguf?download=true) |
+| **4xLSDIRplusN** | Weitere 4×-Option; vom Backend-Nutzer als funktionierend genannt | [GGUF herunterladen](https://huggingface.co/wbruna/upscalers-sdcpp-gguf/resolve/main/4xLSDIRplusN.gguf?download=true) |
+| **4xUltrasharpV10** | Alternative für einen schärferen Look | [GGUF herunterladen](https://huggingface.co/wbruna/upscalers-sdcpp-gguf/resolve/main/4xUltrasharpV10.gguf?download=true) |
+
+Das [gesamte Repo mit Dateiliste und Lizenzhinweisen](https://huggingface.co/wbruna/upscalers-sdcpp-gguf) enthält weitere Modelle. Die Dateien sind 4×-Upscaler; welches Ergebnis am besten aussieht, hängt vom Motiv ab. <citation src="28"></citation>
+
+In KoboldCpp kannst du den Pfad im Image-Generation-Tab als Upscaler angeben; per Kommandozeile lautet die Option `--sdupscaler /pfad/zum/upscaler.gguf`. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
