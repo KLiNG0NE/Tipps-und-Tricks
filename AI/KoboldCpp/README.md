@@ -138,10 +138,12 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 | Parameter | Wert                  | Hinweise                                          |
 |-----------|:---------------------:|---------------------------------------------------|
 | Sampler   | Euler                 |                                                   |
-| Scheduler | default               |                                                   |
-| Steps     | 28 – 50               |                                                   |
-| CFG Scale | 3.0 – 5.0             |                                                   |
+| Scheduler | Simple                |                                                   |
+| Steps     | 28                    | 28 – 50                                           |
+| CFG Scale | 3.0                   | 3.0 – 5.0                                         |
 | Auflösung | 512×512 bis 2048×2048 | Gesamtpixelanzahl,<br>beliebiges Seitenverhältnis |
+
+Für Z-Image Base (nicht Turbo) ist Euler + Simple ein guter Startpunkt. In der Modell-Community werden außerdem **Beta** und **SGM Uniform** als Scheduler genannt; als Alternative für mehr Details werden **DPM++ SDE + Beta** oder **Euler Ancestral + Beta** empfohlen. Das sind Community-Empfehlungen, keine verbindliche offizielle Vorgabe.
 
 ---
 
