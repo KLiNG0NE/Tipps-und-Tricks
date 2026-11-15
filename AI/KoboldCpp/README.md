@@ -130,7 +130,7 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 |----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
 | Website  | [z-image.net](https://z-image.net/de "https://z-image.net")                                                         | China        |
 | GitHub   | [github.com/Tongyi-MAI](https://github.com/Tongyi-MAI/Z-Image "https://github.com")                                 |              |
-| Weights  | [Z-Image-GGUF](https://huggingface.co/unsloth/Z-Image-GGUF/tree/main "https://huggingface.co")                      | 2,31–12,3 GB |
+| Weights  | [Z-Image-GGUF](https://huggingface.co/unsloth/Z-Image-GGUF "https://huggingface.co")                                | 2,31–12,3 GB |
 | Template | []()   | Hugging Face |
 
 #### Inference-Parameter
