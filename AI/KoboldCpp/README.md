@@ -96,15 +96,20 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 
 ### Qwen Image 2.1 ###
 
+Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt.
+
 |           |                                                                                                                            | Hinweise     |
 |-----------|:--------------------------------------------------------------------------------------------------------------------------:|--------------|
-| Website   | [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)                                                                          |              |
+| Website   | [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1 "https://qwen.ai")                                                        |              |
 | Anbieter  | Qwen Research (Alibaba Cloud)                                                                                              | China        |
-| Lizenz    | [Qwen Research License Agreement](https://github.com/QwenLM/Qwen-Image-2.1/blob/main/LICENSE)                              |              |
+| Parameter | 7 Milliarden                                                                                                               |              |
+| Lizenz    | [Qwen Research License Agreement](https://github.com/QwenLM/Qwen-Image-2.1/blob/main/LICENSE "(https://github.com")        | Open Weight  |
 | Datum     | 2026-09-20                                                                                                                 |              |
 | GitHub    | [github.com/QwenLM](https://github.com/QwenLM/Qwen-Image-2.1 "https://github.com")                                         |              |
 | Weights   | [Qwen-Image-2.1-GGUF](https://huggingface.co/leejet/Qwen-Image-2.1-GGUF/tree/main "https://huggingface.co")                | 2,56–7,69 GB |
 | Template  | [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/") | Hugging Face |
+
+Ein einheitliches Modell zur Text-zu-Bild-Generierung und Bildbearbeitung aus der Qwen-Familie. Mit nur 7 Milliarden Parametern in seiner Komponente zur visuellen Generierung (32 Single-Stream-DiT-Schichten) schafft *Qwen-Image-2.1* ein ausgewogenes Verhältnis zwischen Generierungsqualität, Inferenz-Effizienz und Vielseitigkeit.
 
 #### Inference-Parameter
 
@@ -114,10 +119,10 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 | Scheduler      | default   |                                                   |
 | Steps          | 20        | nativ bis 40                                      |
 | CFG Scale      | 6.0       |                                                   |
-| Auflösung      | 2048×2048 |                                                   |
+| Auflösung      | 2048×2048 | 2K                                                |
 | Negativ-Prompt | –         | leer lassen                                       |
 
-Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/")
+Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/")
 
 Diese _Open Weights_ haben besondere Eigenschaften, welche auf der Website näher vorgestellt werden.
 
