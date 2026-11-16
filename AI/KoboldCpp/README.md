@@ -66,7 +66,8 @@ URI: http://localhost:5001/sdui
 
 |           |                                                                                                                     | Hinweise     |
 |-----------|:-------------------------------------------------------------------------------------------------------------------:|--------------|
-| Website   | [openmoss.ai](https://openmoss.ai/MOSS-Image/)                                                                      | China        |
+| Website   | [openmoss.ai](https://openmoss.ai/MOSS-Image/)                                                                      |              |
+| Anbieter  | OpenMOSS Team                                                                                                       | China        |
 | GitHub    | [github.com/OpenMOSS](https://github.com/OpenMOSS/MOSS-Image "https://github.com")                                  |              |
 | Weights   | [MOSS-Image-SFT-GGUF](https://huggingface.co/leejet/MOSS-Image-SFT-GGUF/tree/main "https://huggingface.co")         | 2,21–5,71 GB |
 | Template  | [Moss-Image.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Moss-Image.kcppt "https://huggingface.co")   | Hugging Face |
@@ -95,7 +96,15 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 
 ### Qwen Image 2.1 ###
 
-- Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
+|           |                                                                                                                            | Hinweise     |
+|-----------|:--------------------------------------------------------------------------------------------------------------------------:|--------------|
+| Website   | [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)                                                                          |              |
+| Anbieter  | Qwen Research (Alibaba Cloud)                                                                                              | China        |
+| Lizenz    | [Qwen Research License Agreement](https://github.com/QwenLM/Qwen-Image-2.1/blob/main/LICENSE)                              |              |
+| Datum     | 2026-09-20                                                                                                                 |              |
+| GitHub    | [github.com/QwenLM](https://github.com/QwenLM/Qwen-Image-2.1 "https://github.com")                                         |              |
+| Weights   | [Qwen-Image-2.1-GGUF](https://huggingface.co/leejet/Qwen-Image-2.1-GGUF/tree/main "https://huggingface.co")                | 2,56–7,69 GB |
+| Template  | [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/") | Hugging Face |
 
 #### Inference-Parameter
 
@@ -103,21 +112,73 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 |----------------|:---------:|---------------------------------------------------|
 | Sampler        | Euler     |                                                   |
 | Scheduler      | default   |                                                   |
-| Steps          | 20        |                                                   |
+| Steps          | 20        | nativ bis 40                                      |
 | CFG Scale      | 6.0       |                                                   |
-| Auflösung      | 1024×1024 |                                                   |
-| Negativ-Prompt |           | leer lassen                                       |
-
+| Auflösung      | 2048×2048 |                                                   |
+| Negativ-Prompt | –         | leer lassen                                       |
 
 Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt. Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/")
+
+Diese _Open Weights_ haben besondere Eigenschaften, welche auf der Website näher vorgestellt werden.
+
+Qwen Image 2.1-Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
 
 ![Screenshot](img/Image-Gen-Qwen-Image-2.1.png "Beispiel-Konfiguration: Qwen Image 2.1")
 
 *Beispiel-Konfiguration mit optionalem Upscaler.*
 
-Diese _Open Weights_ haben besondere Eigenschaften, welche auf der Website näher vorgestellt werden.
+#### Empfohlene Auflösungen ####
 
-Qwen Image 2.1-Website: [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1)
+Qwen-Image-2.1 unterstützt von Haus aus eine Auflösung von 2K.
+
+| Serienverhältnis | Pixel     |
+|:----------------:|:---------:|
+| 1:1              | 2048×2048 |
+| 4:3              | 2400×1792 |
+| 3:4              | 1792×2400 |
+| 3:2              | 2528×1696 |
+| 2:3              | 1696×2528 |
+| 16:9             | 2752×1536 |
+| 9:16             | 1536×2752 |
+
+#### Prompting ####
+
+Am besten **als klare Beschreibung des fertigen Bildes** – vom Hauptmotiv über Szene und Anordnung bis zu Licht und Stil. Nicht nur Schlagwörter aneinanderreihen: Je genauer du wichtige Entscheidungen festlegst, desto weniger muss das Modell selbst erraten.
+
+**Praktische Reihenfolge:**
+
+1. **Motiv und Zweck:** Was soll zu sehen sein – etwa ein Produktfoto, Porträt oder Filmplakat?
+2. **Wichtige Merkmale:** Aussehen, Kleidung, Material, Farben und Anzahl.
+3. **Anordnung:** Was ist vorn, hinten, links, rechts oder im Zentrum? Beschreibe den Bildaufbau am besten in einer nachvollziehbaren Reihenfolge.
+4. **Licht und Stimmung:** Zum Beispiel weiches Morgenlicht, harte Schatten oder neblige Dämmerung.
+5. **Stil und Kamera:** Etwa fotorealistisch, Aquarell, Nahaufnahme oder Draufsicht.
+6. **Text im Bild:** Den gewünschten Wortlaut exakt in Anführungszeichen setzen und Größe sowie Position beschreiben.
+7. **Unerwünschtes:** Bei Bedarf knapp nennen, was nicht erscheinen soll.
+
+**Vorlage für ein neues Bild:**
+
+```text
+Ein [Stil/Medium] von [Hauptmotiv] in [Umgebung]. [Merkmale des Motivs]. 
+[Anordnung im Bild: Vordergrund, Hintergrund, links/rechts/zentriert]. 
+[Beleuchtung und Stimmung]. [Farben, Perspektive und Bildausschnitt]. 
+[Optional: exakter Text im Bild und seine Position]. [Wichtige Dinge, die fehlen sollen].
+```
+
+*Dieser Text soll zum Verständnis beitragen.* Qwen Image 2.1 *ist auf englische sowie chinesische Prompts trainiert.*
+
+**Beispiel:**
+
+```text
+Fotorealistisches Produktfoto einer dunkelgrünen Keramiktasse auf einem hellen Eichentisch.
+Die Tasse steht mittig im Bild; rechts liegt ein geschlossenes cremefarbenes Buch, im Hintergrund ist ein unscharfes Fenster zu sehen.
+Weiches Morgenlicht fällt von links ein und erzeugt einen sanften Schatten nach rechts.
+Ruhige, warme Farben, leicht erhöhte Kameraperspektive, klare Glasurdetails.
+Kein Text und keine weiteren Gegenstände.
+```
+
+*Dieser Text soll zum Verständnis beitragen.* Qwen Image 2.1 *ist auf englische sowie chinesische Prompts trainiert.*
+
+Bei **Bildbearbeitung** trenne deutlich, was sich ändern soll und was erhalten bleiben muss: „Ersetze den Hintergrund durch …; Gesicht, Pose, Kleidung und Bildausschnitt unverändert lassen.“
 
 #### Bildbearbeitung ####
 
