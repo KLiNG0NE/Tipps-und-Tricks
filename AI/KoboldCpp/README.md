@@ -225,6 +225,17 @@ Damit diese Werte beachtet werden, sollten sie in das Feld ``Extra Fields`` im J
 
 Bei fehlenden Sigmas-Werten wird das Bild in falschen Farben (schwarzweiß) generiert.
 
+#### Inference-Parameter
+
+| Parameter      | Wert      | Hinweise        |
+|----------------|:---------:|-----------------|
+| Sampler        | Euler     |                 |
+| Scheduler      | simple    |                 |
+| Steps          | 8         | fest vorgegeben |
+| CFG Scale      | 1         | fest vorgegeben |
+| Auflösung      | 2048×2048 | 2K              |
+| Negativ-Prompt | –         | leer lassen     |
+
 ---
 
 ### Z-Image (Base)
