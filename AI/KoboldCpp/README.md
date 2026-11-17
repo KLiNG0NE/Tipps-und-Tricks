@@ -208,6 +208,19 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 *Qwen Image 2.1 Turbo* ist eine geschwindigkeitsoptimierte Variante von *Qwen Image 2.1*. Bis auf das Model wird die Inferenz identisch zum Basis-Model konfiguriert.
 
+|                        |                                                                                                                                      | Hinweise     |
+|------------------------|:------------------------------------------------------------------------------------------------------------------------------------:|:------------:|
+| Website                | [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1 "https://qwen.ai")                                                                  |              |
+| Anbieter               | Qwen Research (Alibaba Cloud)                                                                                                        | China        |
+| Parameter              | 7 Milliarden<br>32 Single-Stream-DiT-Schichten                                                                                       |              |
+| Lizenz                 | [Qwen Research License Agreement](https://github.com/QwenLM/Qwen-Image-2.1/blob/main/LICENSE "(https://github.com")                  | Open Weight  |
+| Datum                  | 2026-10-09                                                                                                                           |              |
+| GitHub                 | [github.com/QwenLM](https://github.com/QwenLM/Qwen-Image-2.1 "https://github.com")                                                   |              |
+| Hugging Face           | [huggingface.co/Qwen](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo "https://huggingface.co")                                     |              |
+| Weights (Atomic Chat)  | [Qwen-Image-2.1-Turbo-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-GGUF/tree/main "https://huggingface.co")          | 2,55–14,2 GB |
+| Weights (Ahmet Benzer) | [Qwen-Image-2.1-Turbo-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized/tree/main "https://huggingface.co") | 2,55–7,69 GB |
+| Template               |  |  |
+
 #### Unterschiede ####
 
 Dieses Open-Weight nutzt ausschließlich ``8 Steps`` (Schritte) zur Bildgenerierung. Der *Guidance-Wert* (CFG) ist fest auf ``1`` eingestellt. Andere CFG-Werte erzeugen unscharfe Bilder. Als Sampler kommt ``Euler`` zum Einsatz und der Scheduler ist ``simple``.   
