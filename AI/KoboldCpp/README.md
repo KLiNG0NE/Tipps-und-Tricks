@@ -206,7 +206,7 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 ### Qwen Image 2.1 Turbo ###
 
-*Qwen Image 2.1 Turbo* ist eine geschwindigkeitsoptimierte Variante von *Qwen Image 2.1*. Bis auf das Model wird die Inferenz identisch zum Basis-Model konfiguriert.
+*Qwen Image 2.1 Turbo* ist eine beschleunigte Version von *Qwen Image 2.1*. Bis auf das Model wird die Inferenz mit der gleichen Pipeline geladen. Daher kann das gleiche Template genutzt werden; es wird nur das Model gegen die Turbo-Variante getauscht.
 
 |                        |                                                                                                                                      | Hinweise     |
 |------------------------|:------------------------------------------------------------------------------------------------------------------------------------:|:------------:|
