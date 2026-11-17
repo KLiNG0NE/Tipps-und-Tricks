@@ -210,12 +210,12 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 
 #### Unterschiede ####
 
-Dieses Open-Weight nutzt ausschließlich **8 Schritte** (Steps) zur Bildgenerierung. Der *Guidance-Wert* (CFG) ist fest auf **1** eingestellt. Andere CFG-Werte erzeugen unscharfe Bilder.  
+Dieses Open-Weight nutzt ausschließlich ``8 Steps`` (Schritte) zur Bildgenerierung. Der *Guidance-Wert* (CFG) ist fest auf ``1`` eingestellt. Andere CFG-Werte erzeugen unscharfe Bilder. Als Sampler kommt ``Euler`` zum Einsatz und der Scheduler ist ``simple``.   
 Zusätzlich nutzt dieses Model eine vorgegebene *Turbo-Sigmafolge*.
 
 Damit diese Werte beachtet werden, sollten sie in das Feld ``Extra Fields`` im JSON-Format eingetragen werden:
 
-```
+```json
 {
   "steps": 8,
   "cfg_scale": 1,
