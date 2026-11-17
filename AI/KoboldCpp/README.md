@@ -221,6 +221,12 @@ This is an RGBA image with transparency. <your description>. The image has alpha
 | Weights (Ahmet Benzer) | [Qwen-Image-2.1-Turbo-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized/tree/main "https://huggingface.co") | 2,55–7,69 GB |
 | Template               |  |  |
 
+#### Beispiel-Konfiguration ####
+
+![Screenshot](img/Image-Gen-Qwen-Image-2.1-Turbo.png "Beispiel-Konfiguration: Qwen Image 2.1 Turbo")
+
+*Beispiel-Konfiguration mit optionalem Upscaler.*
+
 #### Unterschiede ####
 
 Dieses Open-Weight nutzt ausschließlich ``8 Steps`` (Schritte) zur Bildgenerierung. Der *Guidance-Wert* (CFG) ist fest auf ``1`` eingestellt. Andere CFG-Werte erzeugen unscharfe Bilder. Als Sampler kommt ``Euler`` zum Einsatz und der Scheduler ist ``simple``.   
