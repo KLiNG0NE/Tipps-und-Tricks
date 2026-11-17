@@ -15,6 +15,7 @@
 - [Bildgenerierung](#bildgenerierung) – Text-zu-Bild, Bild-zu-Bild
   - [MOSS-Image](#moss-image)
   - [Qwen Image 2.1](#qwen-image-21)
+  - [Qwen Image 2.1 Turbo](#qwen-image-21-turbo)
   - [Z-Image (Base)](#z-image-base)
   - [Z-Image-Turbo](#z-image-turbo)
 - [Bildbearbeitung](#bildbearbeitung) – Text-zu-Bild, Bild-zu-Bild
@@ -99,10 +100,10 @@ Die Modells verstehen Anweisungen in natürlicher Sprache (Englisch und Chinesis
 Seit Version 1.123.1 wird **Qwen Image 2.1** unterstützt.
 
 |           |                                                                                                                            | Hinweise     |
-|-----------|:--------------------------------------------------------------------------------------------------------------------------:|--------------|
+|-----------|:--------------------------------------------------------------------------------------------------------------------------:|:------------:|
 | Website   | [qwen.ai](https://qwen.ai/blog?id=qwen-image-2.1 "https://qwen.ai")                                                        |              |
 | Anbieter  | Qwen Research (Alibaba Cloud)                                                                                              | China        |
-| Parameter | 7 Milliarden                                                                                                               |              |
+| Parameter | 7 Milliarden<br>32 Single-Stream-DiT-Schichten                                                                             |              |
 | Lizenz    | [Qwen Research License Agreement](https://github.com/QwenLM/Qwen-Image-2.1/blob/main/LICENSE "(https://github.com")        | Open Weight  |
 | Datum     | 2026-09-20                                                                                                                 |              |
 | GitHub    | [github.com/QwenLM](https://github.com/QwenLM/Qwen-Image-2.1 "https://github.com")                                         |              |
@@ -200,6 +201,29 @@ _Qwen Image 2.1_ unterstützt transparente Bilder. – Hier ein Beispiel-Prompt
 ```
 This is an RGBA image with transparency. <your description>. The image has alpha channel and the background is transparent.
 ```
+
+---
+
+### Qwen Image 2.1 Turbo ###
+
+*Qwen Image 2.1 Turbo* ist eine geschwindigkeitsoptimierte Variante von *Qwen Image 2.1*.
+
+#### Unterschiede ####
+
+Dieses Open-Weight nutzt ausschließlich **8 Schritte** (Steps) zur Bildgenerierung. Der *Guidance-Wert* (CFG) ist fest auf **1** eingestellt. Andere CFG-Werte erzeugen unscharfe Bilder.  
+Zusätzlich nutzt dieses Model eine vorgegebene *Turbo-Sigmafolge*.
+
+Damit diese Werte beachtet werden, sollten sie in das Feld ``Extra Fields`` im JSON-Format eingetragen werden:
+
+```
+{
+  "steps": 8,
+  "cfg_scale": 1,
+  "sigmas": [1.0, 0.978453, 0.95418, 0.926626, 0.89508, 0.845148, 0.704534, 0.414568, 0.0]
+}
+```
+
+Bei fehlenden Sigmas-Werten wird das Bild in falschen Farben (schwarzweiß) generiert.
 
 ---
 
