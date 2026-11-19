@@ -120,7 +120,7 @@ Ein einheitliches Modell zur Text-zu-Bild-Generierung und Bildbearbeitung aus de
 | Scheduler      | default   |                                                   |
 | Steps          | 20        | nativ bis 40                                      |
 | CFG Scale      | 6.0       |                                                   |
-| Auflösung      | 2048×2048 | 2K                                                |
+| Auflösung      | 2048×2048 | bis 2K, durch 32 teilbar                          |
 | Negativ-Prompt | –         | leer lassen                                       |
 
 Eine Beispiel-Konfiguration kann hier herunter geladen werden: [Qwen-Image-2.1.kcppt](https://huggingface.co/koboldcpp/kcppt/resolve/main/Qwen-Image-2.1.kcppt "https://huggingface.co/")
