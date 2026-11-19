@@ -1,3 +1,6 @@
+
+# Scheduler
+
 Ein Scheduler legt fest, **an welchen Rauschstufen die Generierung ihre Schritte macht**. Er ist etwas anderes als der Sampler: Der Sampler – bei dir etwa Euler – bestimmt, wie jeder einzelne Schritt berechnet wird. Der Scheduler allein garantiert weder mehr Details noch bessere Prompttreue; entscheidend ist, ob er zum Modell passt. <citation src="11"></citation>
 
 | Scheduler | Was er grob bewirkt | Geeignet für |
