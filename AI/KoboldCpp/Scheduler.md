@@ -25,5 +25,3 @@ Ein Scheduler legt fest, **an welchen Rauschstufen die Generierung ihre Schritte
 | `llada_image` | Spezieller Zeitplan für LLaDA-Image. | LLaDA-Image-Modelle. |
 
 Die Liste und die Modellkompatibilität stammen aus der Scheduler-Dokumentation von stable-diffusion.cpp. Dort wird auch empfohlen, den modellabhängigen Standard zu verwenden, wenn kein eigener Scheduler angegeben ist. `AYS` ist ausdrücklich für SD 1.x, SDXL und SVD vorgesehen; FLUX.2, LTX-2 und LLaDA-Image haben jeweils eigene Modellzeitpläne. <citation src="11"></citation>
-
-**Für dein Qwen Image 2.1:** Lass zunächst `default` eingestellt. Die spezialisierten Einträge wie `flux`, `flux2` und `llada_image` sind für andere Modellfamilien; bei der Turbo-Variante sollte der dafür vorgesehene Qwen-Zeitplan samt passender Schrittzahl verwendet werden, statt einen beliebigen Scheduler auszuwählen. <citation src="11"></citation>
