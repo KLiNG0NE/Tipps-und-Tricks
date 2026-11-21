@@ -20,6 +20,14 @@
 
 ## Qwen3-ASR
 
+### Qwen3-ASR-0.6B-GGUF
+
+| Entwickler | Qwen                | China                                                                                                     |              |
+|------------|---------------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| Website    | [qwen.ai](https://qwen.ai/blog?id=qwen3asr "https://qwen.ai")  |                                                                |              |
+| Model      | Qwen3-ASR-0.6B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-0.6B-GGUF) | 1,15–1,88 GB |
+| Model      | Qwen3-ASR-1.7B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-1.7B-GGUF) | 2,47–4,09 GB |
+
 - Automatic Speech Recognition (ASR)
 
 ### Unterstützte Sprachen
@@ -29,15 +37,6 @@ Chinesisch (zh), Englisch (en), Kantonesisch (yue), Arabisch (ar), Deutsch (de),
 ### Unterstützte Dialekte
 
 Anhui, Dongbei, Fujian, Gansu, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangxi, Ningxia, Shandong, Shaanxi, Shanxi, Sichuan, Tianjin, Yunnan, Zhejiang, Kantonesisch (Hongkong-Dialekt), Kantonesisch (Guangdong-Dialekt), Wu-Sprache, Minnan-Sprache.
-
-### Qwen3-ASR-0.6B-GGUF
-
-|            |                     |                                                                                                           |              |
-|------------|---------------------|-----------------------------------------------------------------------------------------------------------|--------------|
-| Entwickler | Qwen                | China                                                                                                     |              |
-| Website    | [qwen.ai](https://qwen.ai/blog?id=qwen3asr "https://qwen.ai")  |                                                                |              |
-| Model      | Qwen3-ASR-0.6B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-0.6B-GGUF) | 1,15–1,88 GB |
-| Model      | Qwen3-ASR-1.7B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-1.7B-GGUF) | 2,47–4,09 GB |
 
 ### Inference Mode
 
