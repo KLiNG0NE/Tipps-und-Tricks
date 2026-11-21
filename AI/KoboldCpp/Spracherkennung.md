@@ -16,7 +16,9 @@
 | GitHub           | [github.com/openai](https://github.com/openai/whisper "https://github.com")                             |             |
 | Model            | [huggingface.co/koboldcpp](https://huggingface.co/koboldcpp/whisper/tree/main "https://huggingface.co") | 32,2–190 MB |
 
-> Modelle mit .en im Namen sind englisch-only und daher nicht geeignet.
+> Modelle mit .en im Namen sind englisch-only und daher für deutsche Sprache nicht geeignet.
+
+---
 
 ## Qwen3-ASR
 
