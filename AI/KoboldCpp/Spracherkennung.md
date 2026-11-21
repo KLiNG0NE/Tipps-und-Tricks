@@ -22,8 +22,9 @@
 
 - Automatic Speech Recognition (ASR)
 
-### Qwen3-ASR-0.6B
+### Qwen3-ASR-0.6B-GGUF
 
-|            |       |        |
-|------------|-------|--------|
-| Entwickler | Qwen  | China  |
+|            |                                                                                                           |              |
+|------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| Entwickler | Qwen                                                                                                      | China        |
+| Model      | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-0.6B-GGUF) | 1,15–1,88 GB |
