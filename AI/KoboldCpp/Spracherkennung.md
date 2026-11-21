@@ -30,7 +30,8 @@ Die Qwen3-ASR-Familie umfasst zwei leistungsstarke All-in-One-Spracherkennungsmo
 
 | Entwickler | Qwen                | Alibaba Cloud                                                                                             | China        |
 |------------|---------------------|-----------------------------------------------------------------------------------------------------------|--------------|
-| Website    | [qwen.ai](https://qwen.ai/blog?id=qwen3asr "https://qwen.ai")  |                                                                |              |
+| Website    | qwen.ai/blog        | [qwen.ai](https://qwen.ai/blog?id=qwen3asr "https://qwen.ai")                                             |              |
+| Lizenz     | Apache-2.0-Lizenz   |                                                                                                           |              |
 | Model      | Qwen3-ASR-0.6B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-0.6B-GGUF) | 1,15–1,88 GB |
 | Model      | Qwen3-ASR-1.7B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-1.7B-GGUF) | 2,47–4,09 GB |
 
