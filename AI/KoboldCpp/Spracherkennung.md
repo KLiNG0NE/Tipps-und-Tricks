@@ -30,8 +30,9 @@ Die Qwen3-ASR-Familie umfasst zwei leistungsstarke All-in-One-Spracherkennungsmo
 
 ### Qwen3-ASR-GGUF
 
-| Entwickler | Qwen                | Alibaba Cloud                                                                                             | China        |
+|            |                     |                                                                                                           |              |
 |------------|---------------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| Entwickler | Qwen                | Alibaba Cloud                                                                                             | China        |
 | Website    | qwen.ai/blog        | [qwen.ai](https://qwen.ai/blog?id=qwen3asr "https://qwen.ai")                                             |              |
 | Veröffentlichung | 2026-01-28    |                                                                                                           |              |
 | Lizenz     | Apache-2.0-Lizenz   |                                                                                                           |              |
