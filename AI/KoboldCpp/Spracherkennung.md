@@ -1,7 +1,7 @@
 
 # Spracherkennung
 
-## Whisper multilingual
+## Whisper
 
 - Deep-Learning-Akustikmodell
 - Encoder-Decoder-Transformer-Architektur
@@ -17,3 +17,11 @@
 | Model            | [huggingface.co/koboldcpp](https://huggingface.co/koboldcpp/whisper/tree/main "https://huggingface.co") | 32,2–190 MB |
 
 > Modelle mit .en im Namen sind englisch-only und daher nicht geeignet.
+
+## Qwen3-ASR
+
+### Qwen3-ASR-0.6B
+
+|            |       |        |
+|------------|-------|--------|
+| Entwickler | Qwen  | China  |
