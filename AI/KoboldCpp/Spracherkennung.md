@@ -22,6 +22,14 @@
 
 - Automatic Speech Recognition (ASR)
 
+### Unterstützte Sprachen
+
+Chinesisch (zh), Englisch (en), Kantonesisch (yue), Arabisch (ar), Deutsch (de), Französisch (fr), Spanisch (es), Portugiesisch (pt), Indonesisch (id), Italienisch (it), Koreanisch (ko), Russisch (ru), Thailändisch (th), Vietnamesisch (vi), Japanisch (ja), Türkisch (tr), Hindi (hi), Malaiisch (ms), Niederländisch (nl), Schwedisch (sv), Dänisch (da), Finnisch (fi), Polnisch (pl), Tschechisch (cs), Philippinisch (fil), Persisch (fa), Griechisch (el), Ungarisch (hu), Mazedonisch (mk), Rumänisch (ro)
+
+### Unterstützte Dialekte
+
+Anhui, Dongbei, Fujian, Gansu, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangxi, Ningxia, Shandong, Shaanxi, Shanxi, Sichuan, Tianjin, Yunnan, Zhejiang, Kantonesisch (Hongkong-Dialekt), Kantonesisch (Guangdong-Dialekt), Wu-Sprache, Minnan-Sprache.
+
 ### Qwen3-ASR-0.6B-GGUF
 
 |            |                     |                                                                                                           |              |
