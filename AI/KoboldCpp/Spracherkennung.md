@@ -20,6 +20,8 @@
 
 ## Qwen3-ASR
 
+- Automatic Speech Recognition (ASR)
+
 ### Qwen3-ASR-0.6B
 
 |            |       |        |
