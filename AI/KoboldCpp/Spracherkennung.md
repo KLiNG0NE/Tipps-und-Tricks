@@ -37,3 +37,25 @@ Anhui, Dongbei, Fujian, Gansu, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangxi, Nin
 | Entwickler | Qwen                | China                                                                                                     |              |
 | Model      | Qwen3-ASR-0.6B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-0.6B-GGUF) | 1,15–1,88 GB |
 | Model      | Qwen3-ASR-1.7B-GGUF | [huggingface.co/audio-cpp](https://huggingface.co/audio-cpp/audio.cpp-gguf/tree/main/Qwen3-ASR-1.7B-GGUF) | 2,47–4,09 GB |
+
+### Inference Mode
+
+Offline / Streaming
+
+### Audio Types
+
+Speech, Singing Voice, Songs with BGM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
