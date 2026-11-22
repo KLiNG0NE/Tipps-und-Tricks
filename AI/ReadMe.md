@@ -65,17 +65,19 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
   Engine, um GGML- und GGUF-Models zu betreiben, viele Features.
 * [Unsloth](https://unsloth.ai/)  
   LLMs, Diffusionsmodelle für Bilder und Videos, MLX-, GGUF- und Audiomodelle ausführen, trainieren und bereitstellen.
+* [Jan](https://www.jan.ai/ "https://www.jan.ai")  
+  Lokale KI
+
   
 ---
 
 ## Agents/Harness ##
 
-- [DeepSeek Harness](https://deepseek.com/harness/en/)
-- [OpenCode](https://opencode.ai/de)
-- [Cline](https://cline.bot/)
-- [smolcoder](https://smolcoder.dev/)
-- [Pi Coding Agent](https://pi.dev/)
-
+- [DeepSeek Harness](https://deepseek.com/harness/en/ "https://deepseek.com")
+- [OpenCode](https://opencode.ai/de "https://opencode.ai")
+- [Cline](https://cline.bot/ "https://cline.bot")
+- [smolcoder](https://smolcoder.dev/ "https://smolcoder.dev")
+- [Pi Coding Agent](https://pi.dev/ "https://pi.dev")
 ---
 
 ## Models
