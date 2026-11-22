@@ -20,6 +20,8 @@
   Offener Standard, der dafür sorgt, dass Sprachmodelle auf einheitliche Weise auf externe Tools, Daten und Dienste zugreifen können
 - **MoE** – Mixture of Experts (engl.) (zu deutsch Expertenmischung)  
   Architektur für große KI-Modelle, bei der viele spezialisierte Teilnetze existieren, aber für jede Eingabe nur wenige davon tatsächlich aktiviert werden.
+- **NCM** - Next-Concept Modeling  
+  Eine Methode, mit der KI Texte Schritt für Schritt vom groben Inhalt bis zu den genauen Formulierungen erzeugt. Statt Wort für Wort zu schreiben, sagt sie mehrere Textbausteine gleichzeitig voraus und fügt nach und nach mehr Details hinzu.
 - **Prompt** (engl.) – (zu deutsch u. a. Anweisung)  
   Der Prompt fungiert bei generativen KI-Modellen als zentrale Handlungsaufforderung, die festlegt, was das Modell erstellen soll.
 - **Quantisierung** –  
