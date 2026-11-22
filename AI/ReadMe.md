@@ -78,6 +78,8 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 - [Cline](https://cline.bot/ "https://cline.bot")
 - [smolcoder](https://smolcoder.dev/ "https://smolcoder.dev")
 - [Pi Coding Agent](https://pi.dev/ "https://pi.dev")
+- [OpenClaw](https://openclaw.ai/)
+
 ---
 
 ## Models
