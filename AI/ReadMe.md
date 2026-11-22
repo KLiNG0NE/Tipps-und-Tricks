@@ -100,6 +100,8 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 - Quillbot: [quillbot.com](https://quillbot.com/de/ "https://quillbot.com") – Learneo, Inc.(USA)
 - DuckDuckGo AI: [duck.ai](https://duck.ai/ "https://duck.ai") – Duck Duck Go, Inc. (USA); Modelle von OpenAI und Anthropic
 - Claude: [claude.ai](https://claude.ai/ "https://claude.ai") – Anthropic PBC (USA), (Anmeldung erforderlich)
+- AI Horde: [aihorde.net](https://aihorde.net/) – Wird von Freiwilligen angeboten.
+- Kobold Lite: [lite.koboldai.net](https://lite.koboldai.net/) – Basiert auf AI Horde.
 
 ---
 
