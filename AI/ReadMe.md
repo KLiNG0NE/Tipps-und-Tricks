@@ -51,7 +51,7 @@ Die richtige Anfrage (Prompt) an den Chatbot ist die Voraussetzung für eine pr�
 
 ### Wie verhindere ich, dass mir der Chatbot stets Recht gibt?
 
-Füge folgenden Satz als erstes ** v o r ** der eigentlichen Frage ein:
+Füge folgenden Satz als erstes  **v o r**  der eigentlichen Frage ein:
 
 ```
 Widersprich mir, wenn ich falsch liege, und bleib bei deiner Antwort, wenn ich kein neues Argument bringe.
@@ -124,6 +124,7 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [AI](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/AI/)
+
 
 
 
