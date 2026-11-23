@@ -239,6 +239,7 @@ Damit diese Werte beachtet werden, sollten sie in das Feld ``Extra Fields`` im J
 {
   "steps": 8,
   "cfg_scale": 1,
+  "negative_prompt": "",
   "sigmas": [1.0, 0.978453, 0.95418, 0.926626, 0.89508, 0.845148, 0.704534, 0.414568, 0.0]
 }
 ```
