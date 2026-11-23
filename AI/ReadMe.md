@@ -43,6 +43,23 @@ Lokale Modelle wissen nur das, was zum Zeitpunkt ihres Trainings bekannt war. Si
 5. **Ressourcenverbrauch:**  
 Läuft die KI auf dem Laptop, entleert sich der Akku sehr schnell, und das Gerät wird heiß und laut (Lüfter).
 
+---
+
+## Tipps für das Prompten
+
+Die richtige Anfrage (Prompt) an den Chatbot ist die Voraussetzung für eine präzise Antwort.
+
+### Wie verhindere ich, dass mir der Chatbot stets Recht gibt?
+
+Füge folgenden Satz als erstes **vor** der eigentlichen Frage ein:
+
+```
+Widersprich mir, wenn ich falsch liege, und bleib bei deiner Antwort, wenn ich kein neues Argument bringe.
+
+```
+
+---
+
 ## Freeware (lokale KI)
 
 Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI zu finden.
@@ -68,7 +85,6 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 * [Jan](https://www.jan.ai/ "https://www.jan.ai")  
   Lokale KI
 
-  
 ---
 
 ## Agents/Harness ##
@@ -108,6 +124,7 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [AI](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/AI/)
+
 
 
 
