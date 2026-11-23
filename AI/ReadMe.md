@@ -45,7 +45,7 @@ Läuft die KI auf dem Laptop, entleert sich der Akku sehr schnell, und das Gerä
 
 ---
 
-## Tipps für das Prompten
+## Tipps für die Nutzung eines Chatbots
 
 Die richtige Anfrage (Prompt) an den Chatbot ist die Voraussetzung für eine präzise Antwort.
 
@@ -124,6 +124,7 @@ Mit diesen Programmen ist es besonders einfach, den Einstig in die Welt der AI z
 ---
 
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [AI](https://github.com/KLiNG0NE/Tipps-und-Tricks/blob/main/AI/)
+
 
 
 
