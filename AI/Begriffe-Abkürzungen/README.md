@@ -8,7 +8,7 @@
   Zu Deutsch etwa „kontrastives Vorab-Training von Sprache und Bildern“. – Ein KI-Modell, das Bilder und Text so verbindet, dass es bewerten kann, wie gut eine Beschreibung zu einem Bild passt.
 - **DiT** – Diffusion Transformer (engl.)  
   Architektur, die Diffusionsmodelle mit Transformer-Netzwerken kombiniert
-- **GGUF** – (GGML Universal File) (engl.)  
+- **GGUF** – (GGML Universal File; GPT-Generated Unified Format) (engl.)  
   Binäres Dateiformat, das sowohl Tensoren als auch Metadaten in einer einzigen Datei speichert und für das schnelle Speichern und Laden von Modelldaten konzipiert ist.
 - **Inferenz** –  
   KI-Inferenz bedeutet, dass ein trainiertes Modell die aus seinen Trainingsdaten gelernten Muster anwendet, um die korrekte Ausgabe für eine gegebene Eingabe abzuleiten.
