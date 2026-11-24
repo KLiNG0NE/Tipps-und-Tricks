@@ -27,6 +27,7 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 - [RPCS3](https://rpcs3.net/) – PlayStation 3
 - [PCSX2](https://pcsx2.net/) – PlayStation 2
 - [SUPER ZNES](https://www.zsnes.com/) – Super Nintendo Entertainment System
+- [shadPS4](https://shadps4.net/) – PlayStation 4
 
 ---
 
