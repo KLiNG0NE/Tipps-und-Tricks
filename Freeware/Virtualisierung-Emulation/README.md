@@ -24,6 +24,7 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 ## Spielekonsolen ##
 
 - [Dolphin Emulator](https://de.dolphin-emu.org/) – Wii, Gamecube
+- [RPCS3](https://rpcs3.net/) – PlayStation 3
 
 ---
 
