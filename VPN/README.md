@@ -8,8 +8,8 @@ Folgende Anbieter stellen kostenloses VPN ohne Daten-Volumenbeschränkung zur Ve
 
 | Name       | Website                                                                        | Hinweise                          |
 | ---------- | ------------------------------------------------------------------------------ | --------------------------------- |
-| PrivadoVPN | [privadovpn.com](https://privadovpn.com/de/freevpn/) | Datenvolumen 10 GB/Mon., keine Geschwindigkeitsbegrenzung, 13 Standorte |
-| ProtonVPN  | [protonvpn.com](https://protonvpn.com/) (engl.)                                | zufällig 10 Länder, 1 Verbindung  |
+| PrivadoVPN | [privadovpn.com](https://privadovpn.com/de/freevpn/)                           | Datenvolumen 10 GB/Mon., keine Geschwindigkeitsbegrenzung, 13 Standorte |
+| ProtonVPN  | [protonvpn.com](https://protonvpn.com/de "https://protonvpn.com")              | zufällig 10 Länder, 1 Verbindung, kein Streaming  |
 | RiseupVPN  | [riseup.net](https://riseup.net/de/vpn "https://riseup.net")                   | 6 Länder, Eigener Client, OpenVPN |
 | UrbanVPN   | [www.urban-vpn.com](https://www.urban-vpn.com/de/ "https://www.urban-vpn.com") | Eigener Client, P2P               |
 | VPNBook    | [www.vpnbook.com](https://www.vpnbook.com/ "https://www.vpnbook.com") (engl.)  | OpenVPN, PPTP, Outline VPN        |
