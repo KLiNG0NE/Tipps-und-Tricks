@@ -26,6 +26,7 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 - [Dolphin Emulator](https://de.dolphin-emu.org/) – Wii, Gamecube
 - [RPCS3](https://rpcs3.net/) – PlayStation 3
 - [PCSX2](https://pcsx2.net/) – PlayStation 2
+- [SUPER ZNES](https://www.zsnes.com/) – Super Nintendo Entertainment System
 
 ---
 
