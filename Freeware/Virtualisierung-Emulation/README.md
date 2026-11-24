@@ -21,4 +21,10 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 
 ---
 
+## Spielekonsolen ##
+
+- [Dolphin Emulator](https://de.dolphin-emu.org/) – Wii, Gamecube
+
+---
+
 [KLiNG0NE](https://github.com/KLiNG0NE/) / [Tipps-und-Tricks](https://github.com/KLiNG0NE/Tipps-und-Tricks/) / [Freeware](https://github.com/KLiNG0NE/Tipps-und-Tricks/tree/main/Freeware)
