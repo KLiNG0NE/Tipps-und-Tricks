@@ -28,6 +28,7 @@ TIPPS UND TRICKS FÜR COMPUTER UND INTERNET
 - [PCSX2](https://pcsx2.net/) – PlayStation 2
 - [SUPER ZNES](https://www.zsnes.com/) – Super Nintendo Entertainment System
 - [shadPS4](https://shadps4.net/) – PlayStation 4
+- [Xenia Canary](https://github.com/xenia-canary/xenia-canary) – Xbox 360
 
 ---
 
