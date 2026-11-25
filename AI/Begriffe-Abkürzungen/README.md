@@ -4,7 +4,7 @@
 
 - **AI** – Artificial intelligence (engl.)  
   Künstliche Intelligenz (KI)
-- **CFG** – Classifier Free Guidance  
+- **CFG** – Classifier Free Guidance (engl.)  
   Gibt an, wie stark der Prompt beachtet werden soll. Niedriger Wert = wenig Beachtung; hoher Wert = hohe Beachtung
 - **CLIP** – Contrastive Language–Image Pre-training (engl.)  
   Zu Deutsch etwa „kontrastives Vorab-Training von Sprache und Bildern“. – Ein KI-Modell, das Bilder und Text so verbindet, dass es bewerten kann, wie gut eine Beschreibung zu einem Bild passt.
