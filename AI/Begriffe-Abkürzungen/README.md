@@ -26,8 +26,10 @@
   Eine Methode, mit der KI Texte Schritt für Schritt vom groben Inhalt bis zu den genauen Formulierungen erzeugt. Statt Wort für Wort zu schreiben, sagt sie mehrere Textbausteine gleichzeitig voraus und fügt nach und nach mehr Details hinzu.
 - **Prompt** (engl.) – (zu deutsch u. a. Anweisung)  
   Der Prompt fungiert bei generativen KI-Modellen als zentrale Handlungsaufforderung, die festlegt, was das Modell erstellen soll.
-- **Quantisierung** –  
+- **Quantisierung** –
   Bei KI-Modellen werden die Zahlenwerte des Modells, vor allem seine Gewichte und teils die Aktivierungen, mit weniger Bits gespeichert und gerechnet.
+- **RAG** – Retrieval-Augmented Generation (engl.)  
+  bedeutet, dass eine KI passende Informationen aus Quellen abruft und sie nutzt, um eine bessere Antwort zu erstellen.
 - **Seed** (engl.) – (zu deutsch Saat oder [pflanzlicher] Samen)  
   Startwert für einen Pseudozufallszahlenalgorithmus
 - **TTS** – Text-to-Speach (engl.) (zu deutsch Text-zu-Sprache)  
