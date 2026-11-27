@@ -13,6 +13,7 @@ Folgende Anbieter stellen kostenloses VPN zur Verfügung:
 | RiseupVPN  | [riseup.net](https://riseup.net/de/vpn "https://riseup.net")                    | 6 Länder, Eigener Client, OpenVPN |
 | UrbanVPN   | [www.urban-vpn.com](https://www.urban-vpn.com/de/ "https://www.urban-vpn.com")  | Eigener Client, P2P               |
 | VPNBook    | [www.vpnbook.com](https://www.vpnbook.com/de "https://www.vpnbook.com")         | OpenVPN, PPTP, Outline VPN        |
+| Windscribe | [windscribe.com](https://windscribe.com/de/features/use-for-free "https://windscribe.com") | 10 GB/Monat (2 GB ohne E-Mail), 10 Länder |
 
 ---
 
